@@ -1,3 +1,3 @@
-## Main Page
+## Homepage
 
 lorem ipsum
