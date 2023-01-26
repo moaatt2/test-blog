@@ -1,3 +1,5 @@
+<font size=1> posted: 2023-01-25 </font>
+
 ## Chainmail Cube
 
 ### Overview
