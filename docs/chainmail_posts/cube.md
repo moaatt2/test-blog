@@ -14,12 +14,12 @@ Below are some images of the completed cube:
 
 #### Top View:
 
-<img src="https://moaatt2.github.io/test-blog/assets/images/chainmail/cube/box_top_view.jpg" />
+<img src="https://moaatt2.github.io/test-blog/assets/images/chainmail/cube/box_top_view.jpg" width="500"/>
 
 #### Side View:
 
-<img src="https://moaatt2.github.io/test-blog/assets/images/chainmail/cube/box_side_view.jpg" />
+<img src="https://moaatt2.github.io/test-blog/assets/images/chainmail/cube/box_side_view.jpg" width="500"/>
 
 #### Isometric View:
 
-<img src="https://moaatt2.github.io/test-blog/assets/images/chainmail/cube/box_isometric_view.jpg" />
+<img src="https://moaatt2.github.io/test-blog/assets/images/chainmail/cube/box_isometric_view.jpg" width="500"/>
