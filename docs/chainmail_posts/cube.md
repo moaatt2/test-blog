@@ -4,8 +4,10 @@ Recently I found a wonderful [tutorial](https://www.mailleartisans.org/articles/
 
 The rings used for this peice are 14 SWG with a 1/4" internal diameter made of Bright Aluminum that I bought from the Ring Lord.
 
+### Pictures
+
 Below are some images of the completed cube:
 
-Top View:
+#### Top View:
 
-![Top View](/test-blog/docs/assets/images/chainmail/cube/box_top_view.jpg)
+![Top View](/test-blog/assets/images/chainmail/cube/box_top_view.jpg)
