@@ -1,6 +1,4 @@
 ## Adventures in Starting a Blog - 2
-<sup> posted: 2023-01-25</sup>
-
 <font size=1> posted: 2023-01-25 </font>
 
 ### Finding motivation
