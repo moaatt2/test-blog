@@ -4,7 +4,7 @@
 
 #### Chainmail:
 
-* [Box Chain](chainmail_posts/box_chain.md)
+* [Cube](chainmail_posts/cube.md)
 
 
 #### Adventures in Starting a Blog:
