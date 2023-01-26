@@ -6,7 +6,17 @@ Recently I found a wonderful [tutorial](https://www.mailleartisans.org/articles/
 
 ### Materials
 
-The rings used for this peice are 14 SWG with a 1/4" internal diameter made of Bright Aluminum that I bought from the [Ring Lord](https://theringlord.com/).
+The rings used for this peice are 14 SWG with a 5/16" internal diameter for an aspect ratio of 4.0 made of Bright Aluminum that I bought from the [Ring Lord](https://theringlord.com/).
+
+### Notes
+
+The first layer started out very loose; though once the first interstial layer was put in place the peice started taking shape.
+
+Once the second layer was started some of the rings started being difficult to add. I found that trying to add them such you are guiding the new ring to be on top of any ring already in a position helped quite a lot. Additionally if you are using machine cut rings using the pointed edge also helped wedge the wire into postion as well.
+
+Overall the final product maintains its shape fairly well, though there is still some slack.
+
+This weave is known to serve very well for creating the sturucture of larger projects. Though as a small cube is also makes a good fidget toy/paperweight.
 
 ### Pictures
 
