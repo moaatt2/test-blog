@@ -5,6 +5,7 @@
 #### Chainmail:
 
 * [Cube](chainmail_posts/cube.md)
+* [Byzantine](chainmail_posts/Byzantine.md)
 
 
 #### Adventures in Starting a Blog:
