@@ -36,64 +36,32 @@ However, my overall feeling is that this is a pretty neat and novel chainmail it
 
 1. Set aside open/closed rings for the starting 2-2-2-2-2 chain segments.
 
-<img src="../assets/images/chainmail/byzantine_diamond_ball/step_1.jpg" width="500">
+<img src="../assets/images/chainmail/byzantine_diamond_ball/step_1.jpg" width="250">
 
 2. Open/closed rings for adding addtional 2-2 section to middle of the 2-2-2-2-2 chain segments to create four basic units and the current 2-2-2-2-2 chain segments.
 
-<img src="../assets/images/chainmail/byzantine_diamond_ball/step_2.jpg" width="500">
+<img src="../assets/images/chainmail/byzantine_diamond_ball/step_2.jpg" width="250">
 
 3. The four basic units and the opened rings that will be used to join them[]
 
-<img src="../assets/images/chainmail/byzantine_diamond_ball/step_3.jpg" width="500">
+<img src="../assets/images/chainmail/byzantine_diamond_ball/step_3.jpg" width="250">
 
 4. Joining the first two units.
 
-<img src="../assets/images/chainmail/byzantine_diamond_ball/step_4.jpg" width="500">
+<img src="../assets/images/chainmail/byzantine_diamond_ball/step_4.jpg" width="250">
 
 5. Adding a third unit.
 
-<img src="../assets/images/chainmail/byzantine_diamond_ball/step_5.jpg" width="500">
+<img src="../assets/images/chainmail/byzantine_diamond_ball/step_5.jpg" width="250">
 
 6. Joining the fourth unit.
 
-<img src="../assets/images/chainmail/byzantine_diamond_ball/step_6.jpg" width="500">
+<img src="../assets/images/chainmail/byzantine_diamond_ball/step_6.jpg" width="250">
 
 7. Joining the fourth unit to create a diamond.
 
-<img src="../assets/images/chainmail/byzantine_diamond_ball/step_7.jpg" width="500">
+<img src="../assets/images/chainmail/byzantine_diamond_ball/step_7.jpg" width="250">
 
 8. Joining the last two open connectors to get the final product.
 
-<img src="../assets/images/chainmail/byzantine_diamond_ball/final_isometric.jpg" width="500">
-
-
---- 
-
-7. Joining the fourth unit to create a diamond.
-
-<img src="../assets/images/chainmail/byzantine_diamond_ball/step_7.jpg" width="500">
-
-8. Joining the last two open connectors to get the final product.
-
-<img src="../assets/images/chainmail/byzantine_diamond_ball/final_isometric.jpg" width="500">
-
----
-
-|<img src="../assets/images/chainmail/byzantine_diamond_ball/step_7.jpg" width="250">|
-|:--:|
-|*Joining the fourth unit to create a diamond.*|
-
-|<img src="../assets/images/chainmail/byzantine_diamond_ball/final_isometric.jpg" width="250">|
-|:--:|
-|*Joining the last two open connectors to get the final product.*|
-
----
-
-
-
-|<img src="../assets/images/chainmail/byzantine_diamond_ball/step_7.jpg" width="250">|<img src="../assets/images/chainmail/byzantine_diamond_ball/final_isometric.jpg" width="250">|
-|:--:|:--:|
-|*Joining the fourth unit to create a diamond.*|*Joining the last two open connectors to get the final product.*|
-
-
-
+<img src="../assets/images/chainmail/byzantine_diamond_ball/final_isometric.jpg" width="250">
