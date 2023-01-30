@@ -8,6 +8,7 @@
 * [Byzantine](chainmail_posts/byzantine.md)
 * [B<sup>3</sup>](chainmail_posts/b_3.md)
 * [B<sup>3</sup> Web](chainmail_posts/b_3_web.md)
+* [Byzantine Diamond Ball](chainmail_posts/byzantine_diamond_ball.md)
 
 
 #### Adventures in Starting a Blog:
