@@ -65,3 +65,35 @@ However, my overall feeling is that this is a pretty neat and novel chainmail it
 8. Joining the last two open connectors to get the final product.
 
 <img src="../assets/images/chainmail/byzantine_diamond_ball/final_isometric.jpg" width="500">
+
+
+--- 
+
+7. Joining the fourth unit to create a diamond.
+
+<img src="../assets/images/chainmail/byzantine_diamond_ball/step_7.jpg" width="500">
+
+8. Joining the last two open connectors to get the final product.
+
+<img src="../assets/images/chainmail/byzantine_diamond_ball/final_isometric.jpg" width="500">
+
+---
+
+|<img src="../assets/images/chainmail/byzantine_diamond_ball/step_7.jpg" width="250">|
+|:--:|
+|*Joining the fourth unit to create a diamond.*|
+
+|<img src="../assets/images/chainmail/byzantine_diamond_ball/final_isometric.jpg" width="250">|
+|:--:|
+|*Joining the last two open connectors to get the final product.*|
+
+---
+
+
+
+|<img src="../assets/images/chainmail/byzantine_diamond_ball/step_7.jpg" width="250">|<img src="../assets/images/chainmail/byzantine_diamond_ball/final_isometric.jpg" width="250">|
+|:--:|:--:|
+|*Joining the fourth unit to create a diamond.*|*Joining the last two open connectors to get the final product.*|
+
+
+
