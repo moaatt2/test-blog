@@ -9,6 +9,7 @@
 * [B<sup>3</sup>](chainmail_posts/b_3.md)
 * [B<sup>3</sup> Web](chainmail_posts/b_3_web.md)
 * [Byzantine Diamond Ball](chainmail_posts/byzantine_diamond_ball.md)
+* [Half Persian 3-in-1](chainmail_posts/half_persian_3_in_1.md)
 
 
 #### Adventures in Starting a Blog:
