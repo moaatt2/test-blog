@@ -14,7 +14,7 @@ I used black and blue Anodized Aluminum rings all in a in 16 SWG with a 1/4" int
 
 While the beginning can be a tiny bit tricky the weave overall is quite easy to make and extend. When using an aspect ratio of 4.03 the weave is neither too loose nor too tight. Due to how the weave is set up it is very good at having either two colors of materials contrast against each other. Overall the weave looks quite nice and is very easy to make. This makes it very good for use in jewelry and a good beginner weave to learn.
 
-### Pictures`
+### Pictures:
 
 #### Top:
 
