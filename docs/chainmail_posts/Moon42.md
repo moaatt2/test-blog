@@ -30,4 +30,6 @@ Moon42 is a moderatly challenging chainmaille weave that becomes easier to creat
 
 <img src="../assets/images/chainmail/moon42/moon42_step_01.jpg">
 
+<br>
+
 <img src="../assets/images/chainmail/moon42/moon42_step_02.jpg">
