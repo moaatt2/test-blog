@@ -12,6 +12,7 @@
 * [Half Persian 3-in-1](chainmail_posts/half_persian_3_in_1.md)
 * [European 4-in-1](chainmail_posts/european_4_in_1.md)
 * [Box Chain](chainmail_posts/box_chain.md)
+* [Moon42](chainmail_posts/moon42.md)
 
 
 #### Adventures in Starting a Blog:
