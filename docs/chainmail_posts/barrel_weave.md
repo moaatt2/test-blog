@@ -22,28 +22,28 @@ Barrel is a simple weave to make. The sample piece shown in this post is a bit l
 
 #### Vertical
 
-<img src="../assets/images/chainmail/barrel_weave/barrel_weave_vertical.jpg">
+<img src="../assets/images/chainmail/barrel_weave/barrel_weave_vertical.jpg" height="500">
 
 #### Flat
 
-<img src="../assets/images/chainmail/barrel_weave/barrel_weave_flat.jpg">
+<img src="../assets/images/chainmail/barrel_weave/barrel_weave_flat.jpg" width="500px">
 
 #### In Process
 
-<img src="../assets/images/chainmail/barrel_weave/barrel_weave_step_01.jpg">
+<img src="../assets/images/chainmail/barrel_weave/barrel_weave_step_01.jpg" width="100px">
 
 <br>
 
-<img src="../assets/images/chainmail/barrel_weave/barrel_weave_step_02.jpg">
+<img src="../assets/images/chainmail/barrel_weave/barrel_weave_step_02.jpg" width="200px">
 
 <br>
 
-<img src="../assets/images/chainmail/barrel_weave/barrel_weave_step_03.jpg">
+<img src="../assets/images/chainmail/barrel_weave/barrel_weave_step_03.jpg" width="300px">
 
 <br>
 
-<img src="../assets/images/chainmail/barrel_weave/barrel_weave_step_04.jpg">
+<img src="../assets/images/chainmail/barrel_weave/barrel_weave_step_04.jpg" width="400px">
 
 <br>
 
-<img src="../assets/images/chainmail/barrel_weave/barrel_weave_step_05.jpg">
+<img src="../assets/images/chainmail/barrel_weave/barrel_weave_step_05.jpg" width="500px">
