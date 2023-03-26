@@ -14,6 +14,7 @@
 * [Box Chain](chainmail_posts/box_chain.md)
 * [Moon42](chainmail_posts/moon42.md)
 * [Barrel](chainmail_posts/barrel_weave.md)
+* [Triton](chainmail_posts/triton.md)
 
 
 #### Adventures in Starting a Blog:
