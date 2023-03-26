@@ -14,7 +14,7 @@ The rings used for the sample piece shown in this post are 16 SWG with a 1/4" in
 
 ### Tutorial
 
-This tutorial covers how to turn Barrel unit into a Triton unit.
+This tutorial covers how to turn a Barrel unit into a Triton unit.
 
 1. Take one ring(green) and place it through the tops of both flat rings(blue) and between the vertical rings(red) of the barrel segment.
 
