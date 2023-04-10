@@ -4,7 +4,7 @@
 
 ### Overview
 
-I found a [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=42) by [Aderamelech](https://www.mailleartisans.org/members/memberdisplay.php?key=7) on [M.A.I.L.](https://www.mailleartisans.org/) that shows how to create a [Flower](https://www.mailleartisans.org/weaves/weavedisplay.php?key=25) weave. The Flower weave is a variant of the [Mobius Ball](mobius_ball.md) made by connecting pairs of Mobius Balls together with a single ring. Flower is an interesting weave that I suggest you try if you enjoy how Mobius Balls work and want to make sASomething larger using them.
+I found a [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=42) by [Aderamelech](https://www.mailleartisans.org/members/memberdisplay.php?key=7) on [M.A.I.L.](https://www.mailleartisans.org/) that shows how to create a [Flower](https://www.mailleartisans.org/weaves/weavedisplay.php?key=25) weave. The Flower weave is a variant of the [Mobius Ball](mobius_ball.md) made by connecting pairs of Mobius Balls together with a single ring. Flower is an interesting weave that I suggest you try if you enjoy how Mobius Balls work and want to make something larger using them.
 
 
 ### Materials
