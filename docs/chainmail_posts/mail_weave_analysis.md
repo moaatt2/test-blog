@@ -15,7 +15,7 @@ If you're interested, you can find the analysis and the generated dataset on thi
 
 When discussing the aspect ratio(AR) of the rings used in a weave there are a few key points to bear in mind.
 
-The first key point is that most weaves can be created using rings within their AR range. For example [Inverse Magus Chain](https://www.mailleartisans.org/weaves/weavedisplay.php?key=1199) can be created using rings with an AR from $4.0$ to $4.4$. This is recorded on M.A.I.L. by listing the **Maximum**, **Minimum**, and **Ideal** AR to create a weave with. For this analysis I used each weave's **Ideal** AR value to represent the weave; however, not all weaves have an **Ideal** AR value listed. For those cases, I used the weave's **Minimum** AR value as that was always the only other available AR value. Additionally, some weaves have no recorded AR information. Those weaves have been excluded from the AR visualizations.
+The first key point is that most weaves can be created using rings within their AR range. For example [Inverse Magus Chain](https://www.mailleartisans.org/weaves/weavedisplay.php?key=1199) can be created using rings with an AR from *4.0* to *4.4*. This is recorded on M.A.I.L. by listing the **Maximum**, **Minimum**, and **Ideal** AR to create a weave with. For this analysis I used each weave's **Ideal** AR value to represent the weave; however, not all weaves have an **Ideal** AR value listed. For those cases, I used the weave's **Minimum** AR value as that was always the only other available AR value. Additionally, some weaves have no recorded AR information. Those weaves have been excluded from the AR visualizations.
 
 The second key point is that some weaves are made using rings with different ARs. For my analysis, I decided to treat each unique AR that a weave is composed of as one record. This means that the counts for each AR are the number of weaves that use that AR.
 
@@ -23,7 +23,7 @@ The following graph shows the number of weaves that include the AR on the x-axis
 
 <img src="../assets/images/chainmail/mail_weave_analysis/weaves-by-aspect-ratio.png">
 
-From this graph, it is clear that the most popular ARs for use in weaves are $4.0$, $5.0$, $6.0$, and $5.5$.
+From this graph, it is clear that the most popular ARs for use in weaves are *4.0*, *5.0*, *6.0*, and *5.5*.
 
 <br>
 
@@ -31,7 +31,7 @@ When making a weave using rings with different ARs you also need to know the rat
 
 <img src="../assets/images/chainmail/mail_weave_analysis/weaves-by-aspect-ratio(single-ar).png">
 
-Looking at this graph it becomes clear that for single AR weaves the most used ARs are $5.0$, $4.0$, $6.0$, and $5.5$. The main change here is that $5.0$ trade rankings. $4.0$. This hints at rings with an AR of $4.0$ being very popular for use in single AR weaves.
+Looking at this graph it becomes clear that for single AR weaves the most used ARs are *5.0*, *4.0*, *6.0*, and *5.5*. The main change here is that *5.0* trade rankings. *4.0*. This hints at rings with an AR of *4.0* being very popular for use in single AR weaves.
 
 <br>
 
@@ -39,7 +39,7 @@ Additionally, weave pages on M.A.I.L. can have tutorials that go over how to mak
 
 <img src="../assets/images/chainmail/mail_weave_analysis/weaves-by-aspect-ratio(tutorial-available).png">
 
-Looking at the graph it can be determined that when restricted to weaves with tutorials the most commonly used ARs are $4.0$, $5.0$, $6.0$, and $3.3$. This distribution is fairly similar to the original unrestricted graph which shows that the AR of the rings used in a weave doesn't have much correlation with the likelihood of the weave having a tutorial.
+Looking at the graph it can be determined that when restricted to weaves with tutorials the most commonly used ARs are *4.0*, *5.0*, *6.0*, and *3.3*. This distribution is fairly similar to the original unrestricted graph which shows that the AR of the rings used in a weave doesn't have much correlation with the likelihood of the weave having a tutorial.
 
 <br>
 
@@ -47,7 +47,7 @@ I also wanted to see what would happen if I only looked at weaves with a single 
 
 <img src="../assets/images/chainmail/mail_weave_analysis/weaves-by-aspect-ratio(single-ar-tutorial-available).png">
 
-Looking at the graph it can be determined that when restricted to weaves with tutorials the most commonly used ARs are $5.0$, $4.0$, $3.5$, and $5.4$. This does have a different distribution than the case of single AR weaves only which is an interesting difference between single AR weaves and un-restricted.
+Looking at the graph it can be determined that when restricted to weaves with tutorials the most commonly used ARs are *5.0*, *4.0*, *3.5*, and *5.4*. This does have a different distribution than the case of single AR weaves only which is an interesting difference between single AR weaves and un-restricted.
 
 <br>
 
@@ -55,7 +55,7 @@ When thinking about weaves that require multiple ARs I became curious as to what
 
 <img src="../assets/images/chainmail/mail_weave_analysis/ar-pair-frequency.png">
 
-Looking at the graph there is a very strong cluster around $4.0$, with weaker clusters between $2.4$ and $5.0$ which shows that they are very popular to pair with other rings. Additionally, there is a diagonal line indicating that a fair number of the weaves use rings with close ARs; the empty top right and bottom left emphasize that even further. 
+Looking at the graph there is a very strong cluster around *4.0*, with weaker clusters between *2.4* and *5.0* which shows that they are very popular to pair with other rings. Additionally, there is a diagonal line indicating that a fair number of the weaves use rings with close ARs; the empty top right and bottom left emphasize that even further. 
 
 ### **Most Popular Tags**
 
