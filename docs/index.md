@@ -16,7 +16,8 @@
 * [Barrel](chainmail_posts/barrel_weave.md)
 * [Triton](chainmail_posts/triton.md)
 * [Mobius Ball](chainmail_posts/mobius_ball.md)
-* [Flower](chainmail_posts/flower.md) 
+* [Flower](chainmail_posts/flower.md)
+* [Back To Work](chainmail_posts/back_to_work.md)
 
 
 #### Adventures in Starting a Blog:
