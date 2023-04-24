@@ -4,7 +4,7 @@
 
 ### Overview
 
-A while ago, I came across a post on [M.A.I.L.](https://www.mailleartisans.org/) by [Scorpion](https://www.mailleartisans.org/members/memberdisplay.php?key=8478) regarding a fun variant of the [Byzantine](Byzantine.md) weave called [Parallel Byzantine Sheet](https://www.mailleartisans.org/weaves/weavedisplay.php?key=731) that looked interesting; so I decided to make myself a bracelet from it. Parallel Byzantine Sheet is a very cool weave. I would recommend trying it out yourself if you have the time.
+A while ago, I came across a post on [M.A.I.L.](https://www.mailleartisans.org/) by [Scorpion](https://www.mailleartisans.org/members/memberdisplay.php?key=8478) regarding a fun variant of the [Byzantine](byzantine.md) weave called [Parallel Byzantine Sheet](https://www.mailleartisans.org/weaves/weavedisplay.php?key=731) that looked interesting; so I decided to make myself a bracelet from it. Parallel Byzantine Sheet is a very cool weave. I would recommend trying it out yourself if you have the time.
 
 
 ### Materials
