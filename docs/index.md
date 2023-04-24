@@ -19,6 +19,7 @@
     * [Mobius Ball](chainmail_posts/mobius_ball.md)
     * [Flower](chainmail_posts/flower.md)
     * [Back To Work](chainmail_posts/back_to_work.md)
+    * [Parallel Byzantine Sheet](chainmail_posts/parallel_byzantine_sheet.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
