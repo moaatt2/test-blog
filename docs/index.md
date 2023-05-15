@@ -22,6 +22,7 @@
     * [Parallel Byzantine Sheet](chainmail_posts/parallel_byzantine_sheet.md)
     * [Roundmaille](chainmail_posts/roundmaille.md)
     * [Elfweave](chainmail_posts/elfweave.md)
+    * [Spinal Elf](chainmail_posts/spinal_elf.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
