@@ -23,6 +23,7 @@
     * [Roundmaille](chainmail_posts/roundmaille.md)
     * [Elfweave](chainmail_posts/elfweave.md)
     * [Spinal Elf](chainmail_posts/spinal_elf.md)
+    * [Elfsheet](chainmail_posts/elfsheet.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
