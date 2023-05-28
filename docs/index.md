@@ -24,6 +24,7 @@
     * [Elfweave](chainmail_posts/elfweave.md)
     * [Spinal Elf](chainmail_posts/spinal_elf.md)
     * [Elfsheet](chainmail_posts/elfsheet.md)
+    * [Elfin](chainmail_posts/elfin.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
