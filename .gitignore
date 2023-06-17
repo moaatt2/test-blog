@@ -1,2 +1,5 @@
 # Remove raw images from tracking in repo
 docs/assets/images/*/*/raws/*
+
+# Ignore personal notes on writing articles
+notes.md
