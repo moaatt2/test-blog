@@ -4,7 +4,7 @@
 
 ### Overview
 
-Quite some time ago, I came across a [tutorial](https://www.mailleartisans.org/) on [M.A.I.L.](https://www.mailleartisans.org/) for the intriguing [Sweetpea](https://www.mailleartisans.org/weaves/weavedisplay.php?key=852) weave, submitted by [Corvus](https://www.mailleartisans.org/members/memberdisplay.php?key=4033) (who also contributed the weave to M.A.I.L.). Sweetpea is a captivating weave from the Persian family, named after its unique appearance. I highly recommend exploring this weave once you have gained some experience working with chainmail.
+Quite some time ago, I came across a [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=541) on [M.A.I.L.](https://www.mailleartisans.org/) for the intriguing [Sweetpea](https://www.mailleartisans.org/weaves/weavedisplay.php?key=852) weave, submitted by [Corvus](https://www.mailleartisans.org/members/memberdisplay.php?key=4033) (who also contributed the weave to M.A.I.L.). Sweetpea is a captivating weave from the Persian family, named after its unique appearance. I highly recommend exploring this weave once you have gained some experience working with chainmail.
 
 
 ### Materials
