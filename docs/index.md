@@ -28,6 +28,7 @@
     * [Sweetpea](chainmail_posts/sweetpea.md)
     * [Fieldstone](chainmail_posts/fieldstone.md)
     * [Medo-Persian](chainmail_posts/medo_persian.md)
+    * [Inverted Round](chainmail_posts/inverted_round.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
