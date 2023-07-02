@@ -4,7 +4,7 @@
 
 ### Overview
 
-While checking out [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to try out, I came across [Byzee Beez](https://www.mailleartisans.org/weaves/weavedisplay.php?key=195) submitted by [Raevyn](https://www.mailleartisans.org/members/memberdisplay.php?key=550). I found the weave to be aesthetically pleasing, and it happened to be a derivative of [Byzantine](Byzantine.md) (my favourite weave), so I decided to try and make it myself. Unfortunately, I could not find a tutorial. However, the weave is a straightforward extension of Byzantine, so I was able to make it and provide some guidance that will hopefully help you if you try to make it yourself.
+While checking out [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to try out, I came across [Byzee Beez](https://www.mailleartisans.org/weaves/weavedisplay.php?key=195) submitted by [Raevyn](https://www.mailleartisans.org/members/memberdisplay.php?key=550). I found the weave to be aesthetically pleasing, and it happened to be a derivative of [Byzantine](byzantine.md) (my favourite weave), so I decided to try and make it myself. Unfortunately, I could not find a tutorial. However, the weave is a straightforward extension of Byzantine, so I was able to make it and provide some guidance that will hopefully help you if you try to make it yourself.
 
 
 ### Materials
