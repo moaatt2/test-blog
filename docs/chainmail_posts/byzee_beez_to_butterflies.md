@@ -4,9 +4,9 @@
 
 ### Overview
 
-Recently I found a great [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=311) by [MaxumX](https://www.mailleartisans.org/members/memberdisplay.php?key=949) on [M.A.I.L.](https://www.mailleartisans.org/) for the [Byzee Beez To Butterflies](https://www.mailleartisans.org/weaves/weavedisplay.php?key=333) weave. Byzee Beez To Butterflies is descended from the [Byzantine](Byzantine.md) weave, which is one of my favourites, as it is a variant of [Byzee Beez](byzee_beez.md) which itself is a direct variation of Byzantine. As Byzee Beez To Butterflies is a variation of Byzantine that I find aesthetically pleasing, I decided to try and make it myself.
+Recently I found a great [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=311) by [MaxumX](https://www.mailleartisans.org/members/memberdisplay.php?key=949) on [M.A.I.L.](https://www.mailleartisans.org/) for the [Byzee Beez To Butterflies](https://www.mailleartisans.org/weaves/weavedisplay.php?key=333) weave. Byzee Beez To Butterflies is descended from the [Byzantine](byzantine.md) weave, which is one of my favourites, as it is a variant of [Byzee Beez](byzee_beez.md) which itself is a direct variation of Byzantine. As Byzee Beez To Butterflies is a variation of Byzantine that I find aesthetically pleasing, I decided to try and make it myself.
 
-
+z
 ### Materials
 
 For the sample piece showcased in this post, I used Bright Aluminum rings purchased from [The Ring Lord](https://theringlord.com/). The rings are 16 SWG with a 1/4" internal diameter, resulting in an aspect ratio of 4.03.
