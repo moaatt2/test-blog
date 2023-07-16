@@ -31,6 +31,7 @@
     * [Inverted Round](chainmail_posts/inverted_round.md)
     * [Byzee Beez](chainmail_posts/byzee_beez.md)
     * [Byzee Beez To Butterflies](chainmail_posts/byzee_beez_to_butterflies.md)
+    * [Zymira Chain](chainmail_posts/zymira_chain.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
