@@ -33,6 +33,7 @@
     * [Byzee Beez To Butterflies](chainmail_posts/byzee_beez_to_butterflies.md)
     * [Zymira Chain](chainmail_posts/zymira_chain.md)
     * [Wolfweave](chainmail_posts/wolfweave.md)
+    * [Wolfsheet](chainmail_posts/wolfsheet.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
