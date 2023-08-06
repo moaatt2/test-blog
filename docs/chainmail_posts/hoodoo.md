@@ -4,7 +4,7 @@
 
 ### Overview
 
-While looking for new weaves to try and make, I came across [Hoodoo](https://www.mailleartisans.org/weaves/weavedisplay.php?key=279) by [Blaise](https://www.mailleartisans.org/members/memberdisplay.php?key=249) on [MAIL](https://www.mailleartisans.org/), which I found very intriguing. While trying to make it, I found this [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=393) by [ArmoredDrake](https://www.mailleartisans.org/members/memberdisplay.php?key=3020) incredibly helpful, even though it is for the sheeted version. If you like this weave, I recommend that you try it yourself.
+While looking for new weaves to try and make, I came across [Hoodoo](https://www.mailleartisans.org/weaves/weavedisplay.php?key=279) by [Blaise](https://www.mailleartisans.org/members/memberdisplay.php?key=249) on [M.A.I.L.](https://www.mailleartisans.org/), which I found very intriguing. While trying to make it, I found this [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=393) by [ArmoredDrake](https://www.mailleartisans.org/members/memberdisplay.php?key=3020) incredibly helpful, even though it is for the sheeted version. If you like this weave, I recommend that you try it yourself.
 
 
 ### Materials
