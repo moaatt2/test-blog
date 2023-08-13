@@ -38,6 +38,10 @@ While the Hoodoo Sheet weave is based on a fairly simple concept, it does requir
 
 <img src="../assets/images/chainmail/hoodoo_sheet/hoodoo_sheet_flat_profile.jpg" width=750>
 
+
+#### In Process
+
+
 <br>
 
 <img src="../assets/images/chainmail/hoodoo_sheet/hoodoo_sheet_step_01.jpg" height=150>
