@@ -41,9 +41,6 @@ While the Hoodoo Sheet weave is based on a fairly simple concept, it does requir
 
 #### In Process
 
-
-<br>
-
 <img src="../assets/images/chainmail/hoodoo_sheet/hoodoo_sheet_step_01.jpg" height=150>
 
 <br>
