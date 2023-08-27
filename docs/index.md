@@ -37,6 +37,7 @@
     * [Hoodoo](chainmail_posts/hoodoo.md)
     * [Hoodoo Sheet](chainmail_posts/hoodoo_sheet.md)
     * [Alure](chainmail_posts/alure.md)
+    * [Symmetrical Allure Sheet](chainmail_posts/symmetrical_allure_sheet.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
