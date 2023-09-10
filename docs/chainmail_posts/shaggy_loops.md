@@ -4,7 +4,7 @@
 
 ### Overview
 
-I found this [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=317) for [Shaggy Loops](https://www.mailleartisans.org/weaves/weavedisplay.php?key=413) by [Vacacita](https://www.mailleartisans.org/members/memberdisplay.php?key=3136) while searching [M.A.I.L.](https://www.mailleartisans.org/) for an appropriate weave to follow [2 in 1 Chain](2_in_1_chain.md) in my journey of increasing complexity. This weave is a simple variant of, 2 in 1 Chain that looks quite nice in a vertical orientation. If you want a fun and easy weave, I suggest making Shaggy Loops.
+I found this [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=317) for [Shaggy Loops](https://www.mailleartisans.org/weaves/weavedisplay.php?key=413) by [Vacacita](https://www.mailleartisans.org/members/memberdisplay.php?key=3136) while searching [M.A.I.L.](https://www.mailleartisans.org/) for an appropriate weave to follow [2 in 1 Chain](2_in_1_chain.md) in my journey of increasing complexity. This weave is a simple variant of 2 in 1 Chain, that looks quite nice in a vertical orientation. If you want a fun and easy weave, I suggest making Shaggy Loops.
 
 
 ### Materials
