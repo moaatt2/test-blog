@@ -1,4 +1,4 @@
-<font size=1> posted: 2023-08-20 </font>
+<font size=1> posted: 2023-08-27 | updated: 2023-09-24 </font>
 
 ## Symmetrical Allure Sheet
 

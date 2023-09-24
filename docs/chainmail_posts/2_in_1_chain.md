@@ -1,4 +1,4 @@
-<font size=1> posted: 2023-08-27 </font>
+<font size=1> posted: 2023-09-03 | updated: 2023-09-24 </font>
 
 ## 2-in-1 Chain
 
