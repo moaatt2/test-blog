@@ -42,6 +42,7 @@
     * [Shaggy Loops](chainmail_posts/shaggy_loops.md)
     * [Abstain](chainmail_posts/abstain.md)
     * [Spiral 4-in-1](chainmail_posts/spiral_4_in_1.md)
+    * [European 6-in-1](chainmail_posts/european_6_in_1.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
