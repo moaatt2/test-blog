@@ -19,16 +19,6 @@ The European 6-in-1 chainmail weave is simple both to understand and create. Its
 
 ### Pictures
 
-#### Vertical
-
-<img src="../assets/images/chainmail/european_6_in_1/european_6_in_1_vertical.jpg" height=750>
-
-
-#### Vertical: Profile
-
-<img src="../assets/images/chainmail/european_6_in_1/european_6_in_1_vertical_profile.jpg" height=750>
-
-
 #### Flat
 
 <img src="../assets/images/chainmail/european_6_in_1/european_6_in_1_flat.jpg" width=750>
@@ -37,6 +27,16 @@ The European 6-in-1 chainmail weave is simple both to understand and create. Its
 #### Flat: Profile
 
 <img src="../assets/images/chainmail/european_6_in_1/european_6_in_1_flat_profile.jpg" width=750>
+
+
+#### Vertical
+
+<img src="../assets/images/chainmail/european_6_in_1/european_6_in_1_vertical.jpg" height=750>
+
+
+#### Vertical: Profile
+
+<img src="../assets/images/chainmail/european_6_in_1/european_6_in_1_vertical_profile.jpg" height=750>
 
 
 #### In Process
