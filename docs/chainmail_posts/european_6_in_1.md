@@ -1,15 +1,15 @@
-<font size=1> posted: 2023-10-01 </font>
+<font size=1> posted: 2023-10-01 | updated: 2023-10-07 </font>
 
 ## European 6-in-1
 
-### Overviewwx
+### Overview
 
 While checking out [M.A.I.L.](https://www.mailleartisans.org/) recently I saw a [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=37) by [Aderamelech](https://www.mailleartisans.org/members/memberdisplay.php?key=7) for [European 6-in-1](https://www.mailleartisans.org/weaves/weavedisplay.php?key=7). European 6-in-1 is a simple progression of [European 4-in-1](european_4_in_1.md) that seems more stable and has a denser look. If you want to experiment with a denser version of European 4-in-1 this is the weave for you.
 
 
 ### Materials
 
-For the sample piece showcased in this post, I made the rings myself (bonus post coming soon if you are interested). I used 16 SWG Bright Aluminum wire from [The Ring Lord](https://theringlord.com/) coiled around a 8mm mandrel for an approximate aspect ratio of 4.9.
+For the sample piece showcased in this post, I made the rings myself (bonus post coming soon if you are interested). I used 16 SWG Bright Aluminum wire from [The Ring Lord](https://theringlord.com/) coiled around an 8mm mandrel for an approximate aspect ratio of 4.9.
 
 
 ### Notes
