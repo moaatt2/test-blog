@@ -4,7 +4,7 @@
 
 ### Overview
 
-While browsing [MA.I.L.](https://www.mailleartisans.org/) for new weaves, I came across [Trizantine](https://www.mailleartisans.org/weaves/weavedisplay.php?key=1) by [Derakon](https://www.mailleartisans.org/members/memberdisplay.php?key=233). Trizantine is an interesting modification of the [Byzantine](Byzantine.md) weave that occurs when adding additional rings between the rings joining the units. If you want to follow along and try making it yourself, I recommend this [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=338) by [Tesserex](https://www.mailleartisans.org/members/memberdisplay.php?key=1705).
+While browsing [MA.I.L.](https://www.mailleartisans.org/) for new weaves, I came across [Trizantine](https://www.mailleartisans.org/weaves/weavedisplay.php?key=1) by [Derakon](https://www.mailleartisans.org/members/memberdisplay.php?key=233). Trizantine is an interesting modification of the [Byzantine](byzantine.md) weave that occurs when adding additional rings between the rings joining the units. If you want to follow along and try making it yourself, I recommend this [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=338) by [Tesserex](https://www.mailleartisans.org/members/memberdisplay.php?key=1705).
 
 
 ### Materials
