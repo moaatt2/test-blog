@@ -45,6 +45,7 @@
     * [European 6-in-1](chainmail_posts/european_6_in_1.md)
     * [Jacob's Ladder](chainmail_posts/jacobs_ladder.md)
     * [Trizantine](chainmail_posts/trizantine.md)
+    * [Trees](chainmail_posts/trees.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
