@@ -46,6 +46,7 @@
     * [Jacob's Ladder](chainmail_posts/jacobs_ladder.md)
     * [Trizantine](chainmail_posts/trizantine.md)
     * [Trees](chainmail_posts/trees.md)
+    * [Beez Stew](chainmail_posts/beez_stew.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
