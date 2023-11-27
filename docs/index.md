@@ -50,6 +50,7 @@
     * [Spiral 8-in-2](chainmail_posts/spiral_8_in_2.md)
     * [Alienmaille](chainmail_posts/alienmaille.md)
     * [Kingsmail](chainmail_posts/kingsmail.md)
+    * [Treezantine](chainmail_posts/treezantine.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
