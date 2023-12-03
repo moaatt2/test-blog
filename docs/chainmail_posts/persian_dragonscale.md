@@ -4,7 +4,7 @@
 
 ### Overview
 
-While trawling [M.A.I.L.]() for a new weave to try out, I came across [Persian Dragonscale](https://www.mailleartisans.org/weaves/weavedisplay.php?key=85) by [lorenzo](https://www.mailleartisans.org/members/memberdisplay.php?key=17). Persian Dragonscale is a fun combination of [European 4-in-1](european_4_in_1.md) and [Half Persian 3-in-1](half_persian_3_in_1.md). If you want to make it yourself, I found this [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=455) by [ChaosSeraphim](https://www.mailleartisans.org/members/memberdisplay.php?key=8611) very helpful.
+While trawling [M.A.I.L.](https://www.mailleartisans.org/) for a new weave to try out, I came across [Persian Dragonscale](https://www.mailleartisans.org/weaves/weavedisplay.php?key=85) by [lorenzo](https://www.mailleartisans.org/members/memberdisplay.php?key=17). Persian Dragonscale is a fun combination of [European 4-in-1](european_4_in_1.md) and [Half Persian 3-in-1](half_persian_3_in_1.md). If you want to make it yourself, I found this [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=455) by [ChaosSeraphim](https://www.mailleartisans.org/members/memberdisplay.php?key=8611) very helpful.
 
 
 ### Materials
