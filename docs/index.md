@@ -51,6 +51,7 @@
     * [Alienmaille](chainmail_posts/alienmaille.md)
     * [Kingsmail](chainmail_posts/kingsmail.md)
     * [Treezantine](chainmail_posts/treezantine.md)
+    * [Persian Dragonscale](chainmail_posts/persian_dragonscale.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
