@@ -52,6 +52,7 @@
     * [Kingsmail](chainmail_posts/kingsmail.md)
     * [Treezantine](chainmail_posts/treezantine.md)
     * [Persian Dragonscale](chainmail_posts/persian_dragonscale.md)
+    * [Half Persian 4-in-1](chainmail_posts/half_persian_4_in_1.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
