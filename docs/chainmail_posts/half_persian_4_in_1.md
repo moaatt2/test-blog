@@ -21,7 +21,7 @@ Half Persian 4-in-1 is both simple to understand and create. However, achieving 
 
 #### Flat
 
-Stretched:
+Stretched:<br>
 <img src="../assets/images/chainmail/half_persian_4_in_1/half_persian_4_in_1_flat_a.jpg" width=750>
 
 Compressed:<br>
