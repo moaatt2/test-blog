@@ -1,10 +1,10 @@
 <font size=1> posted: 2023-12-17 </font>
 
-## Aligator Back
+## Alligator Back
 
 ### Overview
 
-While looking for new weaves to try out, I came across [Aligator Back](https://www.mailleartisans.org/weaves/weavedisplay.php?key=819) by [Corvus](https://www.mailleartisans.org/members/memberdisplay.php?key=4033) on [M.A.I.L.](https://www.mailleartisans.org/). Aligator back is a combination of [European 4-in-1](european_4_in_1.md) and [Half Persian 3-in-1](half_persian_3_in_1.md). Aligator Back is just one step away from being [Persian Dragonscale](persian_dragonscale.md). I recommend this helpful [video tutorial](https://www.youtube.com/watch?v=jPRKwYSijlE) by [Mechanical Brain](https://www.youtube.com/@mechanicalbrain4366) if you would like to try making this at home.
+While looking for new weaves to try out, I came across [Alligator Back](https://www.mailleartisans.org/weaves/weavedisplay.php?key=819) by [Corvus](https://www.mailleartisans.org/members/memberdisplay.php?key=4033) on [M.A.I.L.](https://www.mailleartisans.org/). Alligator Back is a combination of [European 4-in-1](european_4_in_1.md) and [Half Persian 3-in-1](half_persian_3_in_1.md). Alligator Back is just one step away from being [Persian Dragonscale](persian_dragonscale.md). I recommend this helpful [video tutorial](https://www.youtube.com/watch?v=jPRKwYSijlE) by [Mechanical Brain](https://www.youtube.com/@mechanicalbrain4366) if you would like to try making this at home.
 
 
 ### Materials
@@ -21,28 +21,28 @@ Alligator Back, while somewhat simple to understand, can present a bit of a chal
 
 #### Flat
 
-<img src="../assets/images/chainmail/aligator_back/aligator_back_flat.jpg" width=750>
+<img src="../assets/images/chainmail/alligator_back/alligator_back_flat.jpg" width=750>
 
 
 #### Flat: Profile
 
-<img src="../assets/images/chainmail/aligator_back/aligator_back_flat_profile.jpg" width=750>
+<img src="../assets/images/chainmail/alligator_back/alligator_back_flat_profile.jpg" width=750>
 
 
 #### Vertical
 
-<img src="../assets/images/chainmail/aligator_back/aligator_back_vertical.jpg" height=750>
+<img src="../assets/images/chainmail/alligator_back/alligator_back_vertical.jpg" height=750>
 
 
 #### Vertical: Profile
 
-<img src="../assets/images/chainmail/aligator_back/aligator_back_vertical_profile.jpg" height=750>
+<img src="../assets/images/chainmail/alligator_back/alligator_back_vertical_profile.jpg" height=750>
 
 
 #### In Process
 
-<img src="../assets/images/chainmail/aligator_back/aligator_back_step_01.jpg" height=200>
+<img src="../assets/images/chainmail/alligator_back/alligator_back_step_01.jpg" height=200>
 
 <br>
 
-<img src="../assets/images/chainmail/aligator_back/aligator_back_step_02.jpg" height=225>
+<img src="../assets/images/chainmail/alligator_back/alligator_back_step_02.jpg" height=225>
