@@ -4,7 +4,7 @@
 
 ### Overview
 
-While looking for new weaves to try out, I came across [Alligator Back](https://www.mailleartisans.org/weaves/weavedisplay.php?key=819) by [Corvus](https://www.mailleartisans.org/members/memberdisplay.php?key=4033) on [M.A.I.L.](https://www.mailleartisans.org/). Alligator Back is a combination of [European 4-in-1](european_4_in_1.md) and [Half Persian 3-in-1](half_persian_3_in_1.md). Alligator Back is just one step away from being [Persian Dragonscale](persian_dragonscale.md). I recommend this helpful [video tutorial](https://www.youtube.com/watch?v=jPRKwYSijlE) by [Mechanical Brain](https://www.youtube.com/@mechanicalbrain4366) if you would like to try making this at home.
+While looking for new weaves to try out, I came across [Alligator Back](https://www.mailleartisans.org/weaves/weavedisplay.php?key=819) by [Corvus](https://www.mailleartisans.org/members/memberdisplay.php?key=4033) on [M.A.I.L.](https://www.mailleartisans.org/). Alligator Back is a combination of [European 4-in-1](european_4_in_1.md) and [Half Persian 3-in-1](half_persian_3_in_1.md). Additionally, Alligator Back is just one step away from being [Persian Dragonscale](persian_dragonscale.md). I recommend this helpful [video tutorial](https://www.youtube.com/watch?v=jPRKwYSijlE) by [Mechanical Brain](https://www.youtube.com/@mechanicalbrain4366) if you would like to try making this at home.
 
 
 ### Materials
