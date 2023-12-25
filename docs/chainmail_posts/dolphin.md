@@ -26,12 +26,12 @@ For the sample piece showcased in this post, I used Bright Aluminum rings purcha
 
     <img src="../assets/images/chainmail/dolphin/dolphin_tutorial_03.jpg" height=300>
 
-4. Add 1 ring(green in the image below) around the eye formed between the 2 rings from step 3(blue in the image below). This ring should also go through the bottom of the bottom ring of the 2 rings from step 2(yellow in the image below). When done, it should look something like this:
+4. Add 1 new ring(green in the image below) around the eye formed between the 2 rings from step 3(blue in the image below). This ring should also go through the bottom of the bottom ring of the 2 rings from step 2(yellow in the image below). When done, it should look something like this:
 
     <img src="../assets/images/chainmail/dolphin/dolphin_tutorial_04.jpg" height=300>
 
 
-5. Add 2 new rings(green in the image below) through the eye formed by the 2 rings from step 3(yellow in the image below). One ring(green without red dot in the image low) should go through just those rings, while the topmost ring(green with red dot in the image below) should also go through the ring added in step 4. When done, it should look something like this:
+5. Add 2 new rings(green in the image below) through the eye formed by the 2 rings from step 3(yellow in the image below). One ring(green without red dot in the image below) should go through just those rings, while the topmost ring(green with red dot in the image below) should also go through the ring added in step 4. When done, it should look something like this:
 
     <img src="../assets/images/chainmail/dolphin/dolphin_tutorial_05.jpg" height=300>
 
