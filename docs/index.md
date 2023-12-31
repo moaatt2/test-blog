@@ -55,6 +55,7 @@
     * [Half Persian 4-in-1](chainmail_posts/half_persian_4_in_1.md)
     * [Alligator Back](chainmail_posts/alligator_back.md)
     * [Dolphin](chainmail_posts/dolphin.md)
+    * [Rover](chainmail_posts/rover.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
