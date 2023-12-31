@@ -4,7 +4,7 @@
 
 ### Overview
 
-When checking [M.A.I.L.](https://www.mailleartisans.org/) for interesting new weaves to try, I came across [Rover](https://www.mailleartisans.org/weaves/weavedisplay.php?key=1011) by [ZiLi](https://www.mailleartisans.org/members/memberdisplay.php?key=10488). Rover is a variant of [Rhinos Snorting Drano](rhinos_snorting_drano.md), where the rings around the eyes also go through additional rings rather than just around the eye. As I could not find any tutorials for this weave, I created and included one so you can follow along at home.
+When checking [M.A.I.L.](https://www.mailleartisans.org/) for interesting new weaves to try, I came across [Rover](https://www.mailleartisans.org/weaves/weavedisplay.php?key=1011) by [ZiLi](https://www.mailleartisans.org/members/memberdisplay.php?key=10488). Rover is a member of the Rhino family of weaves, where the rings around the eyes also go through additional rings rather than just around the eye. As I could not find any tutorials for this weave, I created and included one so you can follow along at home.
 
 
 ### Materials
