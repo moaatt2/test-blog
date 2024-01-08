@@ -56,6 +56,7 @@
     * [Alligator Back](chainmail_posts/alligator_back.md)
     * [Dolphin](chainmail_posts/dolphin.md)
     * [Rover](chainmail_posts/rover.md)
+    * [Pragyan](chainmail_posts/pragyan.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
