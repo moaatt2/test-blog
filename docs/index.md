@@ -57,6 +57,7 @@
     * [Dolphin](chainmail_posts/dolphin.md)
     * [Rover](chainmail_posts/rover.md)
     * [Pragyan](chainmail_posts/pragyan.md)
+    * [Vipera Beerus](chainmail_posts/vipera_beerus.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
