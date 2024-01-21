@@ -58,6 +58,7 @@
     * [Rover](chainmail_posts/rover.md)
     * [Pragyan](chainmail_posts/pragyan.md)
     * [Vipera Beerus](chainmail_posts/vipera_beerus.md)
+    * [Vipera Beerus Sheet](chainmail_posts/vipera_beerus_sheet.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
