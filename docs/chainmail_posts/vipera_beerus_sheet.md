@@ -14,7 +14,7 @@ For the sample piece showcased in this post, I used Bright Aluminum rings purcha
 
 ### Notes
 
-The Vipera Beerus Sheet weave is somewhat complex both to understand and create. However, the fact that the core of the pattern is short alleviates some difficulty. Additionally, it's important to note that constructing this weave is time-consuming. Despite not reaching the aesthetic appeal of Vipera Beerus, the sheet still possesses a pleasing appearance. As a sheet weave, it offers versatility for various applications, including bracelets, chokers, straps, and even as a sturdy fabric or cloth. Balancing its complex and time-consuming nature against how fun and versatile it is, I recommend this weave to more experienced mailers who have time time to invest in this weave.
+The Vipera Beerus Sheet weave is somewhat complex both to understand and create. However, the fact that the core of the pattern is short alleviates some difficulty. Additionally, it's important to note that constructing this weave is time-consuming. Despite not reaching the aesthetic appeal of Vipera Beerus, the sheet still possesses a pleasing appearance. As a sheet weave, it offers versatility for various applications, including bracelets, chokers, straps, and even as a sturdy fabric or cloth. Balancing its complex and time-consuming nature against how fun and versatile it is, I recommend this weave to more experienced mailers who have time to invest in this weave.
 
 
 ### Pictures
