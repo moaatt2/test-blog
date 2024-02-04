@@ -18,7 +18,7 @@ For the sample piece showcased in this post, I made the rings myself (bonus post
 
     <img src="../assets/images/chainmail/jellybeans_on_parade/jellybeans_on_parade_tutorial_00.jpg" height=300>
 
-2. Add 1 new ring(green in the image below) through the center 2 rings from step 1(yellow in the iamge below). When done, it should look something like this:
+2. Add 1 new ring(green in the image below) through the center 2 rings from step 1(yellow in the image below). When done, it should look something like this:
 
     <img src="../assets/images/chainmail/jellybeans_on_parade/jellybeans_on_parade_tutorial_01_c.jpg" height=300>
 
