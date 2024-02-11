@@ -61,6 +61,7 @@
     * [Vipera Beerus Sheet](chainmail_posts/vipera_beerus_sheet.md)
     * [Rhinos Snorting Drano](chainmail_posts/rhinos_snorting_drano.md)
     * [Jellybeans On Parade](chainmail_posts/jellybeans_on_parade.md)
+    * [Crow Chain](chainmail_posts/crow_chain.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
