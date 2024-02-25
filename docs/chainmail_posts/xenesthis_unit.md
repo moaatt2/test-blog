@@ -60,9 +60,11 @@ Xenesthis, a weave of relatively high complexity, poses a certain level of diffi
 #### Flat
 
 Top:
+
 <img src="../assets/images/chainmail/xenesthis_unit/xenesthis_unit_flat_a.jpg" width=750>
 
 Bottom:
+
 <img src="../assets/images/chainmail/xenesthis_unit/xenesthis_unit_flat_b.jpg" width=750>
 
 
