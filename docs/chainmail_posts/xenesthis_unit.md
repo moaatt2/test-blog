@@ -18,15 +18,15 @@ For the sample piece showcased in this post, I made the rings myself (bonus post
 
     <img src="../assets/images/chainmail/xenesthis_unit/xenesthis_unit_step_08.jpg">
 
-2. Now, flip over the weave and add 6 new rings(green in the image below) by adding 2 rings then 1 ring to those to each of the rings at the center left and right(yellow in the image below). When done, it should look something like this:
+2. Now, flip over the weave and add 6 new rings(green in the image below) by adding 2 rings and then 1 ring to each of the rings at the center-left and center-right(yellow in the image below). When done, it should look something like this:
 
     <img src="../assets/images/chainmail/xenesthis_unit/xenesthis_unit_step_09_c.jpg">
 
-3. Now take the leftmost and rightmost rings from step 2(green in the image below) and fold them into the center at the top. When done, it should look something like this:
+3. Now, take the leftmost and rightmost rings from step 2(green in the image below) and fold them into the center at the top. When done, it should look something like this:
 
     <img src="../assets/images/chainmail/xenesthis_unit/xenesthis_unit_step_10_c.jpg">
 
-4. Now add 4 new rings(green in the image below) with one going in each corner. Each ring should go through the 4 nearby rings(highlighted in yellow in the image below) where each yellow ring only has one green ring going through it(except for the yellow rings with a red dot, those have two green rings go through them). When done, it should look something like this:
+4. Now add 4 new rings(green in the image below), with one going in each corner. Each ring should go through the 4 nearby rings(highlighted in yellow in the image below), where each yellow ring only has one green ring going through it(except for the yellow rings with a red dot, which have two green rings going through them). When done, it should look something like this:
 
     <img src="../assets/images/chainmail/xenesthis_unit/xenesthis_unit_step_11_c.jpg">
 
@@ -34,16 +34,16 @@ For the sample piece showcased in this post, I made the rings myself (bonus post
 
     <img src="../assets/images/chainmail/xenesthis_unit/xenesthis_unit_step_12.jpg">
 
-6. Now add 2 new rings(green in the image below), one at the top center and one at the bottom center. Each ring should go through the the 2 nearby rings(highlighted in yellow in the image below.) When done, it should look something like this:
+6. Now add 2 new rings(green in the image below), one at the top-center and one at the bottom-center. Each ring should go through the 2 nearby rings(highlighted in yellow in the image below.) When done, it should look something like this:
 
     <img src="../assets/images/chainmail/xenesthis_unit/xenesthis_unit_step_13_c.jpg">
 
-7. Congratulations, you now have a unit of Xenesthis. You can attatch this to other creations or enjoy how it looks as a small trinket.
+7. Congratulations, you now have a unit of Xenesthis. You can attach this to other creations or enjoy how it looks as a small trinket.
 
 
 ### Notes
 
-Xenesthis, a weave of relatively high complexity, poses a certain level of difficulty during the crafting process, especially in its initial stages, where stability can be a concern. Despite these challenges, the resulting Xenesthis units exhibit a highly aesthetic appeal. This unit weave lends itself well to various accessory applications, such as earrings or pendants, and can be incorporated into bracelets, necklaces, or chokers, adding an ornamental touch. However, as units are a fixed size, Xenesthis is not easily used for structural purposes. While the weave is undoubtedly beautiful, its complexity adds the requirement of patience when learning how to make it. Therefore, I recommend learning Xenesthis, but with a willingness to approach it patiently.
+Xenesthis, a weave of relatively high complexity, poses a certain level of difficulty during the crafting process, especially in its initial stages, where stability can be a concern. Despite these challenges, the resulting Xenesthis units are aesthetically pleasing. This unit weave lends itself well to various accessory applications, such as earrings or pendants, and can be incorporated into bracelets, necklaces, or chokers, adding an ornamental touch. However, as units are a fixed size, Xenesthis is not easily used for structural purposes. While the weave is undoubtedly beautiful, its complexity adds the requirement of patience when learning how to make it. Therefore, I recommend learning Xenesthis, but with a willingness to approach it patiently.
 
 
 ### Pictures
