@@ -14,7 +14,7 @@ For the sample piece showcased in this post, I made the rings myself (bonus post
 
 ### Notes
 
-Orc Weave presents a moderate level of complexity in understanding its structure, but it is not overly challenging to create. However, joining individual units together can pose some difficulty. Despite its intricacies, the weave yields a visually appealing result, albeit with a somewhat busy appearance, and there's a risk of the ends unravelling if not connected to another unit. With its rectangular cross-section, the Orc Weave finds suitability in bracelets, chokers, and straps. Maintaining stability and flatness in each unit while weaving can help prevent unravelling. Considering its attractive aesthetics and manageable complexity, I highly recommend you learn to create the Orc Weave.
+Orc Weave presents a moderate level of complexity in understanding its structure, but it is not overly challenging to create. However, joining individual units together can pose some difficulty. Despite its intricacies, the weave yields a visually appealing result, albeit with a somewhat busy appearance, and there's a risk of the ends unravelling if not connected to another unit. With its rectangular cross-section, Orc Weave finds suitability in bracelets, chokers, and straps. Maintaining stability and flatness in each unit while weaving can help prevent unravelling. Considering its attractive aesthetics and manageable complexity, I highly recommend you learn to create Orc Weave.
 
 
 ### Pictures
