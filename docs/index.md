@@ -64,6 +64,7 @@
     * [Crow Chain](chainmail_posts/crow_chain.md)
     * [Gridlock](chainmail_posts/gridlock.md)
     * [Xenesthis](chainmail_posts/xenesthis_unit.md)
+    * [Orc Weave](chainmail_posts/orc_weave.md)
 * Other:
     * [M.A.I.L. Weave Analysis](chainmail_posts/mail_weave_analysis.md)
 
