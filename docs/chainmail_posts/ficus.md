@@ -41,16 +41,16 @@ The Ficus weave offers simplicity in both understanding its structure and creati
 
 #### In Process
 
-<img src="../assets/images/chainmail/ficus/ficus_step_01.jpg" height=150>
+<img src="../assets/images/chainmail/ficus/ficus_step_01.jpg" height=250>
 
 <br>
 
-<img src="../assets/images/chainmail/ficus/ficus_step_02.jpg" height=150>
+<img src="../assets/images/chainmail/ficus/ficus_step_02.jpg" height=250>
 
 <br>
 
-<img src="../assets/images/chainmail/ficus/ficus_step_03.jpg" height=150>
+<img src="../assets/images/chainmail/ficus/ficus_step_03.jpg" height=250>
 
 <br>
 
-<img src="../assets/images/chainmail/ficus/ficus_step_04.jpg" height=150>
+<img src="../assets/images/chainmail/ficus/ficus_step_04.jpg" height=250>
