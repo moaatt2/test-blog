@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Sunburst](chainmail_posts/sunburst.md)
     * [Ficus](chainmail_posts/ficus.md)
     * [Orc Weave](chainmail_posts/orc_weave.md)
     * [Xenesthis](chainmail_posts/xenesthis_unit.md)
