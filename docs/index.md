@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Flat Byz 4-in-1 Tube](chainmail_posts/flat_byz_4_in_1_tube.md)
     * [Sunburst](chainmail_posts/sunburst.md)
     * [Ficus](chainmail_posts/ficus.md)
     * [Orc Weave](chainmail_posts/orc_weave.md)
