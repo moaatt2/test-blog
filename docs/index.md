@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Scary Weave](chainmail_posts/scary_weave.md)
     * [Archimedes](chainmail_posts/archimedes.md)
     * [Gridlock Byzantine](chainmail_posts/gridlock_byzantine.md)
     * [Flat Byz 4-in-1 Tube](chainmail_posts/flat_byz_4_in_1_tube.md)
