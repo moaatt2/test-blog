@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Honey Bee](chainmail_posts/honey_bee.md)
     * [Scary Weave](chainmail_posts/scary_weave.md)
     * [Archimedes](chainmail_posts/archimedes.md)
     * [Gridlock Byzantine](chainmail_posts/gridlock_byzantine.md)
