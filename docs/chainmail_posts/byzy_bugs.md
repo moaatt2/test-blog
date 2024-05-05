@@ -4,7 +4,7 @@
 
 ### Overview
 
-While searching [M.A.I.L.](https://www.mailleartisans.org/members/memberdisplay.php?key=12217) for interesting weaves to try out, I came across [Byzy Bugs](https://www.mailleartisans.org/weaves/weavedisplay.php?key=899) by [Xynyth](https://www.mailleartisans.org/members/memberdisplay.php?key=12217). Byzy Bugs is a fun variation on the classic [Byzantine](byzantine.md) weave with alternately linked units and rings on the outer edge that look like wings. If you want to make this yourself, this [tutorial](https://www.youtube.com/watch?v=rFJO2DeU6Bg) by [Aussie Maille](https://www.youtube.com/@AussieMaillers) is a great resource.
+While searching [M.A.I.L.](https://www.mailleartisans.org/) for interesting weaves to try out, I came across [Byzy Bugs](https://www.mailleartisans.org/weaves/weavedisplay.php?key=899) by [Xynyth](https://www.mailleartisans.org/members/memberdisplay.php?key=12217). Byzy Bugs is a fun variation on the classic [Byzantine](byzantine.md) weave with alternately linked units and rings on the outer edge that look like wings. If you want to make this yourself, this [tutorial](https://www.youtube.com/watch?v=rFJO2DeU6Bg) by [Aussie Maille](https://www.youtube.com/@AussieMaillers) is a great resource.
 
 
 ### Materials
