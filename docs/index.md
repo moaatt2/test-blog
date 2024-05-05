@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Byzy Bugs](chainmail_posts/byzy_bugs.md)
     * [Bee Stings](chainmail_posts/bee_stings.md)
     * [Honey Bee](chainmail_posts/honey_bee.md)
     * [Scary Weave](chainmail_posts/scary_weave.md)
