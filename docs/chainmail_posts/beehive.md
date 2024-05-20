@@ -14,11 +14,11 @@ For the sample piece showcased in this post, I made the rings myself (bonus post
 
 ### Tutorial
 
-1. Begin with two chains of Bee Stings as long as you want your chain to be.
+1. Begin with two chains of Bee Stings as long as you want your sheet to be.
 
     <img src="../assets/images/chainmail/beehive/beehive_tutorial_01.jpg" width=750>
 
-2. Below is a version of the above image coloured to show the three groups of rings to join in the next step:
+2. Below is a version of the above image, coloured to show the three groups of rings to join in the next step:
 
     <img src="../assets/images/chainmail/beehive/beehive_tutorial_01c.jpg" width=750>
 
