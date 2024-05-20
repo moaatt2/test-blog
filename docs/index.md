@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Beehive](chainmail_posts/beehive.md)
     * [Byzantine Cross Chain](chainmail_posts/byzantine_cross_chain.md)
     * [Byzy Bugs](chainmail_posts/byzy_bugs.md)
     * [Bee Stings](chainmail_posts/bee_stings.md)
