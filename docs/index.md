@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Japanese 4-in-1](chainmail_posts/japanese_4_in_1.md)
     * [Beehive](chainmail_posts/beehive.md)
     * [Byzantine Cross Chain](chainmail_posts/byzantine_cross_chain.md)
     * [Byzy Bugs](chainmail_posts/byzy_bugs.md)
