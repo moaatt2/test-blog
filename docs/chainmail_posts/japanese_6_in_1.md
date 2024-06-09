@@ -4,7 +4,7 @@
 
 ### Overview
 
-Continuing my exploration of the Japanese weave family led me to the historic [Japanese 6-in-1](https://www.mailleartisans.org/weaves/weavedisplay.php?key=16) as documented on [M.A.I.L.](https://www.mailleartisans.org/). Japanese 6-in-1, also historically known as Hana Gusari, is a denser and heavier weave used in Samurai armour found mainly on the forearms and hands. If you want to make it yourself, I suggest this great [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=190) by [Bative](https://www.mailleartisans.org/members/memberdisplay.php?key=349).
+Continuing my exploration of the Japanese weave family led me to the historic [Japanese 6-in-1](https://www.mailleartisans.org/weaves/weavedisplay.php?key=16) as documented on [M.A.I.L.](https://www.mailleartisans.org/) Japanese 6-in-1, also historically known as Hana Gusari, is a denser and heavier weave used in Samurai armour found mainly on the forearms and hands. If you want to make it yourself, I suggest this great [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=190) by [Bative](https://www.mailleartisans.org/members/memberdisplay.php?key=349).
 
 
 ### Materials
