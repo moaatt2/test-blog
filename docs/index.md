@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Full Persian 6-in-1](chainmail_posts/full_persian_6_in_1.md)
     * [Japanese 12-in-2](chainmail_posts/japanese_12_in_2.md)
     * [Japanese 6-in-1](chainmail_posts/japanese_6_in_1.md)
     * [Japanese 8-in-2](chainmail_posts/japanese_8_in_2.md)
