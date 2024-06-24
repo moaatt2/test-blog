@@ -14,7 +14,7 @@ For the sample piece showcased in this post, I made the rings myself (bonus post
 
 ### Notes
 
-The Full Persian 6-in-1 weave is straightforward to grasp and remarkably easy to create. Its aesthetic appeal is undeniable, presenting a visually pleasing design. With its round cross-section, it's well-suited for many uses, including bracelets, chokers, necklaces, or even for use as cordage. Moreover, its hollow center offers the perfect opportunity for incorporating captive items (items inside the rings kept in place by the placement of the rings). Given its simplicity and attractive appearance, I highly recommend making it yourself and mastering the technique.
+The Full Persian 6-in-1 weave is straightforward to grasp and remarkably easy to create. Its aesthetic appeal is undeniable, presenting a visually pleasing design. With its round cross-section, it's well-suited for many uses, including bracelets, chokers, necklaces, or even for use as cordage. Moreover, its hollow center offers the perfect opportunity for incorporating captive items (items inside the rings, kept in place by the placement of the rings). Given its simplicity and attractive appearance, I highly recommend making it yourself and mastering the technique.
 
 
 ### Pictures
