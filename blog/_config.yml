@@ -7,8 +7,12 @@ github_username:  moaatt2
 baseurl: ""
 url: ""
 
-theme: minima
+# Minima Settings
+remote_theme: jekyll/minima
+minima:
+  skin: dark
 
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
