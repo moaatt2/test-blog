@@ -8,7 +8,7 @@ baseurl: ""
 url: ""
 
 # Minima Settings
-remote_theme: jekyll/minima
+remote_theme: moaatt2/minima@master
 minima:
   skin: dark
 
