@@ -11,6 +11,14 @@ url: ""
 remote_theme: moaatt2/minima@master
 minima:
   skin: dark
+  social_links:
+    - platform: github
+      user_url: https://github.com/moaatt2
+      user_title: GitHub
+
+    - platform: rss
+      user_url: "/feed.xml"
+      user_title: "RSS Feed"
 
 # Build settings
 plugins:
