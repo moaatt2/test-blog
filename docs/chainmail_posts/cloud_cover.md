@@ -4,7 +4,7 @@
 
 ### Overview
 
-On a recent browse though [M.A.I.L.](https://www.mailleartisans.org/) I came across [Cloud Cover](https://www.mailleartisans.org/weaves/weavedisplay.php?key=982) by [chainge_maker](). Cloud Cover is a fairly basic weave in the [Rhino](rhinos_snorting_drano.md) family. If you want to make it yourself, I recommend this [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=583) by [lorraine](https://www.mailleartisans.org/members/memberdisplay.php?key=9915).
+On a recent browse though [M.A.I.L.](https://www.mailleartisans.org/) I came across [Cloud Cover](https://www.mailleartisans.org/weaves/weavedisplay.php?key=982) by [chainge_maker](https://www.mailleartisans.org/members/memberdisplay.php?key=13268). Cloud Cover is a fairly basic weave in the [Rhino](rhinos_snorting_drano.md) family. If you want to make it yourself, I recommend this [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=583) by [lorraine](https://www.mailleartisans.org/members/memberdisplay.php?key=9915).
 
 
 ### Materials
