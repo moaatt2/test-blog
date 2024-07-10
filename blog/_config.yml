@@ -15,6 +15,14 @@ minima:
     - platform: github
       user_url: https://github.com/moaatt2
       user_title: GitHub
+    
+    - platform: email
+      user_url: "mailto:mckaymaille@gmail.com"
+      user_title: "mckaymaille@gmail.com" 
+    
+    - platform: code
+      user_url: "https://github.com/moaatt2/test-blog"
+      user_title: Source Code
 
     - platform: rss
       user_url: "/feed.xml"
