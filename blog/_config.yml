@@ -7,6 +7,8 @@ github_username:  moaatt2
 baseurl: ""
 url: ""
 
+favicon: /assets/images/icon.png
+
 # Minima Settings
 remote_theme: moaatt2/minima@master
 minima:
