@@ -10,6 +10,12 @@ url: ""
 # Set a website icon
 favicon: /assets/images/icon.png
 
+# Contact Settings
+contact:
+  title: Send me a message
+  formspree_form_id: "xpwawddn"
+  form_message: "If you have a weave suggestion or just want to talk chainmail please use the form below to send me a mesage:"
+
 # Minima Settings
 remote_theme: moaatt2/minima@master
 minima:
