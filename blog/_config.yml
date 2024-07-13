@@ -7,6 +7,7 @@ github_username:  moaatt2
 baseurl: ""
 url: ""
 
+# Set a website icon
 favicon: /assets/images/icon.png
 
 # Minima Settings
