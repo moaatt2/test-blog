@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Abhainn](chainmail_posts/abhainn.md)
     * [Windmill](chainmail_posts/windmill.md)
     * [Cloud Cover](chainmail_posts/cloud_cover.md)
     * [Full Persian 6-in-1](chainmail_posts/full_persian_6_in_1.md)
