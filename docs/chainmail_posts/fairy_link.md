@@ -4,7 +4,7 @@
 
 ### Overview
 
-While looking over [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to make, I came across [Fairy Link](https://www.mailleartisans.org/weaves/weavedisplay.php?key=773) by [Zxentix](https://www.mailleartisans.org/members/memberdisplay.php?key=9716). Zentix created the Fairy Weave Unit while attempting to make [Full Persian 6-in-1](full_persian_6_in_1.md), explaining the similarities in appearance. Unfortunately, I couldn't find any existing tutorials, so I have written one and included it in this post.
+While looking over [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to make, I came across [Fairy Link](https://www.mailleartisans.org/weaves/weavedisplay.php?key=773) by [Zxentix](https://www.mailleartisans.org/members/memberdisplay.php?key=9716). Zentix created the Fairy Link Unit while attempting to make [Full Persian 6-in-1](full_persian_6_in_1.md), explaining the similarities in appearance. Unfortunately, I couldn't find any existing tutorials, so I have written one and included it in this post.
 
 
 ### Materials
