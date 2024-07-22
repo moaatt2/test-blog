@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Fairy Link](chainmail_posts/fairy_link.md)
     * [Abhainn](chainmail_posts/abhainn.md)
     * [Windmill](chainmail_posts/windmill.md)
     * [Cloud Cover](chainmail_posts/cloud_cover.md)
