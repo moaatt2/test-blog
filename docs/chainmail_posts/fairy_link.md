@@ -16,19 +16,19 @@ For the sample piece showcased in this post, I made the rings myself (bonus post
 
 1. Start with a 2-2-2 chain as shown below:
 
-    <img src="../assets/images/chainmail/fairy_link/fairy_link_tutorial_01.jpg" height=250>
+    <img src="../assets/images/chainmail/fairy_link/fairy_link_tutorial_01.jpg" height=250>
 
 2. Below is a version of the above image colored to assist with the next step:
 
-    <img src="../assets/images/chainmail/fairy_link/fairy_link_tutorial_01_c.jpg" height=250>
+    <img src="../assets/images/chainmail/fairy_link/fairy_link_tutorial_01_c.jpg" height=250>
 
 3. Move the first 2 rings from Step 1(red in the images above and below) and the last 2 rings from Step 1(yellow in the images above and below) towards each other so that one of each of the red rings is above the pair of yellow rings and the other red ring is below. Moving the rings like this creates 2 eyes with one on each side of the middle 2 rings from Step 1(blue in the images above and below). Add 2 new rings(green in the image below), one through each eye. When done, it should look something like this:
 
-    <img src="../assets/images/chainmail/fairy_link/fairy_link_tutorial_02_c.jpg" height=250>
+    <img src="../assets/images/chainmail/fairy_link/fairy_link_tutorial_02_c.jpg" height=250>
 
 4. Add 1 new ring(green in the image below) to the last 2 rings from Step 1(yellow in the image below) between the middle 2 rings from Step 1(blue in the image below). When done, it should look something like this:
 
-    <img src="../assets/images/chainmail/fairy_link/fairy_link_tutorial_03_c.jpg" height=250>
+    <img src="../assets/images/chainmail/fairy_link/fairy_link_tutorial_03_c.jpg" height=250>
 
 
 ### Notes
