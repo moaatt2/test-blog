@@ -14,8 +14,7 @@ For the sample piece showcased in this post, I used two sizes of rings made by h
 
 ### Notes
 
-The Celtic Visions weave is relatively simple to understand and create. In my opinion, it looks stunningly beautiful. The sample shown in the images below uses rings with an Aspect Ratio (AR) difference of 2.4, while the optimal difference would be 2, which would lock the small ring in the big ring more securely, leaving room for improvement. Since the weave is flat and broad, it is a perfect base for bracelets, chokers, or strapping. Given that it is easy to learn and create, in addition to being aesthetically pleasing, I highly recommend learning how to make this weave.
-
+The Celtic Visions weave is relatively simple to understand and create. In my opinion, it looks stunningly beautiful. The sample shown in the images below uses rings with an Aspect Ratio (AR) differential of 2.4, while the optimal AR differential is 2, which would lock the small ring in the big ring more securely, leaving room for improvement. Since the weave is flat and broad, it is a perfect base for bracelets, chokers, or strapping. Given that it is easy to learn and create, in addition to being aesthetically pleasing, I highly recommend learning how to make this weave.
 
 ### Pictures
 
