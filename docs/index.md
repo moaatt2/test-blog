@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Celtic Visions](chainmail_posts/celtic_visions.md)
     * [Helm's Deep Chain](chainmail_posts/helm_chain.md)
     * [Helm Chain](chainmail_posts/helm_chain.md)
     * [Fairy Link](chainmail_posts/fairy_link.md)
