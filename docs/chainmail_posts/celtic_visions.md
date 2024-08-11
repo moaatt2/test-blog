@@ -4,7 +4,7 @@
 
 ### Overview
 
-While checking out [M.A.I.L.](https://www.mailleartisans.org/) I came across [Celtic Visions](https://www.mailleartisans.org/weaves/weavedisplay.php?key=244) by [Dragorlad](https://www.mailleartisans.org/members/memberdisplay.php?key=742). Celtic Visions is a visually yet simple stunning variant of [Helm Chain](helm_chain.md) that adds some nice sharpness. If you want to make this weave yourself, I recommend this helpful [tutorial](https://artofmakingthings.com/articles/celtic-visions-weave-tutorial) by [Simon Livingston](https://artofmakingthings.com/author/p9cnoqm5).
+While checking out [M.A.I.L.](https://www.mailleartisans.org/) I came across [Celtic Visions](https://www.mailleartisans.org/weaves/weavedisplay.php?key=244) by [Dragorlad](https://www.mailleartisans.org/members/memberdisplay.php?key=742). Celtic Visions is a visually simple yet stunning variant of [Helm Chain](helm_chain.md) that adds amusing sharpness. If you want to make this weave yourself, I recommend this helpful [tutorial](https://artofmakingthings.com/articles/celtic-visions-weave-tutorial) by [Simon Livingston](https://artofmakingthings.com/author/p9cnoqm5).
 
 
 ### Materials
