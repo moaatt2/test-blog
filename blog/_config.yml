@@ -16,6 +16,16 @@ contact:
   formspree_form_id: "xpwawddn"
   form_message: "If you have a weave suggestion or just want to talk chainmail please use the form below to send me a mesage:"
 
+# Set links to grouping pages if you want to use them
+tag_page: /tags
+
+# Create tippy abbreviations to use throughout the website
+abbreviations:
+  ar:  "<abbr title='' data-tippy-content='Aspect Ratio'>AR</abbr>"
+  id:  "<abbr title='' data-tippy-content='Inner Diameter'>ID</abbr>"
+  swg: "<abbr title='' data-tippy-content='Standard Wire Gauge'>SWG</abbr>"
+  awg: "<abbr title='' data-tippy-content='American Wire Gauge'>AWG</abbr>"
+
 # Minima Settings
 remote_theme: moaatt2/minima@master
 minima:
