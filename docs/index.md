@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Conundrum 2](chainmail_posts/conundrum_2.md)
     * [Conundrum](chainmail_posts/conundrum.md)
     * [Celtic Visions](chainmail_posts/celtic_visions.md)
     * [Helm's Deep Chain](chainmail_posts/helm_chain.md)
