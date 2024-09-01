@@ -31,7 +31,7 @@ For the sample piece showcased in this post, I used two sizes of rings made from
 
 ### Notes
 
-The Helm Sheet weave is simple to understand but a bit more complex to create, inheriting the complexities of the Helm Chain. The weave can look aesthetically appealing; however, that requires tension, and without tension, the weave looks messy. It could be less reliant on tension if the small rings were smaller, leaving less room between the individual chains. As a sheet weave, you can make bracelets, necklaces, or fabric with it. In my opinion, the mediocre aesthetics of the weave and the moderate complexity in creating it make me unable to recommend learning to make this weave.
+The Helm Sheet weave is simple to understand but a bit more complex to create, inheriting the complexities of Helm Chain. The weave can look aesthetically appealing; however, that requires tension, and without tension, the weave looks messy. It could be less reliant on tension if the small rings were smaller, leaving less room between the individual chains. As a sheet weave, you can make bracelets, necklaces, or fabric with it. In my opinion, the mediocre aesthetics of the weave and the moderate complexity in creating it make me unable to recommend learning to make this weave.
 
 
 ### Pictures
