@@ -32,7 +32,7 @@ For the sample piece showcased in this post, I used two sizes of rings made from
 
 ### Notes
 
-The Magemaille weave is quite simple to understand and create. The weave can look nice; however, with the rings I used, the weave appeared very busy and complex. For maximal aesthetic appeal, the small rings should be small enough to leave almost no extra space when they join two large rings; it would be best if they were a smaller gauge than the larger rings. As a sheet weave, you can make bracelets, chokers, or even fabric with it. Given its simplicity and ease of creation, I recommend learning how to make this weave.
+The Magemaille weave is quite simple to understand and create. The weave can look nice; however, with the rings I used, the weave appeared very busy and complex. For maximal aesthetic appeal, the small rings should be small enough to leave almost no extra space when they join two large rings; it would be even better if they were a smaller gauge than the larger rings. As a sheet weave, you can make bracelets, chokers, or even fabric with it. Given its simplicity and ease of creation, I recommend learning how to make this weave.
 
 
 ### Pictures
