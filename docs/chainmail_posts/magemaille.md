@@ -54,7 +54,7 @@ The Magemaille weave is quite simple to understand and create. The weave can loo
 
 #### Vertical
 
-<img src="../assets/images/chainmail/magemaille/magemaille_vertical.jpg" height=750>
+<img src="../assets/images/chainmail/magemaille/magemaille_vertical.jpg" height=600>
 
 
 #### Vertical: Profile
