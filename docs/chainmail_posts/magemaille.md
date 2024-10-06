@@ -4,7 +4,7 @@
 
 ### Overview
 
-While checking [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to try, I came across [Magemaille](https://www.mailleartisans.org/weaves/weavedisplay.php?key=549) by [KendallNightblade](https://www.mailleartisans.org/members/memberdisplay.php?key=3560). Magemaille is a simple sheet made of [2-in-1 Chains](2_in_1_chain.md), joined incredibly simply. I have included a [tutorial](#tutorial) below for those who want to follow along at home, as I could not find any currently existing tutorial.
+While checking [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to try, I came across [Magemaille](https://www.mailleartisans.org/weaves/weavedisplay.php?key=549) by [KendallNightblade](https://www.mailleartisans.org/members/memberdisplay.php?key=3560). Magemaille is a sheet of [2-in-1 Chains](2_in_1_chain.md), joined incredibly simply. I have included a [tutorial](#tutorial) below for those who want to follow along at home, as I could not find any currently existing tutorial.
 
 
 ### Materials
