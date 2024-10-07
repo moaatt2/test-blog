@@ -1,0 +1,26 @@
+{
+    "European": {
+        "image": "/assets/images/posts/2023_02_12_european_4_in_1/european_4_in_1.jpg",
+        "caption": "European 4-in-1 the most basic European weave.",
+        "text": "European weaves are inspired by weaves historically worn as armor originating in Europe. European weaves tend to have a noticible grain due ot the rings alternating direction each row. Below is a list of articles about weaves of the European family."
+    },
+    "Japanese": {
+        "image": "/assets/images/posts/2024_05_26_japanese_4_in_1/japanese_4_in_1_flat.jpg",
+        "caption":"Japanese 4-in-1 the most basic Japanese weave.",
+        "text": "Japanese weaves are inspired by weaves historically worn as armor originating in Japan. Japanese weaves are characterized by rings joining at 90° degree angles and tend to be geometic. Below is a list of articles about weaves of the Japanese family."
+    },
+    "weave": {
+        "image": "/assets/images/posts/2024_05_26_japanese_4_in_1/japanese_4_in_1_flat.jpg",
+        "caption": "The Japanese 4-in-1 weave, a very basic weave.",
+        "text": "In chainmail a weave is an infinitely repeating pattern and unique of rings, where each ring meaningfully contributes such that removing one ring drastically changes its characteristics."
+    },
+    "chain": {
+        "text": "In chainmail a chain is a weave that is infinitely repeatable in one direction."
+    },
+    "sheet": {
+        "text": "In chainmail a sheet is a weave that is infinitely repeatable in two directions that are perpendicular to each other."
+    },
+    "tutorial": {
+        "text": "Posts with included tutorials."
+    }
+}
