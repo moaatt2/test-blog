@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Celtic Wings Sheet](chainmail_posts/celtic_wings_sheet.md)
     * [Magemaille](chainmail_posts/magemaille.md)
     * [Cask](chainmail_posts/cask.md)
     * [Celtic Dawn](chainmail_posts/celtic_dawn.md)
