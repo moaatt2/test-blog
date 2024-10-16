@@ -11,16 +11,41 @@
     },
     "weave": {
         "image": "/assets/images/posts/2024_05_26_japanese_4_in_1/japanese_4_in_1_flat.jpg",
+        "height": "250",
+        "width": "250",
         "caption": "The Japanese 4-in-1 weave, a very basic weave.",
-        "text": "In chainmail a weave is an infinitely repeating pattern and unique of rings, where each ring meaningfully contributes such that removing one ring drastically changes its characteristics."
+        "text": "In chainmail a weave is an infinitely repeating pattern and unique of rings, where each ring meaningfully contributes such that removing one ring drastically changes its characteristics.",
+        "glossary_page_show": true
     },
     "chain": {
-        "text": "In chainmail a chain is a weave that is infinitely repeatable in one direction."
+        "text": "In chainmail a chain is a weave that is infinitely repeatable in one direction.",
+        "glossary_page_show": true
     },
     "sheet": {
-        "text": "In chainmail a sheet is a weave that is infinitely repeatable in two directions that are perpendicular to each other."
+        "text": "In chainmail a sheet is a weave that is infinitely repeatable in two directions that are perpendicular to each other.",
+        "glossary_page_show": true
     },
     "tutorial": {
         "text": "Posts with included tutorials."
+    },
+    "aspect_ratio": {
+        "text": "The Aspect Ratio(AR) of is how large a ring is(relative to its wire thickness) with a larger AR meaning a larger ring. It is calculated as Inner Diameter/Wire Diameter.",
+        "glossary_page_show": true
+    },
+    "inner_diameter": {
+        "text": "The Inner Diameter(ID) of a ring is the diameter of the circle formed by the inside edge of a ring.",
+        "glossary_page_show": true
+    },
+    "wire_diameter": {
+        "text": "The Wire Diameter(WD) of a ring is the distance from the inner edge of the ring to the closest point on the outer edge of the ring.",
+        "glossary_page_show": true
+    },
+    "standard_wire_gauge": {
+        "text": "Standard Wire Gauge(sWG) is a wire guage system that assigns a number to a specified thickness (Wire Diameter) of wire with a thicker wire having a smaller gauge. You can read more about it <a href=\"https://en.wikipedia.org/wiki/Standard_wire_gauge\">here</a>.",
+        "glossary_page_show": true
+    },
+    "american_wire_gauge": {
+        "text": "American Wire Gauge(AWG) is a wire guage system that assigns a number to a specified thickness (Wire Diameter) of wire with a thicker wire having a smaller gauge. You can read more about it <a href=\"https://en.wikipedia.org/wiki/American_wire_gauge\">here</a>.",
+        "glossary_page_show": true
     }
 }
