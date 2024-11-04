@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [4 Winds](chainmail_posts/4_winds.md)
     * [Backbone](chainmail_posts/backbone.md)
     * [Brejão Flowers](chainmail_posts/brejao_flowers.md)
     * [Celtic Wings Sheet](chainmail_posts/celtic_wings_sheet.md)
