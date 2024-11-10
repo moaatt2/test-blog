@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Tao 3 Unit](chainmail_posts/tao_3_unit.md)
     * [4 Winds](chainmail_posts/4_winds.md)
     * [Backbone](chainmail_posts/backbone.md)
     * [Brejão Flowers](chainmail_posts/brejao_flowers.md)
