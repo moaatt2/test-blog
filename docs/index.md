@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Tao 4 Unit](chainmail_posts/tao_4_unit.md)
     * [Not Tao 3](chainmail_posts/not_tao_3.md)
     * [Tao 3 Unit](chainmail_posts/tao_3_unit.md)
     * [4 Winds](chainmail_posts/4_winds.md)
