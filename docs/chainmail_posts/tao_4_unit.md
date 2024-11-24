@@ -43,7 +43,7 @@ For the sample piece showcased in this post, I used two sizes of rings made by h
 
 ### Notes
 
-The weave is simple to understand and not too hard to create. Although, step 6 can become challenging if you use tighter rings. You could likely reduce that difficulty by using bent nose pliers. The weave looks quite good, particularly if the flat rings overlap consistently in the same direction. As a unit weave, it is well-suited for use in pendants, charms, or earrings. I recommend learning to make this weave, given its attractive appearance and ease of learning and making.
+The weave is simple to understand and not too hard to create. Although, step 6 can become challenging if you use tighter rings. You could likely reduce that difficulty by using bent nose pliers. The weave looks quite good, particularly if the flat rings consistently overlap in the same direction. As a unit weave, it is well-suited for use in pendants, charms, or earrings. I recommend learning to make this weave, given its attractive appearance and ease of learning and making.
 
 
 ### Pictures
