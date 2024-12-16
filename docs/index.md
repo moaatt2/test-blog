@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Tetra Orb](chainmail_posts/tetra_orb.md)
     * [Japanese 3-in-1](chainmail_posts/japanese_3_in_1.md)
     * [Fireman's Hold 4](chainmail_posts/firemans_hold_4.md)
     * [Tao 4 Unit](chainmail_posts/tao_4_unit.md)
