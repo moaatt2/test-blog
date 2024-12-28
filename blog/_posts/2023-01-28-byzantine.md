@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Byzantine"
-date:   2023-01-28
+date:   2023-01-28 01:00:00
 families: European
 image_path: "/assets/images/posts/2023_01_28_byzantine"
 main_image: "/byzantine_side_1.jpg"
