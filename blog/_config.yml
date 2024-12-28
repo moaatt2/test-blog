@@ -37,7 +37,8 @@ minima:
 favicon: /assets/images/icon.png
 
 feed:
-  url: 192.168.2.21
+  url: 192.168.2.21 # local url for feed
+  # url: https://moaatt2.github.io # Production url for feed
   path: /feed.xml
   icon: /assets/images/icon.png
 
