@@ -9,7 +9,7 @@ url: ""
 
 # Build settings
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-remote-theme
 
 # Minima Settings
@@ -35,6 +35,12 @@ minima:
 
 # Set a website icon
 favicon: /assets/images/icon.png
+
+feed:
+  url: 192.168.2.21
+  path: /feed.xml
+  icon: /assets/images/icon.png
+
 
 # Contact Settings
 contact:
