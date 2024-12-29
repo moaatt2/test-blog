@@ -5,7 +5,7 @@ date:   2023-02-05
 families: Persian
 image_path: "/assets/images/posts/2023_02_05_half_persian_3_in_1"
 main_image: "/half_persian_3_in_1_top.jpg"
-tags: weave chain
+tags: weave chain colors
 ---
 
 ### Overview
