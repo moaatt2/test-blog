@@ -32,12 +32,12 @@ Below are some images of the completed cube:
 
 #### Top View:
 
-<img style="max-width: 500px" src="{{ site.baseurl }}{{ page.image_path }}/box_top_view.jpg">
+<img style="max-width: min(500px, 100%)" src="{{ site.baseurl }}{{ page.image_path }}/box_top_view.jpg">
 
 #### Side View:
 
-<img style="max-width: 500px" src="{{ site.baseurl }}{{ page.image_path }}/box_side_view.jpg">
+<img style="max-width: min(500px, 100%)" src="{{ site.baseurl }}{{ page.image_path }}/box_side_view.jpg">
 
 #### Isometric View:
 
-<img style="max-width: 500px" src="{{ site.baseurl }}{{ page.image_path }}/box_isometric_view.jpg">
+<img style="max-width: min(500px, 100%)" src="{{ site.baseurl }}{{ page.image_path }}/box_isometric_view.jpg">

@@ -32,12 +32,12 @@ Below are images of the sample length of chain I made:
 
 #### Isometric View:
 
-<img style="max-width: 500px" src="{{ site.baseurl }}{{ page.image_path }}/byzantine_isometric.jpg">
+<img style="max-width: min(500px, 100%)" src="{{ site.baseurl }}{{ page.image_path }}/byzantine_isometric.jpg">
 
 #### Side 1:
 
-<img style="max-width: 500px" src="{{ site.baseurl }}{{ page.image_path }}/byzantine_side_1.jpg">
+<img style="max-width: min(500px, 100%)" src="{{ site.baseurl }}{{ page.image_path }}/byzantine_side_1.jpg">
 
 #### Side 2:
 
-<img style="max-width: 500px" src="{{ site.baseurl }}{{ page.image_path }}/byzantine_side_2.jpg">
+<img style="max-width: min(500px, 100%)" src="{{ site.baseurl }}{{ page.image_path }}/byzantine_side_2.jpg">
