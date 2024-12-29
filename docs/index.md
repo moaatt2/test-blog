@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Mercury](chainmail_posts/mercury.md)
     * [Captive 2-in-1 Chain](chainmail_posts/captive_2_in_1_chain.md)
     * [Tetra Orb](chainmail_posts/tetra_orb.md)
     * [Japanese 3-in-1](chainmail_posts/japanese_3_in_1.md)
