@@ -12,7 +12,7 @@ tags: weave chain tutorial
 
 ### Overview
 
-When I first made [Elfweave](elfweave.md) I liked it very much; however, I found the folding issue kept me from wanting to use it in an application. I found an gallery image on [M.A.I.L.](https://www.mailleartisans.org/) called [Spinal Elf](https://www.mailleartisans.org/gallery/gallerydisplay.php?key=8744) by [Lisa_Ellis](https://www.mailleartisans.org/members/memberdisplay.php?key=25515). Spinal Elf adds to prevent folding making the result look like stacked vertebrae hence the name. Additionally, like Elfweave it is also a member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) and [Mobius]({{ site.baseurl }}{{ site.family_page }}#Mobius) families. I really liked the look of it, so I tried making it.
+When I first made [Elfweave]({{ site.baseurl }}{% post_url 2023-05-07-elfweave %}) I liked it very much; however, I found the folding issue kept me from wanting to use it in an application. I found an gallery image on [M.A.I.L.](https://www.mailleartisans.org/) called [Spinal Elf](https://www.mailleartisans.org/gallery/gallerydisplay.php?key=8744) by [Lisa_Ellis](https://www.mailleartisans.org/members/memberdisplay.php?key=25515). Spinal Elf adds to prevent folding making the result look like stacked vertebrae hence the name. Additionally, like Elfweave it is also a member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) and [Mobius]({{ site.baseurl }}{{ site.family_page }}#Mobius) families. I really liked the look of it, so I tried making it.
 
 
 ### Materials
