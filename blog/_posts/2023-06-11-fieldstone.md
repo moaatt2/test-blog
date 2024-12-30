@@ -7,7 +7,7 @@ families:
     - Persian
     - Helm
 image_path: "/assets/images/posts/2023_06_11_fieldstone"
-main_image: "/fieldstone_flat_profile.jpg"
+main_image: "/fieldstone_flat.jpg"
 tags: weave chain
 ---
 
