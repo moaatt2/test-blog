@@ -5,7 +5,7 @@ date:   2023-05-14
 families:
     - European
     - Mobius
-image_path: "/assets/images/posts/2024_05_14_spinal_elf"
+image_path: "/assets/images/posts/2023_05_14_spinal_elf"
 main_image: "/spinal_elf_flat.jpg"
 tags: weave chain tutorial
 ---
