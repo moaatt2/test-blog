@@ -3,7 +3,7 @@ layout: post
 title:  "Roundmaille"
 date:   2023-04-30
 families: European
-image_path: "/assets/images/posts/2024_04_30_roundmaille"
+image_path: "/assets/images/posts/2023_04_30_roundmaille"
 main_image: "/roundmaille_flat.jpg"
 tags: weave chain
 ---
