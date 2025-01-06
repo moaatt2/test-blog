@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [4 Winds Sheet](chainmail_posts/4_winds_sheet.md)
     * [Mercury](chainmail_posts/mercury.md)
     * [Captive 2-in-1 Chain](chainmail_posts/captive_2_in_1_chain.md)
     * [Tetra Orb](chainmail_posts/tetra_orb.md)
