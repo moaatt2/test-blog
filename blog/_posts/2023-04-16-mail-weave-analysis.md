@@ -5,6 +5,7 @@ date:   2023-04-16
 image_path: "/assets/images/posts/2023_04_16_mail_weave_analysis"
 main_image: "/relative_tag_frequency.png"
 tags: project stats analysis
+exclude_from_gallery: True
 ---
 
 ### **Overview**
