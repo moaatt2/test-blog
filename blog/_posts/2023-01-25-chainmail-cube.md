@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chainmail Cube"
-date:   2023-01-25
+date:   2023-01-25 11:00:00
 families: Japanese
 image_path: "/assets/images/posts/2023_01_25_chainmail_cube"
 main_image: "/box_top_view.jpg"
