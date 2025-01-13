@@ -1,4 +1,13 @@
-<font size=1> posted: 2023_08_27 </font>
+---
+layout: post
+title:  "Making Rings at Home"
+date:   2025-01-13
+exclude_from_gallery: True
+image_path: "/assets/images/posts/2025_01_25_making_rings_at_home"
+main_image: "/making_rings_step_04.jpg"
+tags: tutorial 
+---
+
 
 # TODO:
     Take pictures of mandrels, chuck/rig, jeweler's saw, and bench pin to include in materials/tools section.
@@ -28,31 +37,31 @@ When I make rings at home, I use the following tools and materials:
 
 1. First, get the wire on the mandrel and prepare it for coiling.
 
-    <img height=300 src="../../assets/images/other/making_rings_at_home/making_rings_step_01.jpg">
+    <img style="max-height: min(300px, 95vh)" src="{{ site.baseurl }}{{ page.image_path }}/making_rings_step_01.jpg">
 
 2. Next, rotate the mandrel to coil.
 
-    <img height=300 src="../../assets/images/other/making_rings_at_home/making_rings_step_02.jpg">
+    <img style="max-height: min(300px, 95vh)" src="{{ site.baseurl }}{{ page.image_path }}/making_rings_step_02.jpg">
 
 3. Then, trim the wire off the end of the coil.
 
-    <img width=300 src="../../assets/images/other/making_rings_at_home/making_rings_step_03.jpg">
+    <img style="width: min(300px, 100%)" src="{{ site.baseurl }}{{ page.image_path }}/making_rings_step_03.jpg">
 
 4. Now, remove the coil from the mandrel.
 
-    <img height=300 src="../../assets/images/other/making_rings_at_home/making_rings_step_05.jpg">
+    <img style="max-height: min(300px, 95vh)" src="{{ site.baseurl }}{{ page.image_path }}/making_rings_step_05.jpg">
 
     Since I used a hole in my mandrel to keep the wire on it, I had to cut that part off.
 
-    <img height=300 src="../../assets/images/other/making_rings_at_home/making_rings_step_04.jpg">
+    <img style="max-height: min(300px, 95vh)" src="{{ site.baseurl }}{{ page.image_path }}/making_rings_step_04.jpg">
 
 5. With your coil free, start cutting rings off it.
 
-    <img height=300 src="../../assets/images/other/making_rings_at_home/making_rings_step_06.jpg">
+    <img style="max-height: min(300px, 95vh)" src="{{ site.baseurl }}{{ page.image_path }}/making_rings_step_06.jpg">
 
 6. Finally, you have your rings. You can either start using them or tumble them first.
 
-    <img width=300 src="../../assets/images/other/making_rings_at_home/making_rings_step_07.jpg">
+    <img style="width: min(300px, 100%)" src="{{ site.baseurl }}{{ page.image_path }}/making_rings_step_07.jpg">
 
 
 ### Notes:
