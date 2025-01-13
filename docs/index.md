@@ -5,6 +5,7 @@
 #### **Chainmail**:
 
 * Weaves:
+    * [Aura 3 Unit](chainmail_posts/aura_3_unit.md)
     * [4 Winds Sheet](chainmail_posts/4_winds_sheet.md)
     * [Mercury](chainmail_posts/mercury.md)
     * [Captive 2-in-1 Chain](chainmail_posts/captive_2_in_1_chain.md)
