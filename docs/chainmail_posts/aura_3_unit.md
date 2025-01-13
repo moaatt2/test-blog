@@ -1,4 +1,4 @@
-<font size=1> posted: 2024-04-07 </font>
+<font size=1> posted: 2025-01-12 </font>
 
 ## Aura 3 Unit
 
@@ -14,7 +14,7 @@ For the sample piece showcased in this post, I used two sizes of rings made by h
 
 ### Notes
 
-The Aura 3 Unit weave is quite simple to both understand and create. Overall, it looks pleasant, though the small rings at the edges can sometimes move around, which may make a slightly messy appearance. As this is a unit weave, desk ornaments, pendants, and charms are highly compatible applications. While working on the weave, I noticed many similarities to Celtic Visions, as it appears to result from joining three smaller units to one large ring. Given its ease of creation and appealing look, I recommend learning how to make this weave.
+The Aura 3 Unit weave is quite simple to both understand and create. Overall, it looks pleasant, though the small rings at the edges can sometimes move around, which may make a slightly messy appearance. As this is a unit weave; desk ornaments, pendants, and charms are highly compatible applications. While working on the weave, I noticed many similarities to Celtic Visions, as it appears to result from joining three smaller units to one large ring. Given its ease of creation and appealing look, I recommend learning how to make this weave.
 
 
 ### Pictures
