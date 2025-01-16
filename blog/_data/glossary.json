@@ -23,6 +23,16 @@
         "text": "In chainmail a sheet is a weave that is infinitely repeatable in two directions that are perpendicular to each other.",
         "glossary_page_show": true
     },
+    "solid": {
+        "text": "In chainmail a solid is a weave that is infinitely repeatable in three directions that are all perpendiuclar to eachother.",
+        "glossary_page_show": true
+
+    },
+    "unit": {
+        "text": "In chainmail a unit is a weave that is not infinitely repeatable in any direction leaving you with a single item of a fixed size.",
+        "glossary_page_show": true
+
+    },
     "tutorial": {
         "text": "Posts with included tutorials."
     },
@@ -40,6 +50,18 @@
     },
     "wire_diameter": {
         "text": "The Wire Diameter(WD) of a ring is the distance from the inner edge of the ring to the closest point on the outer edge of the ring.",
+        "glossary_page_show": true
+    },
+    "mandrel_diameter": {
+        "text": "The Mandrel Diameter(WD) of a ring is the diameter of the <a href='#mandrel'>mandrel</a> the ring was wound on. This is an approximation of the true <a href='#inner_diameter'>Inner Diameter</a> of the ring, however due to <a href='#springback'>springback</a> it is not the same.",
+        "glossary_page_show": true
+    },
+    "springback": {
+        "text": "Springback is when wire being coiled around a <a href='#mandrel'>mandrel</a> expands after it is no longer under tension. This makes the rings slightly larger than the mandrel the were wound on.",
+        "glossary_page_show": true
+    },
+    "mandrel": {
+        "text": "A rod that you wrap wire around to form coils for the purpose of cutting into rings. This can be a dowel however using a strong material is beneficial as it will keep a more consistent size.",
         "glossary_page_show": true
     },
     "standard_wire_gauge": {
