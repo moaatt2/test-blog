@@ -9,6 +9,31 @@
         "caption":"Japanese 4-in-1 the most basic Japanese weave.",
         "text": "Japanese weaves are inspired by weaves historically worn as armor originating in Japan. Japanese weaves are characterized by rings joining at 90° degree angles and tend to be geometic. Below is a list of articles about weaves of the Japanese family."
     },
+    "Persian": {
+        "image": "assets/images/posts/2024_06_23_full_persian_6_in_1/full_persian_6_in_1_flat.jpg",
+        "caption":"Full Persian 6-in-1 a historic weave that serves as a foundation of the persian weave family.",
+        "text": "Members of the Persian weave family can be distinguished by their use of stacked rings, usually having two sets of pairs, each moving in opposite directions.."
+    },    
+    "Mage": {
+        "image": "/assets/images/posts/2024_10_06_magemaille/magemaille_flat.jpg",
+        "caption": "Magemaille is the foundation of all mage weaves.",
+        "text": "Members of the Mage weave family are characterized by having slants alternate so they don't stack."
+    },
+    "Mobius": {
+        "image": "/assets/images/posts/2023_04_02_mobius_ball/mobius_ball.jpg.jpg",
+        "caption": "A Mobius Ball, the most basic of Mobius weaves.",
+        "text": "Members of the Mobius weave family use Mobius Balls with three or more rings where a single ring would work, adding some flair."
+    },
+    "Rhino": {
+        "image": "assets/images/posts/2024_01_28_rhinos_snorting_drano/rhinos_snorting_drano_flat.jpg",
+        "caption":"Rhinos Snorting Drano the origin of the Rhino family of weaves.",
+        "text": "Members of the Rhino weave family are characterized by their frequent use of around-the-eye connections."
+    },
+    "Helm": {
+        "image": "/assets/images/posts/2024_07_28_helm_chain/helm_chain_flat.jpg",
+        "caption":"Helm Chain the origin of the Helm weave family.",
+        "text": "Members of the Helm weave family can be distinguished by their use of small rings inside of larger rings and the larger rings orbiting around those small rings."
+    },
     "weave": {
         "image": "/assets/images/posts/2024_05_26_japanese_4_in_1/japanese_4_in_1_flat.jpg",
         "caption": "The Japanese 4-in-1 weave, a very basic weave.",
