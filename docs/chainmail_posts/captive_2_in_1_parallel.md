@@ -1,4 +1,4 @@
-<font size=1> posted: 2024-04-07 </font>
+<font size=1> posted: 2025-01-19 </font>
 
 ## Captive 2 in 1 Parallel
 
@@ -13,8 +13,7 @@ For the sample piece showcased in this post, I used two sizes of rings made from
 
 ### Notes
 
-The Captive 2-in-1 Parallel weave is somewhat complex to create and can be tricky to start. However, it is easy to continue once started. I find the weave to look very appealing. As a chain weave with a flat and broad cross-section, it is well-suited for use in bracelets and chokers. When I came across the weave on M.A.I.L., I did not realize the given aspect ratios required different wire diameters. Thus, I used a single wire diameter; my small rings are smaller than the ones suggested by the M.A.I.L. listing since those aspect ratios do not work for rings with the same wire diameter. If you wish to use different wire sizes, I suggest following the tutorial's recommendations; if you want to try diameter ring sizing, doubling up the large rings joined to the captive rings may be a good alternative. Considering the complexity of learning and creating this weave compared to its visual appeal, I find it challenging to recommend it to beginners. However, it is perfect for those with moderate experience, patience, or determination.
-
+The Captive 2-in-1 Parallel weave is somewhat complex to create and tricky to start; however, it is easy to continue once started. I find the weave to look very appealing. As a chain weave with a flat and broad cross-section, it is well-suited for use in bracelets and chokers. When I came across the weave on M.A.I.L., I did not realize the given aspect ratios required different wire diameters. Thus, I used a single wire diameter; my small rings are smaller than the ones suggested by the M.A.I.L. listing since those aspect ratios do not work for rings with the same wire diameter. If you wish to use different wire sizes, I suggest following the tutorial's recommendations; if you want to try diameter ring sizing, doubling up the large rings joined to the captive rings may be a good alternative. Considering the complexity of learning and creating this weave compared to its visual appeal, I find it challenging to recommend it to beginners. However, it is perfect for those with moderate experience, patience, or determination.
 
 
 ### Pictures
