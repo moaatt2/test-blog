@@ -10,7 +10,7 @@ tags: tutorial
 
 
 # TODO:
-    Take pictures of mandrels, chuck/rig, jeweler's saw, and bench pin to include in materials/tools section.
+    Replace tutorial images with smaller images.
 
 ## Making Rings at Home
 
@@ -23,9 +23,21 @@ In this article, we won't be exploring a new chainmail weave design. Instead, we
 
 When I make rings at home, I use the following tools and materials:
 * **Mandrels**: I use metal rods to wrap wire around to create coils. The thickness of your mandrel and the thickness of your wire determine the aspect ratio of your rings according to the formula: `Aspect Ratio = Mandrel Diameter / Wire Diameter`.
+
+	<img class="post-tutorial-image-300" src="{{ site.baseurl }}{{ page.image_path }}/mandrels.jpg">
+
 * **Mandrel Chuck/Rig**: I use this to make winding wire onto a mandrel easy.
+
+	<img class="post-tutorial-image-300" src="{{ site.baseurl }}{{ page.image_path }}/mandrel_chuck.jpg">
+
 * **Jewler's Saw**: I use it to cut coils into rings with smooth closures.
+
+	<img class="post-tutorial-image-300" src="{{ site.baseurl }}{{ page.image_path }}/jewelers_saw.jpg">
+
 * **Bench Pin**: I use it to help cut the coil into rings easily by allowing for better angles and not worrying about cutting my desk.
+
+	<img class="post-tutorial-image-300" src="{{ site.baseurl }}{{ page.image_path }}/bench_pin.jpg">
+
 * **Work Gloves**: I use these to keep my hands safe while coiling wire and cutting rings.
 * **Mask**: I wear a mask to avoid breathing in the metal dust generated when I cut wire with my saw.
 * **Paper Plate**: I keep one under my bench pin to catch rings coming off the coil.
