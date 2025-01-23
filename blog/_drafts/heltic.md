@@ -11,3 +11,5 @@ Tutorial
 5. Add 1 new large ring around the small ring from the previous step such that it is at the center of all the large rings involved in step 4.
 6. Add 4 new small rings through the eyes formed by the large ring from the last step and the large rings from the step before the previous. If you consider the top and bottom to be separated by the small ring from the step before previous and the left and right to be based on where the large rings from the last two steps are you should put 1 new small ring through each combination of top/bottom and left/right.
 7. Repeat steps 4 through 7 until the chain is as long as you want.
+
+photos edited
