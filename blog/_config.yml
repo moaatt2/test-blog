@@ -3,7 +3,7 @@
 # baseurl: ""
 
 # Publish(Github Pages Settings)
-baseurl: "/minima-testing"
+baseurl: "/test-blog"
 
 # Site Settings
 title: McKay Maille
