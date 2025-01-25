@@ -4,6 +4,7 @@ title:  "Chainmail Cube"
 date:   2023-01-25 11:00:00
 families: Japanese
 image_path: "/assets/images/posts/2023_01_25_chainmail_cube"
+model_path: "/assets/models/posts/2023_01_25_chainmail_cube"
 main_image: "/box_top_view.jpg"
 tags: weave solid kinged
 ---
@@ -41,3 +42,9 @@ Below are some images of the completed cube:
 #### Isometric View:
 
 <img style="max-width: min(500px, 100%)" src="{{ site.baseurl }}{{ page.image_path }}/box_isometric_view.jpg">
+
+
+### Interactive Model {% include 3d_model_instructions.html %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/japanese_8_in_2_cube.glb" %}
+{% include 3d_model.html model=path %}
