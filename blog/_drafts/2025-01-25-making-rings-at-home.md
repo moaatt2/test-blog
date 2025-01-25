@@ -8,10 +8,6 @@ main_image: "/making_rings_step_04.jpg"
 tags: tutorial 
 ---
 
-
-# TODO:
-    Replace tutorial images with smaller images.
-
 ## Making Rings at Home
 
 ### Overview
