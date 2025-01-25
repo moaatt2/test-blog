@@ -1,10 +1,15 @@
 
+# # Local Dev Settings
+# baseurl: ""
+
+# Publish(Github Pages Settings)
+baseurl: "/minima-testing"
+
 # Site Settings
 title: McKay Maille
 email: mckaymaille@gmail.com
 description: Welcome to my chainmaille showcase and blog. I hope you enjoy what you see and learn a lot here. 
 github_username:  moaatt2
-baseurl: ""
 url: ""
 
 # Build settings
