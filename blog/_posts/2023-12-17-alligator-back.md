@@ -5,7 +5,7 @@ date:   2023-12-17
 families:
     - European
     - Persian
-image_path: "/assets/images/posts/2023-12-17-alligator_back"
+image_path: "/assets/images/posts/2023_12_17_alligator_back"
 main_image: "/alligator_back_flat.jpg"
 tags: weave band
 ---
