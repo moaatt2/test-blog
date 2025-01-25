@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  "Making Rings at Home"
-date:   2025-01-13
+date:   2025-01-25
 exclude_from_gallery: True
 image_path: "/assets/images/posts/2025_01_25_making_rings_at_home"
 main_image: "/making_rings_step_04.jpg"
 tags: tutorial 
 ---
-
-## Making Rings at Home
 
 ### Overview
 
@@ -53,7 +51,7 @@ When I make rings at home, I use the following tools and materials:
 
 3. Then, trim the wire off the end of the coil.
 
-    <img style="width: min(300px, 100%)" src="{{ site.baseurl }}{{ page.image_path }}/making_rings_step_03.jpg">
+    <img style="max-height: min(300px, 95vh)" src="{{ site.baseurl }}{{ page.image_path }}/making_rings_step_03.jpg">
 
 4. Now, remove the coil from the mandrel.
 
