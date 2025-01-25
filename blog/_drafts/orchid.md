@@ -4,3 +4,5 @@ Orchid Weave
 
 * A bit loose, perhaps better with a smaller AR
 * Loogs good under tension, looks bad without tension(I think a smaller AR may improve it.)
+
+Photos edited
