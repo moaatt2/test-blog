@@ -15,7 +15,7 @@ While checking [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to try
 
 ### Materials
 
-For the sample piece showcased in this post, I used two sizes of rings made from 16 {% include abbreviations/swg.html %} Bright Aluminum wire. The smaller rings, which I made myself(bonus post coming soon), have an {% include abbreviations/id.html %} of 5mm for an {% include abbreviations/ar.html %} of 3.1. The larger rings have an {% include abbreviations/id.html %} of .25in for an {% include abbreviations/ar.html %} of 4, purchased from [The Ring Lord](https://theringlord.com/).
+For the sample piece showcased in this post, I used two sizes of rings made from 16 {% include abbreviations/swg.html %} Bright Aluminum wire. The smaller rings, which I [made myself]({{ site.baseurl }}{% post_url 2025-01-25-making-rings-at-home %}), have an {% include abbreviations/id.html %} of 5mm for an {% include abbreviations/ar.html %} of 3.1. The larger rings have an {% include abbreviations/id.html %} of .25in for an {% include abbreviations/ar.html %} of 4, purchased from [The Ring Lord](https://theringlord.com/).
 
 
 ### Tutorial

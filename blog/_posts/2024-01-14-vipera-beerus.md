@@ -15,7 +15,7 @@ When first starting to learn new chainmail weaves, I came across [Vipera Beerus]
 
 ### Materials
 
-For the sample piece showcased in this post, I made the rings myself (bonus post coming soon if you are interested). I used 16 {% include abbreviations/swg.html %} Bright Aluminum wire from [The Ring Lord](https://theringlord.com/) coiled around a 5mm mandrel (for an approximate {% include abbreviations/id.html %} of 5mm) for an {% include abbreviations/ar.html %} ratio of 3.1.
+For the sample piece showcased in this post, I [made the rings myself]({{ site.baseurl }}{% post_url 2025-01-25-making-rings-at-home %}). I used 16 {% include abbreviations/swg.html %} Bright Aluminum wire from [The Ring Lord](https://theringlord.com/) coiled around a 5mm mandrel (for an approximate {% include abbreviations/id.html %} of 5mm) for an {% include abbreviations/ar.html %} ratio of 3.1.
 
 
 ### Notes

@@ -17,7 +17,7 @@ While looking through [M.A.I.L.](https://www.mailleartisans.org/) for a new weav
 
 ### Materials
 
-For the sample piece showcased in this post, I made the rings myself (bonus post coming soon if you are interested). I used 16 {% include abbreviations/swg.html %} Bright Aluminum wire from [The Ring Lord](https://theringlord.com/) coiled around a 7mm mandrel (for an approximate {% include abbreviations/id.html %} of 7mm) for an approximate {% include abbreviations/ar.html %} of 4.3.
+For the sample piece showcased in this post, I [made the rings myself]({{ site.baseurl }}{% post_url 2025-01-25-making-rings-at-home %}). I used 16 {% include abbreviations/swg.html %} Bright Aluminum wire from [The Ring Lord](https://theringlord.com/) coiled around a 7mm mandrel (for an approximate {% include abbreviations/id.html %} of 7mm) for an approximate {% include abbreviations/ar.html %} of 4.3.
 
 
 ### Tutorial

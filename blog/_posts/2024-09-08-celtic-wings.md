@@ -18,7 +18,7 @@ While searching for weaves to make, I came across [Celtic Wings](https://www.mai
 
 ### Materials
 
-For the sample piece showcased in this post, I used two sizes of rings made by hand(bonus post coming soon) from 16 {% include abbreviations/swg.html %} Bright Aluminum wire purchased from [The Ring Lord](https://theringlord.com/). The smaller rings have an {% include abbreviations/id.html %} of 5mm for an {% include abbreviations/ar.html %} of 3.1. The larger rings have an {% include abbreviations/id.html %} of 9mm for an {% include abbreviations/ar.html %} of 5.5.
+For the sample piece showcased in this post, I used two sizes of rings [made by hand]({{ site.baseurl }}{% post_url 2025-01-25-making-rings-at-home %}) from 16 {% include abbreviations/swg.html %} Bright Aluminum wire purchased from [The Ring Lord](https://theringlord.com/). The smaller rings have an {% include abbreviations/id.html %} of 5mm for an {% include abbreviations/ar.html %} of 3.1. The larger rings have an {% include abbreviations/id.html %} of 9mm for an {% include abbreviations/ar.html %} of 5.5.
 
 
 ### Notes
