@@ -1,0 +1,62 @@
+
+# Site Settings
+title: McKay Maille
+email: mckaymaille@gmail.com
+description: Welcome to my chainmaille showcase and blog. I hope you enjoy what you see and learn a lot here. 
+github_username:  moaatt2
+baseurl: ""
+url: ""
+
+# Build settings
+plugins:
+  # - jekyll-feed
+  - jekyll-remote-theme
+
+# Minima Settings
+remote_theme: moaatt2/minima@master
+minima:
+  skin: dark
+  social_links:
+    - platform: github
+      user_url: https://github.com/moaatt2
+      user_title: GitHub
+    
+    - platform: email
+      user_url: "mailto:mckaymaille@gmail.com"
+      user_title: "mckaymaille@gmail.com" 
+    
+    - platform: code
+      user_url: "https://github.com/moaatt2/test-blog"
+      user_title: Source Code
+
+    - platform: rss
+      user_url: "/feed.xml"
+      user_title: "RSS Feed"
+
+# Set a website icon
+favicon: /assets/images/icon.png
+
+feed:
+  url: 192.168.2.21 # local url for feed
+  # url: https://moaatt2.github.io # Production url for feed
+  path: /feed.xml
+  icon: /assets/images/icon.png
+
+
+# Contact Settings
+contact:
+  title: Send me a message
+  formspree_form_id: "xpwawddn"
+  form_message: "If you have a weave suggestion or just want to talk chainmail please use the form below to send me a mesage:"
+
+# Set links to grouping pages if you want to use them
+tag_page: /tags
+family_page: /families
+glossary_page: /glossary
+
+# Create tippy abbreviations to use throughout the website
+abbreviations:
+  ar:  "<abbr title='' data-tippy-content='Aspect Ratio'>AR</abbr>"
+  id:  "<abbr title='' data-tippy-content='Inner Diameter'>ID</abbr>"
+  swg: "<abbr title='' data-tippy-content='Standard Wire Gauge'>SWG</abbr>"
+  awg: "<abbr title='' data-tippy-content='American Wire Gauge'>AWG</abbr>"

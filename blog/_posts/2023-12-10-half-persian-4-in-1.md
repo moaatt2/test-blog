@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Half Persian 4-in-1"
+date:   2023-12-10
+families: Persian
+image_path: "/assets/images/posts/2023_12_10_half_persian_4_in_1"
+main_image: "/half_persian_4_in_1_flat_a.jpg"
+tags: weave chain
+---
+
+### Overview
+
+While checking out [M.A.I.L.](https://www.mailleartisans.org/) for neat weaves to try, I found the historic [Half Persian 4-in-1](https://www.mailleartisans.org/weaves/weavedisplay.php?key=50). This member of the [Persian]({{ site.baseurl }}{{ site.family_page }}#Persian) family is the numerical progression of [Half Persian 3-in-1]({{ site.baseurl }}{% post_url 2023-02-05-half-persian-3-in-1 %}), with each ring going through 4 rings compared to each ring of Half Persian 3-in-1 going through 3 rings. If you are interested in trying it out yourself, I highly recommend this [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=192) by [Eli](https://www.mailleartisans.org/members/memberdisplay.php?key=1240).
+
+
+### Materials
+
+For the sample piece showcased in this post, I [made the rings myself]({{ site.baseurl }}{% post_url 2025-01-25-making-rings-at-home %}). I used 16 {% include abbreviations/swg.html %} Bright Aluminum wire from [The Ring Lord](https://theringlord.com/) coiled around an 8mm mandrel (for an approximate {% include abbreviations/id.html %} of 8mm) for an approximate {% include abbreviations/ar.html %} of 4.9.
+
+
+### Notes
+
+Half Persian 4-in-1 is both simple to understand and create. However, achieving the perfect placement of the crucial first few rings may require some restarts. The resulting weave is visually striking and possesses a unique property: its appearance and cross-section can dynamically change when stretched or compressed. When stretched, the weave takes on a flat rectangular cross-section, and when compressed, its cross-section becomes square. This versatile characteristic makes it suitable for jewelry items such as bracelets, chokers, and necklaces. Also, it can be used as a cord if compression is not a concern. Additionally, the weave's dynamic changes during stretching and compression can make it a playful and engaging fidget item. Due to its distinctive and fun properties, I highly recommend learning the Half Persian 4-in-1 weave.
+
+
+### Pictures
+
+#### Flat
+
+Stretched:<br>
+<img src="{{ site.baseurl }}{{ page.image_path }}/half_persian_4_in_1_flat_a.jpg" style="width: min(750px, 100%)">
+
+Compressed:<br>
+<img src="{{ site.baseurl }}{{ page.image_path }}/half_persian_4_in_1_flat_b.jpg" style="width: min(750px, 100%)">
+
+
+#### Flat: Profile
+
+Stretched:<br>
+<img src="{{ site.baseurl }}{{ page.image_path }}/half_persian_4_in_1_flat_profile_a.jpg" style="width: min(750px, 100%)">
+
+Compressed:<br>
+<img src="{{ site.baseurl }}{{ page.image_path }}/half_persian_4_in_1_flat_profile_b.jpg" style="width: min(750px, 100%)">
+
+
+#### Vertical
+
+<img src="{{ site.baseurl }}{{ page.image_path }}/half_persian_4_in_1_vertical.jpg" style="max-height: min(750px, 95vh)">
+
+
+#### Vertical: Profile
+
+<img src="{{ site.baseurl }}{{ page.image_path }}/half_persian_4_in_1_vertical_profile.jpg" style="max-height: min(750px, 95vh)">
+
+
+#### In Process
+
+<img src="{{ site.baseurl }}{{ page.image_path }}/half_persian_4_in_1_step_01.jpg" class="post-process-image-150">
+
+<br>
+
+<img src="{{ site.baseurl }}{{ page.image_path }}/half_persian_4_in_1_step_02.jpg" class="post-process-image-150">
+
+<br>
+
+<img src="{{ site.baseurl }}{{ page.image_path }}/half_persian_4_in_1_step_03.jpg" class="post-process-image-150">
+
+<br>
+
+<img src="{{ site.baseurl }}{{ page.image_path }}/half_persian_4_in_1_step_04.jpg" class="post-process-image-150">
