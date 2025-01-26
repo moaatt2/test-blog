@@ -7,7 +7,7 @@ families:
     - Rhino
 image_path: "/assets/images/posts/2024_02_04_jellybeans_on_parade"
 main_image: "/jellybeans_on_parade_flat.jpg"
-tags: weave chain
+tags: weave chain tutorial
 ---
 
 ### Overview
