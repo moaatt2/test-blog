@@ -6,7 +6,7 @@ families: European
 image_path: "/assets/images/posts/2025_01_26_captive_inverted_round"
 model_path: "/assets/models/posts/2025_01_26_captive_inverted_round"
 main_image: "/captive_inverted_round_flat.jpg"
-tags: weave chain inverted captive
+tags: weave chain inverted captive interactive_model
 ---
 
 ### Overview
@@ -70,3 +70,9 @@ The Captive Inverted Round weave is effortless to understand but can be hard to 
 <br>
 
 <img src="{{ site.baseurl }}{{ page.image_path }}/captive_inverted_round_step_05.jpg" style="max-height: min(250px, 95vh)">
+
+
+### Interactive Model {% include 3d_model_instructions.html %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/captive_inverted_round.glb" %}
+{% include 3d_model.html model=path %}
