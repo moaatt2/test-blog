@@ -4,8 +4,9 @@ title:  "Inverted Round"
 date:   2023-06-25
 families: European
 image_path: "/assets/images/posts/2023_06_25_inverted_round"
+model_path: "/assets/models/posts/2023_06_25_inverted_round"
 main_image: "/inverted_round_flat.jpg"
-tags: weave chain
+tags: weave chain interactive_model
 ---
 
 ### Overview
@@ -56,3 +57,9 @@ Inverted Round is a simple weave to make, though starting it can be a bit tricky
 <br>
 
 <img src="{{ site.baseurl }}{{ page.image_path }}/inverted_round_step_04.jpg" class="post-process-image-150">
+
+
+### Interactive Model {% include 3d_model_instructions.html %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/inverted_round.glb" %}
+{% include 3d_model.html model=path %}
