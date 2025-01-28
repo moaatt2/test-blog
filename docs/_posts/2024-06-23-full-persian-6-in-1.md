@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Full Persian 6-in-1 "
+title:  "Full Persian 6-in-1"
 date:   2024-06-23
 families: Persian
 image_path: "/assets/images/posts/2024_06_23_full_persian_6_in_1"
