@@ -1,11 +1,6 @@
 
-# # Local Dev Settings
-# baseurl: ""
-
-# Publish(Github Pages Settings)
-baseurl: "/test-blog"
-
 # Site Settings
+baseurl: ""
 title: McKay Maille
 email: mckaymaille@gmail.com
 description: Welcome to my chainmaille showcase and blog. I hope you enjoy what you see and learn a lot here. 
