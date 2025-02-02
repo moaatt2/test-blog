@@ -14,7 +14,6 @@ url: ""
 
 # Build settings
 plugins:
-  # - jekyll-feed
   - jekyll-remote-theme
 
 # Minima Settings
@@ -42,8 +41,8 @@ minima:
 favicon: /assets/images/icon.png
 
 feed:
-  url: 192.168.2.21 # local url for feed
-  # url: https://moaatt2.github.io # Production url for feed
+  # url: 192.168.2.21 # local url for feed
+  url: https://mckaymaille.ca # Production url for feed
   path: /feed.xml
   icon: /assets/images/icon.png
 
