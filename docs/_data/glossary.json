@@ -40,6 +40,12 @@
         "text": "In chainmail, a weave is an infinitely repeating pattern and unique of rings, where each ring meaningfully contributes such that removing one ring drastically changes its characteristics.",
         "glossary_page_show": true
     },
+    "eye": {
+        "image": "/assets/images/posts/2024_09_15_celtic/celtic_tutorial_01_c.jpg",
+        "caption": "The eyes formed by the red ring and yellow rings are highlighted purple.",
+        "text": "In chainmail, an eye is the area of overlap of the interiors of two or more rings. Typically, when adding rings in relation to an eye, you either add ring(s) around the eye, through the eye or both.",
+        "glossary_page_show": true
+    },
     "chain": {
         "text": "In chainmail, a chain is a weave that is infinitely repeatable in one direction.",
         "glossary_page_show": true
