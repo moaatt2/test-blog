@@ -102,5 +102,9 @@
     "american_wire_gauge": {
         "text": "American Wire Gauge(AWG) is a wire gauge system that assigns a number to a specified thickness (Wire Diameter) of wire with a thicker wire having a smaller gauge. You can read more about it <a href=\"https://en.wikipedia.org/wiki/American_wire_gauge\">here</a>.",
         "glossary_page_show": true
+    },
+    "kinged": {
+        "text": "In chainmail a 'Kinged' weave is a version of a weave where the rings are doubled up, with one ring passing through the eye of the other. This can be done to add strength or to change the appearance of the weave. You can take a looked at 'Kinged' weaves <a href='/tags#kinged'>here</a>.",
+        "glossary_page_show": true
     }
 }
