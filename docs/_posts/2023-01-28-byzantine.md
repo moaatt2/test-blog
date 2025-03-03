@@ -4,6 +4,7 @@ title:  "Byzantine"
 date:   2023-01-28 10:00:00
 families: European
 image_path: "/assets/images/posts/2023_01_28_byzantine"
+model_path: "/assets/models/posts/2023_01_28_byzantine"
 main_image: "/byzantine_side_1.jpg"
 tags: weave chain
 ---
@@ -41,3 +42,8 @@ Below are images of the sample length of chain I made:
 #### Side 2:
 
 <img style="max-width: min(500px, 100%)" src="{{ site.baseurl }}{{ page.image_path }}/byzantine_side_2.jpg">
+
+### Interactive Model {% include 3d_model_instructions.html %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/byzantine.glb" %}
+{% include 3d_model.html model=path %}
