@@ -11,7 +11,7 @@ tags: weave sheet interactive_model
 
 ### Overview
 
-While searching [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to try making, I came across [Byzantine Web](https://www.mailleartisans.org/weaves/weavedisplay.php?key=115) submitted by [lorenzo](https://www.mailleartisans.org/members/memberdisplay.php?key=17). This member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) family is another sheet variant of the [Byzantine]({{ site.baseurl }}{% post_url 2023-01-28-byzantine %}) weave with a fun hexagonal pattern. I found [this tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=231) by [Eli](https://www.mailleartisans.org/members/memberdisplay.php?key=1240) helpful, and if you want to follow along at home, I recommend you read it too.
+While searching [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to make, I came across [Byzantine Web](https://www.mailleartisans.org/weaves/weavedisplay.php?key=115) submitted by [lorenzo](https://www.mailleartisans.org/members/memberdisplay.php?key=17). This member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) family is another sheet variant of the [Byzantine]({{ site.baseurl }}{% post_url 2023-01-28-byzantine %}) weave with a fun hexagonal pattern. I found [this tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=231) by [Eli](https://www.mailleartisans.org/members/memberdisplay.php?key=1240) helpful, and if you want to follow along at home, I recommend you read it too.
 
 
 ### Materials
@@ -21,7 +21,7 @@ For the sample piece showcased in this post, I used two sizes of rings made from
 
 ### Notes
 
-The Byzantine Web weave is conceptually simple; however, it can be challenging to make if the rings used to join the Byzantine units are small. Using larger rings makes the weave easier to construct but also more open and visible, while smaller rings help hide the connectors but can be harder to close—bent-nose pliers can help in this case. I find the weave visually appealing, especially in a hexagonal shape; however, it cannot maintain that form without a frame or setting, requiring additional effort for the best aesthetic results. As a sheet weave, it has a wide range of applications, similar to fabric, but due to its open structure, it is best suited for decorative purposes like lace. Considering the work needed to optimize its appearance and the potential construction challenges, I recommend this weave for intermediate maillers or those with a specific plan for its use.
+The Byzantine Web weave is conceptually simple; however, it can be challenging to make if the rings used to join the Byzantine units are small. Using larger rings makes the weave easier to construct but also more open and visible, while smaller rings help hide the connectors but can be harder to close—bent-nose pliers can help in this case. I find the weave visually appealing, especially in a hexagonal shape; however, it cannot maintain that form without a frame or setting, requiring additional effort for the best aesthetic results. As a sheet weave, it has a wide range of applications, similar to fabric, but due to its open structure, it is best suited for decorative purposes similar to lace. Considering the work needed to optimize its appearance and the potential construction challenges, I recommend this weave for intermediate maillers or those with a specific plan for its use.
 
 
 ### Pictures
