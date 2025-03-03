@@ -11,6 +11,10 @@ url: ""
 plugins:
   - jekyll-remote-theme
 
+# Link preview settings
+twitter:
+  card: summary_large_image
+
 # Minima Settings
 remote_theme: moaatt2/minima@master
 minima:

@@ -6,6 +6,8 @@ families: European
 image_path: "/assets/images/posts/2025_03_02_byzantine_web"
 model_path: "/assets/models/posts/2025_03_02_byzantine_web"
 main_image: "/byzantine_web_flat.jpg"
+image: "/assets/images/posts/2025_03_02_byzantine_web/byzantine_web_flat.jpg"
+description: Join me in exploring the Byzantine Web chainmaille weave.
 tags: weave sheet interactive_model
 ---
 
