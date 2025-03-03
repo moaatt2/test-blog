@@ -6,7 +6,7 @@ families: European
 image_path: "/assets/images/posts/2023_01_28_byzantine"
 model_path: "/assets/models/posts/2023_01_28_byzantine"
 main_image: "/byzantine_side_1.jpg"
-tags: weave chain
+tags: weave chain interactive_model
 ---
 
 ### Overview
