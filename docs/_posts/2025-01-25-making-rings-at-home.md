@@ -5,6 +5,8 @@ date:   2025-01-25
 exclude_from_gallery: True
 image_path: "/assets/images/posts/2025_01_25_making_rings_at_home"
 main_image: "/making_rings_step_04.jpg"
+image: "/assets/images/posts/2025_01_25_making_rings_at_home/making_rings_step_04.jpg"
+description: Join me in exploring how to make individual rings at home.
 tags: tutorial 
 ---
 
