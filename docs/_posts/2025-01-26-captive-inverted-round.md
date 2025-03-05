@@ -6,6 +6,8 @@ families: European
 image_path: "/assets/images/posts/2025_01_26_captive_inverted_round"
 model_path: "/assets/models/posts/2025_01_26_captive_inverted_round"
 main_image: "/captive_inverted_round_flat.jpg"
+image: "/assets/images/posts/2025_01_26_captive_inverted_round/captive_inverted_round_flat.jpg"
+description: Join me in exploring the Captive Inverted Round chainmaille weave.
 tags: weave chain inverted captive interactive_model
 ---
 
