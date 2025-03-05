@@ -7,6 +7,8 @@ families:
     - Rhino
 image_path: "/assets/images/posts/2025_01_05_4_winds_sheet"
 main_image: "/4_winds_sheet_flat.jpg"
+image: "/assets/images/posts/2025_01_05_4_winds_sheet/4_winds_sheet_flat.jpg"
+description: Join me in exploring the 4 Winds Sheet chainmaille weave.
 tags: weave sheet tutorial
 ---
 
