@@ -5,6 +5,8 @@ date:   2024-12-22
 families: Japanese
 image_path: "/assets/images/posts/2024_12_22_captive_2_in_1_chain"
 main_image: "/captive_2_in_1_chain_flat.jpg"
+image: "/assets/images/posts/2024_12_22_captive_2_in_1_chain/captive_2_in_1_chain_flat.jpg"
+description: Join me in exploring the Captive 2-in-1 Chain chainmaille weave.
 tags: weave chain orbital
 ---
 
