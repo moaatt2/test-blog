@@ -5,6 +5,8 @@ date:   2024-10-20
 families: Mobius
 image_path: "/assets/images/posts/2024_10_20_brejao_flowers"
 main_image: "/brejao_flowers_flat.jpg"
+image: "/assets/images/posts/2024_10_20_brejao_flowers/brejao_flowers_flat.jpg"
+description: Join me in exploring the Brejão Flowers chainmaille weave.
 tags: weave sheet
 ---
 
