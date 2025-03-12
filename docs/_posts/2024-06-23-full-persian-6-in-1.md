@@ -5,6 +5,8 @@ date:   2024-06-23
 families: Persian
 image_path: "/assets/images/posts/2024_06_23_full_persian_6_in_1"
 main_image: "/full_persian_6_in_1_flat.jpg"
+image: "/assets/images/posts/2024_06_23_full_persian_6_in_1/full_persian_6_in_1_flat.jpg"
+description: Join me in exploring the Full Persian 6-in-1 chainmaille weave.
 tags: weave chain
 ---
 
