@@ -5,6 +5,8 @@ date:   2024-05-12
 families: European
 image_path: "/assets/images/posts/2024_05_12_byzantine_cross_chain"
 main_image: "/byzantine_cross_chain_flat.jpg"
+image: "/assets/images/posts/2024_05_12_byzantine_cross_chain/byzantine_cross_chain_flat.jpg"
+description: Join me in exploring the Byzantine Cross Chain chainmaille weave.
 tags: weave chain spiked
 ---
 
