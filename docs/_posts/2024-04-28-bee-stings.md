@@ -8,6 +8,8 @@ families:
     - Rhino
 image_path: "/assets/images/posts/2024_04_28_bee_stings"
 main_image: "/bee_stings_flat.jpg"
+image: "/assets/images/posts/2024_04_28_bee_stings/bee_stings_flat.jpg"
+description: Join me in exploring the Bee Stings chainmaille weave.
 tags: weave chain
 ---
 
