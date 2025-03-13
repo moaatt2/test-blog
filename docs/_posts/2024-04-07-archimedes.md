@@ -8,6 +8,8 @@ families:
     - Mobius
 image_path: "/assets/images/posts/2024_04_07_archimedes"
 main_image: "/archimedes_flat.jpg"
+image: "/assets/images/posts/2024_04_07_archimedes/archimedes_flat.jpg"
+description: Join me in exploring the Archimedes chainmaille weave.
 tags: weave chain spiral
 ---
 
