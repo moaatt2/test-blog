@@ -5,6 +5,8 @@ date:   2024-03-24
 families: European
 image_path: "/assets/images/posts/2024_03_24_flat_byz_4_in_1_tube"
 main_image: "/flat_byz_4_in_1_tube_flat.jpg"
+image: "/assets/images/posts/2024_03_24_flat_byz_4_in_1_tube/flat_byz_4_in_1_tube_flat.jpg"
+description: Join me in exploring the Flat Byz 4-in-1 Tube chainmaille weave.
 tags: weave band
 ---
 
