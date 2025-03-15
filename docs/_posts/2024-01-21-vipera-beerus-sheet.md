@@ -5,6 +5,8 @@ date:   2024-01-21
 families: European
 image_path: "/assets/images/posts/2024_01_24_vipera_beerus_sheet"
 main_image: "/vipera_beerus_sheet_flat.jpg"
+image: "/assets/images/posts/2024_01_24_vipera_beerus_sheet/vipera_beerus_sheet_flat.jpg"
+description: Join me in exploring the Vipera Beerus Sheet chainmaille weave.
 tags: weave sheet
 ---
 
