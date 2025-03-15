@@ -7,6 +7,8 @@ families:
     - Rhino
 image_path: "/assets/images/posts/2024_01_28_rhinos_snorting_drano"
 main_image: "/rhinos_snorting_drano_flat.jpg"
+image: "/assets/images/posts/2024_01_28_rhinos_snorting_drano/rhinos_snorting_drano_flat.jpg"
+description: Join me in exploring the Rhinos Snorting Drano chainmaille weave.
 tags: weave chain
 ---
 
