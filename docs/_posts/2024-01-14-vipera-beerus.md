@@ -5,6 +5,8 @@ date:   2024-01-14
 families: European
 image_path: "/assets/images/posts/2024_01_14_vipera_beerus"
 main_image: "/vipera_beerus_flat.jpg"
+image: "/assets/images/posts/2024_01_14_vipera_beerus/vipera_beerus_flat.jpg"
+description: Join me in exploring the Vipera Beerus chainmaille weave.
 tags: weave chain
 ---
 
