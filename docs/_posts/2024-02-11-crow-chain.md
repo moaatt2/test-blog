@@ -7,6 +7,8 @@ families:
     - Rhino
 image_path: "/assets/images/posts/2024_02_11_crow_chain"
 main_image: "/crow_chain_flat.jpg"
+image: "/assets/images/posts/2024_02_11_crow_chain/crow_chain_flat.jpg"
+description: Join me in exploring the Crow Chain chainmaille weave.
 tags: weave chain tutorial
 ---
 
