@@ -5,6 +5,8 @@ date:   2023-12-10
 families: Persian
 image_path: "/assets/images/posts/2023_12_10_half_persian_4_in_1"
 main_image: "/half_persian_4_in_1_flat_a.jpg"
+image: "/assets/images/posts/2023_12_10_half_persian_4_in_1/half_persian_4_in_1_flat_a.jpg"
+description: Join me in exploring the Half Persian 4-in-1 chainmaille weave.
 tags: weave chain
 ---
 
