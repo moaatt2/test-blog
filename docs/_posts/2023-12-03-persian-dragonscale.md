@@ -7,6 +7,8 @@ families:
     - Persian
 image_path: "/assets/images/posts/2023_12_03_persian_dragonscale"
 main_image: "/persian_dragonscale_flat.jpg"
+image: "/assets/images/posts/2023_12_03_persian_dragonscale/persian_dragonscale_flat.jpg"
+description: Join me in exploring the Persian Dragonscale chainmaille weave.
 tags: weave band
 ---
 
