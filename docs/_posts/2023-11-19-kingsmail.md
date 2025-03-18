@@ -5,6 +5,8 @@ date:   2023-11-19
 families: European
 image_path: "/assets/images/posts/2023_11_19_kingsmail"
 main_image: "/kingsmail_flat.jpg"
+image: "/assets/images/posts/2023_11_19_kingsmail/kingsmail_flat.jpg"
+description: Join me in exploring the Kingsmail chainmaille weave.
 tags: weave sheet kinged
 ---
 
