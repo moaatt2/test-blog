@@ -5,6 +5,8 @@ date:   2023-10-15
 families: European
 image_path: "/assets/images/posts/2023_10_15_trizantine"
 main_image: "/trizantine_flat.jpg"
+image: "/assets/images/posts/2023_10_15_trizantine/trizantine_flat.jpg"
+description: Join me in exploring the Trizantine chainmaille weave.
 tags: weave chain
 ---
 
