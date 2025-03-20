@@ -7,6 +7,8 @@ families:
     - Rhino
 image_path: "/assets/images/posts/2023_07_30_wolfsheet"
 main_image: "/wolfsheet_flat.jpg"
+image: "/assets/images/posts/2023_07_30_wolfsheet/wolfsheet_flat.jpg"
+description: Join me in exploring the Wolfsheet chainmaille weave.
 tags: weave sheet tutorial
 ---
 
