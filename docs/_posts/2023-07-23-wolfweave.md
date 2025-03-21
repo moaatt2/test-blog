@@ -7,6 +7,8 @@ families:
     - Rhino
 image_path: "/assets/images/posts/2023_07_20_wolfweave"
 main_image: "/wolfweave_flat.jpg"
+image: "/assets/images/posts/2023_07_20_wolfweave/wolfweave_flat.jpg"
+description: Join me in exploring the Wolfweave chainmaille weave.
 tags: weave chain
 ---
 
