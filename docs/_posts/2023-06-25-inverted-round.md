@@ -6,6 +6,8 @@ families: European
 image_path: "/assets/images/posts/2023_06_25_inverted_round"
 model_path: "/assets/models/posts/2023_06_25_inverted_round"
 main_image: "/inverted_round_flat.jpg"
+image: "/assets/images/posts/2023_06_25_inverted_round/inverted_round_flat.jpg"
+description: Join me in exploring the Inverted Round chainmaille weave.
 tags: weave chain interactive_model
 ---
 
