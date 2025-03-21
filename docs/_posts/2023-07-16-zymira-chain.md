@@ -5,6 +5,8 @@ date:   2023-07-16
 families: Mage
 image_path: "/assets/images/posts/2023_07_16_zymira_chain"
 main_image: "/zymira_chain_flat.jpg"
+image: "/assets/images/posts/2023_07_16_zymira_chain/zymira_chain_flat.jpg"
+description: Join me in exploring the Zymira Chain chainmaille weave.
 tags: weave chain
 ---
 
