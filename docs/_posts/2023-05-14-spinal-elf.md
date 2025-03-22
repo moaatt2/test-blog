@@ -7,6 +7,8 @@ families:
     - Mobius
 image_path: "/assets/images/posts/2023_05_14_spinal_elf"
 main_image: "/spinal_elf_flat.jpg"
+image: "/assets/images/posts/2023_05_14_spinal_elf/spinal_elf_flat.jpg"
+description: Join me in exploring the Spinal Elf chainmaille weave.
 tags: weave chain tutorial
 ---
 
