@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "4-in-2 Chain"
+title:  "Post Template"
 # date:   2025-04-20
-date: 2025-03-13
 families:
     - European
     - Japanese
