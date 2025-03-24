@@ -5,6 +5,8 @@ date:   2023-04-23
 families: European
 image_path: "/assets/images/posts/2023_04_23_parallel_byzantine_sheet"
 main_image: "/parallel_byzantine_sheet_flat.jpg"
+image: "/assets/images/posts/2023_04_23_parallel_byzantine_sheet/parallel_byzantine_sheet_flat.jpg"
+description: Join me in exploring the Parallel Byzantine Sheet chainmaille weave.
 tags: weave sheet
 ---
 
