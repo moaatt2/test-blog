@@ -7,6 +7,8 @@ families:
     - Japanese
 image_path: "/assets/images/posts/2023_04_16_back_to_work"
 main_image: "/back_to_work_flat.jpg"
+image: "/assets/images/posts/2023_04_16_back_to_work/back_to_work_flat.jpg"
+description: Join me in exploring the Back To Work chainmaille weave.
 tags: weave chain
 ---
 
