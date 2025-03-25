@@ -7,6 +7,8 @@ families:
     - Rhino
 image_path: "/assets/images/posts/2023_03_19_barrel_weave"
 main_image: "/barrel_weave_flat.jpg"
+image: "/assets/images/posts/2023_03_19_barrel_weave/barrel_weave_flat.jpg"
+description: Join me in exploring the Barrel Weave chainmaille weave.
 tags: weave chain
 ---
 
