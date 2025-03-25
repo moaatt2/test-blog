@@ -5,6 +5,8 @@ date:   2023-04-02
 families: Mobius
 image_path: "/assets/images/posts/2023_04_02_mobius_ball"
 main_image: "/mobius_ball.jpg"
+image: "/assets/images/posts/2023_04_02_mobius_ball/mobius_ball.jpg"
+description: Join me in exploring the Mobius Ball chainmaille weave.
 tags: weave unit
 ---
 
