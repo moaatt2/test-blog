@@ -5,6 +5,8 @@ date:   2023-01-29 11:00:00
 families: European
 image_path: "/assets/images/posts/2023_01_29_byzantine_diamond_ball"
 main_image: "/final_isometric.jpg"
+image: "/assets/images/posts/2023_01_29_byzantine_diamond_ball/final_isometric.jpg"
+description: Join me in exploring the Byzantine Diamond Ball chainmaille weave.
 tags: weave unit
 ---
 
