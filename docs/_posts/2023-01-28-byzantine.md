@@ -6,6 +6,8 @@ families: European
 image_path: "/assets/images/posts/2023_01_28_byzantine"
 model_path: "/assets/models/posts/2023_01_28_byzantine"
 main_image: "/byzantine_side_1.jpg"
+image: "/assets/images/posts/2023_01_28_byzantine/byzantine_side_1.jpg"
+description: Join me in exploring the Byzantine chainmaille weave.
 tags: weave chain interactive_model
 ---
 
