@@ -6,6 +6,8 @@ families: Japanese
 image_path: "/assets/images/posts/2023_01_25_chainmail_cube"
 model_path: "/assets/models/posts/2023_01_25_chainmail_cube"
 main_image: "/box_top_view.jpg"
+image: "/assets/images/posts/2023_01_25_chainmail_cube/box_top_view.jpg"
+description: Join me in exploring the Chainmail Cube weave.
 tags: weave solid kinged interactive_model
 ---
 
