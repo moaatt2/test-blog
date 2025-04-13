@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Dragonscale"
-# date:   2025-04-13
-date: 2025-03-12
+date:   2025-04-13
 families:
     - European
     - Helm
