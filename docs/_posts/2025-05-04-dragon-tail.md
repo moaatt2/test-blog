@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Dragon Tail"
-# date:   2025-05-04
-date:   2025-03-26
+date:   2025-05-04
 families: European
 image_path: "/assets/images/posts/2025_05_04_dragon_tail"
 model_path: "/assets/models/posts/2025_05_04_dragon_tail"
@@ -14,9 +13,7 @@ tags: weave chain interactive_model
 
 ### Overview
 
-TODO Fix Dragonscale Link Once dragonscale is posted.
-
-While checking out [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to try, I came across [Dragon Tail](https://www.mailleartisans.org/weaves/weavedisplay.php?key=299), submitted by [Rygar](https://www.mailleartisans.org/members/memberdisplay.php?key=934). This member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) weave family is another [Dragonscale]() variant, essentially being a single strip of Dragonscale on an angle. If you want to try it at home, I recommend [this tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=289) by [Tesserex](https://www.mailleartisans.org/members/memberdisplay.php?key=1705).
+While checking out [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to try, I came across [Dragon Tail](https://www.mailleartisans.org/weaves/weavedisplay.php?key=299), submitted by [Rygar](https://www.mailleartisans.org/members/memberdisplay.php?key=934). This member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) weave family is another [Dragonscale]({{ site.baseurl }}{% post_url 2025-04-13-dragonscale %}) variant, essentially being a single strip of Dragonscale on an angle. If you want to try it at home, I recommend [this tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=289) by [Tesserex](https://www.mailleartisans.org/members/memberdisplay.php?key=1705).
 
 
 ### Materials
