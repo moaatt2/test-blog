@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Shenanigans"
-# date:   2025-05-11
-date: 2025-03-29
+date:   2025-05-11
 families:
     - European
     - Helm
@@ -16,9 +15,7 @@ tags: weave chain interactive_model
 
 ### Overview
 
-TODO Fix Dragonscale Link Once dragonscale is posted.
-
-While rifling through [M.A.I.L.](https://www.mailleartisans.org) for new weaves to try out, I came across [Shenanigans](https://www.mailleartisans.org/weaves/weavedisplay.php?key=555) by [Grace](https://www.mailleartisans.org/members/memberdisplay.php?key=162). Shenanigans is a member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) and [Helm]({{ site.baseurl }}{{ site.family_page }}#Helm) weave families. It is another variant of [Dragonscale](), being just a single Dragonscale row. I recommend [this tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=646), which was also written by Grace, for those who wish to follow along at home.
+While rifling through [M.A.I.L.](https://www.mailleartisans.org) for new weaves to try out, I came across [Shenanigans](https://www.mailleartisans.org/weaves/weavedisplay.php?key=555) by [Grace](https://www.mailleartisans.org/members/memberdisplay.php?key=162). Shenanigans is a member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) and [Helm]({{ site.baseurl }}{{ site.family_page }}#Helm) weave families. It is another variant of [Dragonscale]({{ site.baseurl }}{% post_url 2025-04-13-dragonscale %}), being just a single Dragonscale row. I recommend [this tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=646), which was also written by Grace, for those who wish to follow along at home.
 
 
 ### Materials
