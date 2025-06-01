@@ -14,7 +14,7 @@ tags: weave chain spiral interactive_model
 
 ### Overview
 
-Recently, I got some rings in a new wire diameter and wanted to try making a weave with rings in two wire diameters. After looking through [M.A.I.L.](https://www.mailleartisans.org) for a weave that fits those criteria, I found [This Is Not Food](https://www.mailleartisans.org/weaves/weavedisplay.php?key=59) by Thexnihil(who doesn’t appear to have an account on M.A.I.L.). I found this member of the [Japanese]({{ site.baseurl }}{{ site.family_page }}#Japanese) weave family intriguing due to the use of small rings to hold the large rings in their spiral pattern. If you want to make this weave yourself, I recommend this great [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=198) by [IronRose](https://www.mailleartisans.org/members/memberdisplay.php?key=756).
+Recently, I got some rings in a new <abbr title="" data-tippy-content='Read more about wire diameter <a href="/glossary#wire_diameter">here<a>'>wire diameter</abbr> and wanted to try making a weave with rings with two different wire diameters. After looking through [M.A.I.L.](https://www.mailleartisans.org) for a weave that fits the criteria, I found [This Is Not Food](https://www.mailleartisans.org/weaves/weavedisplay.php?key=59) by Thexnihil(who doesn’t appear to have an account on M.A.I.L.). I found this member of the [Japanese]({{ site.baseurl }}{{ site.family_page }}#Japanese) weave family intriguing due to the use of small rings to hold the large rings in their spiral pattern. If you want to make this weave yourself, I recommend this great [tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=198) by [IronRose](https://www.mailleartisans.org/members/memberdisplay.php?key=756).
 
 
 ### Materials
@@ -76,12 +76,8 @@ The This Is Not Food weave is simple both to understand and create. Visually, it
 {% assign path = site.baseurl | append: page.model_path | append: "/this_is_not_food.glb" %}
 {% include 3d_model.html model=path %}
 
-* 18 SWG AR 3.26 - Minor 
-* 16 SWG AR 6.15 - Minor 0.2
-
 <!-- 
 * Model Rings:
     * AR 3.3 - Minor 0.15 | Major 0.645
     * AR 6.2 - Minor 0.20 | Major 1.44
-
 -->
