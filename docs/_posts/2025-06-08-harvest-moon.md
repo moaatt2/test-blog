@@ -15,12 +15,12 @@ tags: weave chain interactive_model
 
 ### Overview
 
-While looking for new weaves to make, I found [Harvest Moon](https://www.mailleartisans.org/weaves/weavedisplay.php?key=33) on [M.A.I.L.](https://www.mailleartisans.org) with no attributed originator. This member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) and [Helm]({{ site.baseurl }}{{ site.family_page }}#Helm) weave families has a very symmetrical appearance, thanks to the 90-degree formed by the joining of each unit. If you want to give making it a go yourself, I recommend [this tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=217) by [hockywierdo55](https://www.mailleartisans.org/members/memberdisplay.php?key=1300).
+While looking for new weaves to make, I found [Harvest Moon](https://www.mailleartisans.org/weaves/weavedisplay.php?key=33) on [M.A.I.L.](https://www.mailleartisans.org) with no attributed originator. This member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) and [Helm]({{ site.baseurl }}{{ site.family_page }}#Helm) weave families has a very symmetrical appearance, thanks to each unit being joined at a 90-degree angle. If you want to give making it a go yourself, I recommend [this tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=217) by [hockywierdo55](https://www.mailleartisans.org/members/memberdisplay.php?key=1300).
 
 
 ### Materials
 
-For the sample piece showcased in this post, I [made the rings myself]({{ site.baseurl }}{% post_url 2025-01-25-making-rings-at-home %}). I used 16 {% include abbreviations/swg.html %} Bright Aluminum wire from [The Ring Lord](https://theringlord.com/) coiled around a 8mm mandrel (for an approximate {% include abbreviations/id.html %} of 9mm) for an {% include abbreviations/ar.html %} of 4.9.
+For the sample piece showcased in this post, I [made the rings myself]({{ site.baseurl }}{% post_url 2025-01-25-making-rings-at-home %}). I used 16 {% include abbreviations/swg.html %} Bright Aluminum wire from [The Ring Lord](https://theringlord.com/) coiled around a 8mm mandrel (for an approximate {% include abbreviations/id.html %} of 8mm) for an {% include abbreviations/ar.html %} of 4.9.
 
 
 ### Notes
