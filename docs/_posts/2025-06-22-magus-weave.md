@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Magus Weave"
-# date:   2025-06-22
-date: 2025-06-04
+date:   2025-06-22
 families:
     - European
     - Mage
@@ -27,7 +26,7 @@ For the sample piece showcased in this post, I used two sizes of rings. The smal
 
 ### Tutorial
 
-1. Start with a [2-in-1 Chain]() made from large rings as long as you want the sheet to be wide. When done, it should look something like this:
+1. Start with a [2-in-1 Chain]({{ site.baseurl }}{% post_url 2023-09-03-2-in-1-chain %}) made from large rings as long as you want the sheet to be wide. When done, it should look something like this:
 
     <img src="{{ site.baseurl }}{{ page.image_path }}/magus_weave_tutorial_01.jpg" class="post-tutorial-image-300">
 
@@ -45,13 +44,13 @@ For the sample piece showcased in this post, I used two sizes of rings. The smal
 
     <canvas class="tutorial_canvas" id="step_03"></canvas>
 
-4. At the first connection point from step 3, add 1 new small ring (green in the image below) through the 2 large rings pointing down towards the connection point (blue in the image below); these rings should be in opposite corners, not in a row. When done, it should look something like this:
+4. At the first connection point from step 3, add 1 new small ring (green in the image below) through the 2 large rings pointing down towards the connection point (blue in the image below); these rings should be in opposite corners, not in the same column. When done, it should look something like this:
 
     <img src="{{ site.baseurl }}{{ page.image_path }}/magus_weave_tutorial_04_c.jpg" class="post-tutorial-image-300">
 
     <canvas class="tutorial_canvas" id="step_04"></canvas>
 
-5. Now, we add a second small ring (green in the image below) at the first connection point from step 3. This ring should go through the 2 large rings pointing up towards the connection point(blue in the image below) and the small ring from the last step(red in the image below). The large rings should be in opposite corners, not in a row. When done, it should look something like this:
+5. Now, we add a second small ring (green in the image below) at the first connection point from step 3. This ring should go through the 2 large rings pointing up towards the connection point(blue in the image below) and the small ring from the last step(red in the image below). The large rings should be in opposite corners, not in the same column. When done, it should look something like this:
 
     <img src="{{ site.baseurl }}{{ page.image_path }}/magus_weave_tutorial_05_c.jpg" class="post-tutorial-image-300">
 
