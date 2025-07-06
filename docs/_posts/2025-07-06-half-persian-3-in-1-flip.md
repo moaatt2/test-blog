@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Half Persian 3-in-1 Flip"
-# date:   2025-07-06
-date: 2025-06-05
+date:   2025-07-06
 families:
     - Persian
 image_path: "/assets/images/posts/2025_07_06_half_persian_3_in_1_flip"
