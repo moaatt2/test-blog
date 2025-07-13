@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Coyote Maille"
-# date:   2025-07-13
-date: 2025-06-07
+date:   2025-07-13
 families:
     - European
     - Mage
