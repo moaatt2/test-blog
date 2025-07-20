@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Charm Linkage"
-# date:   2025-07-20
-date: 2025-06-17
+date:   2025-07-20
 families:
     - European
     - Rhino
