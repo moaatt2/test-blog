@@ -14,7 +14,7 @@ tags: weave chain interactive_model
 
 ### Overview
 
-While searching for a new weave to try, I found [Half Byzantine Plus One](https://www.mailleartisans.org/weaves/weavedisplay.php?key=212), uploaded to [M.A.I.L.](https://www.mailleartisans.org/) by [Raevyn](https://www.mailleartisans.org/members/memberdisplay.php?key=550). This member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) weave family is a variant of [Byzantine]({{ site.baseurl }}{% post_url 2023-01-28-byzantine %}) made from half units joined together by larger rings. I recommend [this tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=492) by [oneringshortofafullcoil](https://www.mailleartisans.org/members/memberdisplay.php?key=10285) for those who wish to follow along at home.
+While searching for a new weave to try, I found [Half Byzantine Plus One](https://www.mailleartisans.org/weaves/weavedisplay.php?key=212), uploaded to [M.A.I.L.](https://www.mailleartisans.org/) by [Raevyn](https://www.mailleartisans.org/members/memberdisplay.php?key=550). This member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) weave family is a variant of [Byzantine]({{ site.baseurl }}{% post_url 2023-01-28-byzantine %}), made from half units joined together by larger rings. I recommend [this tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=492) by [oneringshortofafullcoil](https://www.mailleartisans.org/members/memberdisplay.php?key=10285) for those who wish to follow along at home.
 
 
 ### Materials
