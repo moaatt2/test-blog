@@ -36,7 +36,7 @@ The rings used for the sample piece shown in this post are 16 {% include abbrevi
 
     <canvas class="tutorial_canvas" id="step_02"></canvas>
 
-3. Add 1 new ring (green in the image below) around the <abbr title="" data-tippy-content='Read more about chainmail eyes <a  href="/glossary#eye">here<a>'>eye</abbr> (orange in the image below) formed by the ring from the last step (blue in the image below) and the ring from the step before that (yellow in the image below). Ensure you consistently add the new ring either under or over the ring from the previous step (blue in the image below). When done, it should look like this:
+3. Add 1 new ring (green in the image below) around the <abbr title="" data-tippy-content='Read more about chainmail eyes <a href="{{ site.baseurl }}{{ site.glossary_page }}#eye">here<a>'>eye</abbr> (orange in the image below) formed by the ring from the last step (blue in the image below) and the ring from the step before that (yellow in the image below). Ensure you consistently add the new ring either under or over the ring from the previous step (blue in the image below). When done, it should look like this:
 
     <img src="{{ site.baseurl }}{{ page.image_path }}/two_way_spiral_tutorial_03_c.jpg" class="post-tutorial-image-300">
 
