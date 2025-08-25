@@ -24,7 +24,7 @@ For the sample piece showcased in this post, I used two sizes of rings made from
 
 ### Notes
 
-Orbital Vipera Berus Lace is a bit tricky, but not too hard to understand and not too difficult to make. However, starting it can be tricky because the weave is unstable until a few units are in place.  In my opinion, the weave has a somewhat nice appearance. With its rectangular and notably flat cross-section, it is well suited for use in bracelets, chokers, and strapping. Given its ease of learning and construction, practical use cases, and moderate aesthetic appeal, it's worth adding to your repertoire, though it may take a backseat to other weaves if you find others that appeal to you more.
+Orbital Vipera Berus Lace is a bit tricky, but not too hard to understand and not too difficult to make. However, starting it can be tricky because the weave is unstable until a few units are in place. In my opinion, the weave has a somewhat nice appearance. With its rectangular and notably flat cross-section, it is well suited for use in bracelets, chokers, and strapping. Given its ease of learning and construction, practical use cases, and moderate aesthetic appeal, it's worth adding to your repertoire, though it may take a backseat to other weaves if you find others that appeal to you more.
 
 
 ### Pictures
