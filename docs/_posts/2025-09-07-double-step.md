@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Double Step"
-# date:   2025-09-07
-date: 2025-07-22
+date:   2025-09-07
 families:
     - European
     - Japanese
