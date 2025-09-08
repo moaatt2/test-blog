@@ -29,21 +29,21 @@ For the sample peice showcased in this post, I used three sizes of rings. The sm
 
 2. Place the center of 1 medium ring in the center of 1 large ring. The medium ring should fit in the large ring, and the less space between them, the better. When done, it should look like this:
 
-    <img src="{{ site.baseurl }}{{ page.image_path }}/double_step_step_01.jpg" class="post-tutorial-image-300">
+    <img src="{{ site.baseurl }}{{ page.image_path }}/double_step_step_01.jpg" class="post-tutorial-image-300">
 
-    <canvas class="tutorial_canvas" id="step_01"></canvas>
+    <canvas class="tutorial_canvas" id="step_01"></canvas>
 
 3. Lay 1 new large ring and 1 new medium ring (green in the image below) on the rings from the previous step (blue in the image below) in the direction you chose in step 1. The edges of the rings should overlap. When done, it should look like this:
 
-    <img src="{{ site.baseurl }}{{ page.image_path }}/double_step_tutorial_02_c.jpg" class="post-tutorial-image-300">
+    <img src="{{ site.baseurl }}{{ page.image_path }}/double_step_tutorial_02_c.jpg" class="post-tutorial-image-300">
 
-    <canvas class="tutorial_canvas" id="step_02"></canvas>
+    <canvas class="tutorial_canvas" id="step_02"></canvas>
 
 4. Join the rings from the last step (red in the image below) and the step before that (blue in the image below) together with 2 new small rings (green in the image below). When done, it should look like this:
 
-    <img src="{{ site.baseurl }}{{ page.image_path }}/double_step_tutorial_03_c.jpg" class="post-tutorial-image-300">
+    <img src="{{ site.baseurl }}{{ page.image_path }}/double_step_tutorial_03_c.jpg" class="post-tutorial-image-300">
 
-    <canvas class="tutorial_canvas" id="step_03"></canvas>
+    <canvas class="tutorial_canvas" id="step_03"></canvas>
 
 5. Repeat steps 2 and 3 until you are happy with the length of your chain.
 
