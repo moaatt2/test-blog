@@ -9,14 +9,14 @@ model_path: "/assets/models/posts/2025_09_14_orbital_super_berus_4_in_1_chain"
 main_image: "/orbital_super_berus_4_in_1_chain_flat.jpg"
 image: "/assets/images/posts/2025_09_14_orbital_super_berus_4_in_1_chain/orbital_super_berus_4_in_1_chain_flat.jpg"
 description: Join me in exploring the Orbital Super Berus 4-in-1 Chain chainmaille weave.
-tags: weave chain kinged tutorial interactive_model
+tags: weave chain tutorial interactive_model
 ---
 
 <!-- Shot with two point lighting -->
 
 ### Overview
 
-While looking through [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to try, I found [Orbital Super Berus 4 in 1 Chain](https://www.mailleartisans.org/weaves/weavedisplay.php?key=1187) by [mithrilweaver](https://www.mailleartisans.org/members/memberdisplay.php?key=14507). This weave is a member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) family. If you want to make this yourself, I recommend [this tutorial](https://www.youtube.com/watch?v=GRYsoWnL1ws) by [Aussie Maille](https://www.youtube.com/@AussieMaillers).
+While looking through [M.A.I.L.](https://www.mailleartisans.org/) for new weaves to try, I found [Orbital Super Berus 4-in-1 Chain](https://www.mailleartisans.org/weaves/weavedisplay.php?key=1187) by [mithrilweaver](https://www.mailleartisans.org/members/memberdisplay.php?key=14507). This weave is a member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) family. If you want to make this yourself, I recommend [this tutorial](https://www.youtube.com/watch?v=GRYsoWnL1ws) by [Aussie Maille](https://www.youtube.com/@AussieMaillers).
 
 
 ### Materials
