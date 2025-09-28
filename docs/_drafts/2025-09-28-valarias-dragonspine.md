@@ -9,7 +9,7 @@ model_path: "/assets/models/posts/2025_09_28_valarias_dragonspine"
 main_image: "/valarias_dragonspine_flat.jpg"
 image: "/assets/images/posts/2025_09_28_valarias_dragonspine/valarias_dragonspine_flat.jpg"
 description: Join me in exploring the Valairis Dragonspine chainmaille weave.
-tags: weave chain tutorial
+tags: weave chain
 ---
 
 <!-- Shot with two point lighting -->
