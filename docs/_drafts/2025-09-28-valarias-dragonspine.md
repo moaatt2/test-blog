@@ -16,7 +16,7 @@ tags: weave chain tutorial
 
 ### Overview
 
-While looking for new weaves to try, I came across [Valarias Dragonspine](https://www.mailleartisans.org/weaves/weavedisplay.php?key=843) as posted to [M.A.I.L.](https://www.mailleartisans.org/) by [starweaver](https://www.mailleartisans.org/members/memberdisplay.php?key=10548). This member of the European family is a fun chain variant of [European 4-in-1]({{ site.baseurl }}{% post_url 2023-02-12-european_4_in_1 %}), which adds orbital rings to the center line. If you wish to make this yourself, I found [this tutorial](https://www.youtube.com/watch?v=sIj1Y88GQRM) by [Aussie Maille](https://www.youtube.com/@AussieMaillers) very helpful.
+While looking for new weaves to try, I came across [Valarias Dragonspine](https://www.mailleartisans.org/weaves/weavedisplay.php?key=843) as posted to [M.A.I.L.](https://www.mailleartisans.org/) by [starweaver](https://www.mailleartisans.org/members/memberdisplay.php?key=10548). This member of the [European]({{ site.baseurl }}{{ site.family_page }}#European) family is a fun chain variant of [European 4-in-1]({{ site.baseurl }}{% post_url 2023-02-12-european_4_in_1 %}), which adds orbital rings to the center line. If you wish to make this yourself, I found [this tutorial](https://www.youtube.com/watch?v=sIj1Y88GQRM) by [Aussie Maille](https://www.youtube.com/@AussieMaillers) very helpful.
 
 
 ### Materials
