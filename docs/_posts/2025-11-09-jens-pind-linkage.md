@@ -15,7 +15,7 @@ tags: weave chain spiral interactive_model
 
 ### Overview
 
-While searching for new weaves in the past, I came across the [Jens Pind Linkage](https://www.mailleartisans.org/weaves/weavedisplay.php?key=335) (documented on [M.A.I.L.](https://www.mailleartisans.org/) by [Criterion](https://www.mailleartisans.org/members/memberdisplay.php?key=1493)) and its high {% include abbreviations/ar.html %} sensitivity, which previously put me off making it; however, I decided to make it now. This fun [spiral]({{ site.baseurl }}{{ site.tag_page }}#spiral) weave is a member of the [Mobius]({{ site.baseurl }}{{ site.family_page }}#Mobius) and [Persian]({{ site.baseurl }}{{ site.family_page }}#Persian) weave families. If you want to follow along at home, I found [Criterion’s tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=267) very helpful.
+While searching for new weaves in the past, I came across the [Jens Pind Linkage](https://www.mailleartisans.org/weaves/weavedisplay.php?key=335), documented on [M.A.I.L.](https://www.mailleartisans.org/) by [Criterion](https://www.mailleartisans.org/members/memberdisplay.php?key=1493). At the time, I found its high {% include abbreviations/ar.html %} sensitivity daunting; however, now that I have more experience, I have decided to make it. This fun [spiral]({{ site.baseurl }}{{ site.tag_page }}#spiral) weave is a member of the [Mobius]({{ site.baseurl }}{{ site.family_page }}#Mobius) and [Persian]({{ site.baseurl }}{{ site.family_page }}#Persian) weave families. If you want to follow along at home, I found [Criterion’s tutorial](https://www.mailleartisans.org/articles/articledisplay.php?key=267) very helpful.
 
 
 ### Materials
