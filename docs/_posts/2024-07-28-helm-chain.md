@@ -6,10 +6,11 @@ families:
     - European
     - Helm
 image_path: "/assets/images/posts/2024_07_28_helm_chain"
+model_path: "/assets/models/posts/2024_07_28_helm_chain"
 main_image: "/helm_chain_flat.jpg"
 image: "/assets/images/posts/2024_07_28_helm_chain/helm_chain_flat.jpg"
 description: Join me in exploring the Helm Chain chainmaille weave.
-tags: weave chain
+tags: weave chain interactive_model
 ---
 
 ### Overview
@@ -68,3 +69,15 @@ The Helm Chain weave is not very complex to understand, though it can be a bit h
 <br>
 
 <img src="{{ site.baseurl }}{{ page.image_path }}/helm_chain_step_04.jpg" class="post-process-image-150">
+
+
+### Interactive Model {% include 3d_model_instructions.html %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/helm_chain.glb" %}
+{% include 3d_model.html model=path %}
+
+<!-- 
+* Model Rings:
+    * AR 6.5 - Minor 0.20 | Major 1.50
+    * AR 4.0 - Minor 0.18 | Major 0.90
+-->
