@@ -7,10 +7,11 @@ families:
     - Japanese
     - Helm
 image_path: "/assets/images/posts/2024_08_11_celtic_visions"
+model_path: "/assets/models/posts/2024_08_11_celtic_visions"
 main_image: "/celtic_visions_flat.jpg"
 image: "/assets/images/posts/2024_08_11_celtic_visions/celtic_visions_flat.jpg"
 description: Join me in exploring the Celtic Visions chainmaille weave.
-tags: weave chain
+tags: weave chain interactive_model
 ---
 
 ### Overview
@@ -69,3 +70,15 @@ The Celtic Visions weave is relatively simple to understand and create. In my op
 <br>
 
 <img src="{{ site.baseurl }}{{ page.image_path }}/celtic_visions_step_04.jpg" class="post-process-image-150">
+
+
+### Interactive Model {% include 3d_model_instructions.html %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/celtic_visions.glb" %}
+{% include 3d_model.html model=path %}
+
+<!-- 
+* Model Rings:
+    * AR 6.5 - Minor 0.20 | Major 1.50
+    * AR 4.0 - Minor 0.18 | Major 0.90
+-->
