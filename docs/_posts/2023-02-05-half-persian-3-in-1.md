@@ -4,10 +4,11 @@ title:  "Half Persian 3-in-1"
 date:   2023-02-05
 families: Persian
 image_path: "/assets/images/posts/2023_02_05_half_persian_3_in_1"
+model_path: "/assets/models/posts/2023_02_05_half_persian_3_in_1"
 main_image: "/half_persian_3_in_1_top.jpg"
 image: "/assets/images/posts/2023_02_05_half_persian_3_in_1/half_persian_3_in_1_top.jpg"
 description: Join me in exploring the Half Persian 3-in-1 chainmaille weave.
-tags: weave chain colors
+tags: weave chain colors interactive_model
 ---
 
 ### Overview
@@ -94,3 +95,14 @@ While the beginning can be a tiny bit tricky the weave overall is quite easy to 
 <img src="{{ site.baseurl }}{{ page.image_path }}/half_persian_3_in_1_step_28.jpg" style="max-width: min(500px, 100%)">
 
 <img src="{{ site.baseurl }}{{ page.image_path }}/half_persian_3_in_1_step_30.jpg" style="max-width: min(500px, 100%)">
+
+
+### Interactive Model {% include 3d_model_instructions.html %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/half_persian_3_in_1.glb" %}
+{% include 3d_model.html model=path %}
+
+<!-- 
+* Model Rings:
+    * AR 5.0 - Minor 0.2 | Major 1.20
+-->
