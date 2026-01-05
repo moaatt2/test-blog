@@ -24,7 +24,7 @@ For the sample piece showcased in this post, I [made the rings myself]({{ site.b
 
 ### Notes
 
-The weave is a bit more complicated than the base weaves, but it is still fairly straightforward. The beginning can be tricky if you start with Half Persian 3-in-1 as I did; thankfully, after that,  it becomes quite easy. The weave can look very nice when arranged correctly and given some stability, but it is fairly unstable by default. As a unique chain weave with a concave side and a deep recess, it is ideal for capturing larger items such as cabochons, as briefly shown in the tutorial. Overall, I recommend learning this weave, as it is simple once started and having a reliable weave for capturing items is always useful.
+The weave is a bit more complicated than the base weaves, but it is still fairly straightforward. The beginning can be tricky if you start with Half Persian 3-in-1 as I did; thankfully, after that,  it becomes quite easy. The weave can look very nice when arranged correctly and given some stability, but it is fairly unstable by default. As a unique chain weave with a concave side and a deep recess, it is ideal for capturing larger items such as [cabochons](https://en.wikipedia.org/wiki/Cabochon), as briefly shown in the tutorial. Overall, I recommend learning this weave, as it is simple once started and having a reliable weave for capturing items is always useful.
 
 
 ### Pictures
