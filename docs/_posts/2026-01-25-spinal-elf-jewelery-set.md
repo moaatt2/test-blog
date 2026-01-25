@@ -53,7 +53,7 @@ Over time, rubber rings can bend out of their original shape (which you can see 
 
 Were I to make this project again, I would only change two things. The first would be to source 16 {% include abbreviations/swg.html %} glow-in-the-dark rings if possible. The second would be to try to find water-resistant hooks and clasps for more assured longevity.
 
-Overall, I found this project very rewarding to make, and I enjoy seeing my friend wearing it. The result is aesthetically pleasing, relatively inexpensive to make, and easy to care for, although it can be a bit challenging to construct. If you are interested in trying something similar yourself and already have a simpler project (like these [Beez Stew Bracelets]({{ site.baseurl }}{% post_url 2025-11-02-beez-stew-bracelet %})) or two under your belt, I would recommend giving it a try. Please feel free to use my contact form if you have any questions.
+Overall, I found this project very rewarding to make, and I enjoy seeing my friend wearing it. The result is aesthetically pleasing, relatively inexpensive to make, and easy to care for, although it can be a bit challenging to construct. If you are interested in trying something similar yourself and already have a simpler project (like these [Beez Stew Bracelets]({{ site.baseurl }}{% post_url 2025-11-02-beez-stew-bracelet %})) or two under your belt, I would recommend giving it a try. Please feel free to use my [contact form]({{ site.baseurl }}/contact) if you have any questions.
 
 
 ### Pictures
