@@ -9,7 +9,7 @@ weaves:
 image_path: "/assets/images/posts/2025_11_02_beez_stew_bracelets"
 main_image: "/1_beez_stew_bracelet_worn.jpg"
 image:      "/assets/images/posts/2025_11_02_beez_stew_bracelets/1_beez_stew_bracelet_worn.jpg"
-tags: project colorful bracelets
+tags: project colorful bracelet
 ---
 
 ### Overview
