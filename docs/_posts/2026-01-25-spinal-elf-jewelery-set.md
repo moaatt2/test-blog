@@ -41,7 +41,7 @@ For this project, I procured leverback earrings at [Michaels](https://canada.mic
 
 The primary inspirations for this piece were to create something meaningful for a friend and to play with glow-in-the-dark rubber rings. Adapting the weave to work with rubber rings and determining how to join it to itself was a fun and engaging challenge.
 
-This project inherited the complexities of working with Spinal Elf and introduced additional challenges by using rubber rings and joining the weave to itself. While I originally considered using Elfweave, I found it too unstable for this application and ultimately chose Spinal Elf as its stabilized counterpart.
+This project inherited the complexities of working with Spinal Elf and introduced additional challenges by using rubber rings and joining the weave to itself. While I originally considered using Elfweave, I found it too unstable for this application and ultimately chose one of its stabilized forms, Spinal Elf.
 
 One material-related complication arose when the glow-in-the-dark rings I ordered in 16 {% include abbreviations/swg.html %} with a 1/4" {% include abbreviations/id.html %} arrived in 17 {% include abbreviations/swg.html %} instead. The original intent was for all rubber rings in the weave to be glow-in-the-dark; however, using only the thinner rings resulted in an unstable weave. I ultimately found that placing glow-in-the-dark rubber rings on the top portion of the weave and light blue 16 {% include abbreviations/swg.html %} rubber rings on the bottom preserved structural integrity while maximizing the glowing from the smaller rings.
 
@@ -51,7 +51,7 @@ Care and maintenance are thankfully straightforward. The bracelets, made entirel
 
 Over time, rubber rings can bend out of their original shape (which you can see in the photos below), but they are not damaged. As a somewhat loose-fitting set constructed from lightweight materials, the jewelry is quite comfortable to wear.
 
-Were I to make this project again, I would only change two things. The first would be to source 16 {% include abbreviations/swg.html %} glow-in-the-dark rings if possible. The second would be to try to find water-resistant hooks and clasps for more assured longevity.
+Were I to make this project again, I would only change two things. The first would be to source 16 {% include abbreviations/swg.html %} glow-in-the-dark rings, if possible. The second would be to try to find water-resistant earring backings and clasps for more assured longevity.
 
 Overall, I found this project very rewarding to make, and I enjoy seeing my friend wearing it. The result is aesthetically pleasing, relatively inexpensive to make, and easy to care for, although it can be a bit challenging to construct. If you are interested in trying something similar yourself and already have a simpler project (like these [Beez Stew Bracelets]({{ site.baseurl }}{% post_url 2025-11-02-beez-stew-bracelet %})) or two under your belt, I would recommend giving it a try. Please feel free to use my [contact form]({{ site.baseurl }}/contact) if you have any questions.
 
