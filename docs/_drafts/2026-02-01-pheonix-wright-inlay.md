@@ -2,6 +2,7 @@
 layout: project_post
 title:  "Pheonix Wright Inlay"
 date:   2026-02-01
+start_date: 2024-07-05
 completion_date: 2024-07-26
 weaves:
     - European 4-in-1
