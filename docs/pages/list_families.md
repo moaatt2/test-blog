@@ -1,6 +1,6 @@
 ---
 layout: list_families
-title: Posts by Family
+title: Posts By Family
 permalink: /families
 show_single: yes
 glossary: single_only
