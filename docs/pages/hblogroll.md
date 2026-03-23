@@ -7,7 +7,7 @@ permalink: /blogroll/
 Links to my other websites, my friends websites, and other pages I like.
 
 ## Friends
-* [Local Nonsatiation](https://nonsatiation.believe.cv/) - Leather/Watches/Miscellaneous.
+* [Local Nonsatiation](https://nonsatiation.believe.cv/) - Multidisciplinary artist.
 
 ## My Other Sites
 * [Chainmail Tools](https://moaatt2.github.io/chainmail_tools/) - Various utilities I host for chainmail.
