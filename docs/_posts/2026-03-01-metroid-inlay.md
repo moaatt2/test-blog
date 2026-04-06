@@ -37,7 +37,7 @@ Additionally, to make the frame, I bought supplies from various retailers. The s
 |----------------------|-------------|------------------------------------------------------------------------------------------------------------------|
 | **1/4" Dowels** | Home Depot  | These formed the core of the frame and provided the stiff structure to attach rings to.                         |
 | **Jute Twine** | Home Depot  | Used to join the dowels together to form a proper frame.                                                         |
-| **Grit Sandpaper** | N/A         | My Dad's old sandpaper used to roughen up the dowel to improve the hold of the twine.                            |
+| **100 Grit Sandpaper** | N/A         | My Dad's old sandpaper used to roughen up the dowel to improve the hold of the twine.                            |
 | **Contact Cement** | Dollarama   | Used on the jute bindings to improve adherence to the dowel and prevent fraying.                                 |
 | **Hot Glue** | N/A         | Hot glue I borrowed from a friend to attach the backing to the frame.                                           |
 | **Black Foam Board** | Dollar Tree | Used as the backing of the frame to improve appearance (compare [with](#hung-up) and [without](#final_step)).    |
