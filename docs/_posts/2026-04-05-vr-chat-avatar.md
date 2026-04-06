@@ -129,39 +129,39 @@ Additionally, these three improvements are not mutually exclusive and could be c
 
 #### Mr Stick V1 Starting Body
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_progress_01_initial_body.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_step_01_initial_body.png" style="max-height: min(200px, 95vh)">
 
 #### Mr Stick V1 With Armature
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_progress_02_with_bones.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_step_02_with_bones.png" style="max-height: min(200px, 95vh)">
 
 #### Mr Stick V1 Bad Arm Bend
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_progress_03_bad_arm_bend.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_step_03_bad_arm_bend.png" style="max-height: min(200px, 95vh)">
 
 #### Mr Stick V1 Arm Loop Cuts
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_progress_04_arm_loop_cuts.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_step_04_arm_loop_cuts.png" style="max-height: min(200px, 95vh)">
 
 #### Mr Stick V1 Good Arm Bend
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_progress_05_improved_arm_bend.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_step_05_improved_arm_bend.png" style="max-height: min(200px, 95vh)">
 
 #### Mr Stick V1 Standard Grey
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_progress_06_now_in_color.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_step_06_now_in_color.png" style="max-height: min(200px, 95vh)">
 
 #### Mr Stick V1 Smoothed and Outline
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_progress_07_outline_and_smooth.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_step_07_outline_and_smooth.png" style="max-height: min(200px, 95vh)">
 
 #### Mr Stick V1 In Unity
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_progress_08_in_unity.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_step_08_in_unity.png" style="max-height: min(200px, 95vh)">
 
 #### Mr Stick V1 Bone Map
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_progress_09_bone_mapping_in_unity.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_step_09_bone_mapping_in_unity.png" style="max-height: min(200px, 95vh)">
 
 
 #### FBX Export Settings
@@ -211,72 +211,72 @@ Additionally, these three improvements are not mutually exclusive and could be c
 
 #### Mr Stick V2 Base Model
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_progress_01.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_step_01.png" style="max-height: min(200px, 95vh)">
 
 
 #### Mr Stick V2 Model With Armature
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_progress_02.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_step_02.png" style="max-height: min(200px, 95vh)">
 
 
 #### Mr Stick V2 Slight Limb Armature Adjustments
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_progress_03.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_step_03.png" style="max-height: min(200px, 95vh)">
 
 
 #### Mr Stick V2 Model In Unity
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_progress_04.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_step_04.png" style="max-height: min(200px, 95vh)">
 
 
 #### Mr Stick V2 Model With Unity Bones
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_progress_05.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_step_05.png" style="max-height: min(200px, 95vh)">
 
 
 #### Mr Stick V2 VRC Build Menu
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_progress_06.png" style="max-height: min(400px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_step_06.png" style="max-height: min(400px, 95vh)">
 
 
 #### Mr Chain Base Model
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_chain_progress_01.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_chain_step_01.png" style="max-height: min(200px, 95vh)">
 
 
 #### Mr Chain Model With Armature
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_chain_progress_02.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_chain_step_02.png" style="max-height: min(200px, 95vh)">
 
 
 #### Mr Chain In Unity
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_chain_progress_03.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_chain_step_03.png" style="max-height: min(200px, 95vh)">
 
 
 #### Mr Chain Unity Bone Mapping
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_chain_progress_04.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_chain_step_04.png" style="max-height: min(200px, 95vh)">
 
 
 #### Mr Chain VRC Build Menu
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_chain_progress_05.png" style="max-height: min(400px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_chain_step_05.png" style="max-height: min(400px, 95vh)">
 
 
 #### Mrs Chain T Special 3 Materials
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mrs_chain_t_special_in_process_01_tri_material.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mrs_chain_t_special_step_01_tri_material.png" style="max-height: min(200px, 95vh)">
 
 
 #### Mrs Chain T Special Tweaked Solidfy Modifier
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mrs_chain_t_special_in_process_02_solidify_modifier.png" style="max-height: min(300px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mrs_chain_t_special_step_02_solidify_modifier.png" style="max-height: min(300px, 95vh)">
 
 
 #### Mrs Chain T Special Cute Bow
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mrs_chain_t_special_in_process_03_bow.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mrs_chain_t_special_step_03_bow.png" style="max-height: min(200px, 95vh)">
 
 
 ### Interactive Models
