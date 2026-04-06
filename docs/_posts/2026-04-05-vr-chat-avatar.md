@@ -14,9 +14,6 @@ description: Joing me on a journey of learning how to create custom avatars for 
 tags: project colorful vrchat 3d_modelling interactive_model
 ---
 
-<!-- General thoughts: -->
-<!--    Update photo names to avoid gallery flood -->
-
 ### Overview
 
 I have always enjoyed [VRChat](https://hello.vrchat.com/) for both the creativity on display and the unique social experiences it allows. Ever since I started learning 3D modelling for chainmail, I have thought about making a custom avatar made of individual rings. With my other project blocked by shipping delays, I thought that it was a great time to make a chainmail-inspired VRChat avatar. I ended up making [this free avatar](https://vrchat.com/home/avatar/avtr_d45d5028-e101-481c-ae7d-069af28b8414). Read on to learn more about how I made it.
@@ -82,13 +79,13 @@ A friend whom I typically play VRChat saw my unique variant and asked for one of
 
 Given the time constraints I worked under, I am happy with the amount I learned, and I think the avatars I made are a great initial step into the world of 3D modelling and rigging. I can see three primary ways to improve upon the current Mr Chain: make each ring solid and non-deforming, replace the 2-in-1 chain with a more complex weave, and add more details for more complex rigging.
 
-I used Rigify's automatic weights for each avatar I made this month. These automatic weights were very easy to set up and performed wonderfully, although some rings had their vertices influenced by more than one bone. A ring whose vertices belong to more than one bone can be deformed when the model moves. To ensure that each ring is rigid during deformation, each ring must have its vertices influenced by only one bone. Doing this requires manually assigning the rings to the bones. Unfortunately, I did not have time to experiment with that this month.
+I used Rigify's automatic weights for each avatar I made this month. These automatic weights were very easy to set up and performed wonderfully, although some rings had their vertices influenced by more than one bone. A ring whose vertices belong to more than one bone can be deformed when the model moves. To avoid this, each ring must have its vertices influenced by only one bone. Doing this requires manually assigning the rings to the bones. Unfortunately, I did not have time to experiment with that this month.
 
-Right now, Mr. Chain uses a very simple 2-in-1 Chain weave. I would like to use a more complex and visually appealing weave, as it is already more than halfway to VRChat's soft cap on the number of <abbr title="" data-tippy-content="Triangles are the fundamental primitive shapes that make up the mesh of all 3D models.">triangles</abbr> in a mesh. I can see two options to use a more complex weave while staying under the triangle limit: reduce the number of triangles per ring, or investigate texture painting and paint a weave texture on a simpler object.
+Right now, Mr. Chain uses a very simple 2-in-1 Chain weave. I would like to use a more complex and visually appealing weave. However, the model is already more than halfway to VRChat's soft cap on the number of <abbr title="" data-tippy-content="Triangles are the fundamental primitive shapes that make up the mesh of all 3D models.">triangles</abbr> in a mesh. I can see two options to use a more complex weave while staying under the triangle limit: reduce the number of triangles per ring, or investigate texture painting and paint a weave texture on a simpler object.
 
 Another interesting expansion that could be fun to try is setting up more complex rigging. I could try adding rings for eyes, a mouth or even fingers. Adding and rigging these additional features would require a more complex rig but would result in a more fleshed-out and expressive avatar that would map to the user’s body more closely.
 
-Additionally, these three improvements are not mutually exclusive and could be combined to create an even better model. However, a rigged model VRChat avatar is not the only use case; it could be a VTuber avatar,  a game character, or a character in an animation. If I expand the scope of use cases for these skills beyond avatars, I could make VRChat worlds, video game assets, or interactive educational experiences. There is an amazing variety of uses for these skills. I found this project highly rewarding, and I get excited thinking about what else I could use these skills for. If I ever run out of ideas or experience another shipping delay, I may come back to this and try some of these extension ideas.
+Additionally, these three improvements are not mutually exclusive and could be combined to create an even better model. However, a rigged model VRChat avatar is not the only use case; it could be a VTuber avatar,  a game character, or a character in an animation. If I expand the scope of use cases for these skills beyond avatars, I could make VRChat worlds, video game assets, or interactive educational experiences. There is an amazing variety of uses for these skills. I found this project highly rewarding, and I get excited thinking about what else I could use these skills for. If I ever run out of ideas, or experience another shipping delay, I may come back to this and try some of these extension ideas.
 
 
 ### Pictures
