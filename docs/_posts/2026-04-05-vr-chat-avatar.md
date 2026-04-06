@@ -205,7 +205,7 @@ Additionally, these three improvements are not mutually exclusive and could be c
 
 #### Unity Unmap Toes
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/unity_step_07_unmap_toes.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/unity_step_07_unmap_toes.png" style="max-height: min(300px, 95vh)">
 
 #### Unity Unmap Right Eye
 
@@ -213,7 +213,7 @@ Additionally, these three improvements are not mutually exclusive and could be c
 
 #### Unity Final Prep And Publish
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/unity_step_09_final_prep_and_publish.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/unity_step_09_final_prep_and_publish.png" style="max-height: min(400px, 95vh)">
 
 
 #### Mr Stick V2 Base Model
@@ -243,7 +243,7 @@ Additionally, these three improvements are not mutually exclusive and could be c
 
 #### Mr Stick V2 VRC Build Menu
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_progress_06.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_v2_progress_06.png" style="max-height: min(400px, 95vh)">
 
 
 #### Mr Chain Base Model
@@ -268,7 +268,7 @@ Additionally, these three improvements are not mutually exclusive and could be c
 
 #### Mr Chain VRC Build Menu
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mr_chain_progress_05.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mr_chain_progress_05.png" style="max-height: min(400px, 95vh)">
 
 
 #### Mrs Chain T Special 3 Materials
@@ -278,7 +278,7 @@ Additionally, these three improvements are not mutually exclusive and could be c
 
 #### Mrs Chain T Special Tweaked Solidfy Modifier
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/mrs_chain_t_special_in_process_02_solidify_modifier.png" style="max-height: min(200px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/mrs_chain_t_special_in_process_02_solidify_modifier.png" style="max-height: min(300px, 95vh)">
 
 
 #### Mrs Chain T Special Cute Bow
