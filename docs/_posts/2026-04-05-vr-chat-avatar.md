@@ -15,7 +15,6 @@ tags: project colorful vrchat 3d_modelling interactive_model
 ---
 
 <!-- General thoughts: -->
-<!--    Replace Skeleton with armature -->
 <!--    Update photo names to avoid gallery flood -->
 
 ### Overview
@@ -41,7 +40,7 @@ Originally, my plan for this month was to make chainmail coasters (coming next m
 
 #### Making My First Avatar
 
-This was the first time I had tried making a non-chainmail 3d model outside of following a step-by-step tutorial. So I decided to start as simply as possible by making a stick figure avatar. I opened Blender and laid out [five cylinders for the limbs and torso, and a torus for the head](#mr-stick-v1-starting-body). After that, I followed [FreedomArts3D](https://www.youtube.com/@FreedomArts3D)’s [tutorial](https://www.youtube.com/watch?v=tiKTq13ZA4I) on rigging models in Blender, resulting in [attaching an armature to my model](#mr-stick-v1-with-skeleton).
+This was the first time I had tried making a non-chainmail 3d model outside of following a step-by-step tutorial. So I decided to start as simply as possible by making a stick figure avatar. I opened Blender and laid out [five cylinders for the limbs and torso, and a torus for the head](#mr-stick-v1-starting-body). After that, I followed [FreedomArts3D](https://www.youtube.com/@FreedomArts3D)’s [tutorial](https://www.youtube.com/watch?v=tiKTq13ZA4I) on rigging models in Blender, resulting in [attaching an armature to my model](#mr-stick-v1-with-armature).
 
 I was testing the newly rigged model in pose mode, when I noticed that [the arm looked quite bad when it was bent](#mr-stick-v1-bad-arm-bend). I did some research and determined that it was because the arm had very few <abbr title="" data-tippy-content="Points where the object can bend.">vertices</abbr>. I decided to add more by doing some [loop cuts](https://docs.blender.org/manual/en/latest/modeling/meshes/tools/loop.html) ([photo](#mr-stick-v1-arm-loop-cuts)). The arm was able to [bend much more cleanly with the loop cuts in place](#mr-stick-v1-good-arm-bend). Assuming that would improve all other limbs and the torso, I applied loop cuts to them, [applied my standard ring grey](#mr-stick-v1-standard-grey), [set smooth shading and added my favourite black outline](#mr-stick-v1-smoothed-and-outline) before finally exporting the model as an FBX file ([settings photo](#fbx-export-settings)) in preparation for loading the model into Unity.
 
@@ -132,7 +131,7 @@ Additionally, these three improvements are not mutually exclusive and could be c
 
 <img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_progress_01_initial_body.png" style="max-height: min(200px, 95vh)">
 
-#### Mr Stick V1 With Skeleton
+#### Mr Stick V1 With Armature
 
 <img src="{{ site.baseurl }}{{ page.image_path }}/mr_stick_progress_02_with_bones.png" style="max-height: min(200px, 95vh)">
 
