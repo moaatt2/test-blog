@@ -10,8 +10,8 @@ image_path: "/assets/images/posts/2026_04_05_vr_chat_avatar"
 model_path: "/assets/models/posts/2026_04_05_vr_chat_avatar"
 main_image: "/mr_chain_vrc_standing.png"
 image:      "/assets/images/posts/2026_04_05_vr_chat_avatar/mr_chain_vrc_standing.png"
-description: Joing me on a journey of learning how to create custom avatars for VRChat.
-tags: project colorful vrchat 3d_modelling interactive_model
+description: Join me on a journey of learning how to create custom avatars for VRChat.
+tags: project colorful vrchat blender interactive_model
 ---
 
 ### Overview
