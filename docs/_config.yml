@@ -23,18 +23,26 @@ minima:
     - platform: github
       user_url: https://github.com/moaatt2
       user_title: GitHub
-    
-    - platform: email
-      user_url: "mailto:mckaymaille@gmail.com"
-      user_title: "mckaymaille@gmail.com" 
-    
-    - platform: code
-      user_url: "https://github.com/moaatt2/test-blog"
-      user_title: Source Code
+
+    - platform: mastodon
+      user_url: "https://mastodon.social/@mckaymaille"
+      user_title: Mastodon
+
+    - platform: pixelfed
+      user_url: "https://pixelfed.social/mckaymaille"
+      user_title: Pixelfed
 
     - platform: rss
       user_url: "/feed.xml"
       user_title: "RSS Feed"
+
+    - platform: email
+      user_url: "mailto:mckaymaille@gmail.com"
+      user_title: "mckaymaille@gmail.com"
+
+    - platform: code
+      user_url: "https://github.com/moaatt2/test-blog"
+      user_title: Source Code
 
 # Set a website icon
 favicon: /assets/images/icon.png
