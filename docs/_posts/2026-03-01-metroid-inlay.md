@@ -10,7 +10,7 @@ image_path: "/assets/images/posts/2026_03_01_metroid_inlay"
 main_image: "/metroid_inlay_flat.jpg"
 image:      "/assets/images/posts/2026_03_01_metroid_inlay/metroid_inlay_flat.jpg"
 description: Check out my take on a Metroid done in inlay.
-tags: project inlay colorful metroid
+tags: project inlay colourful metroid
 ---
 
 ### Overview
