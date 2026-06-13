@@ -9,7 +9,7 @@ weaves:
 image_path: "/assets/images/posts/2026_01_25_spinal_elf_jewelery_set"
 main_image: "/1_spinal_elf_jewelery_set_horizontal.jpg"
 image:      "/assets/images/posts/2026_01_25_spinal_elf_jewelery_set/1_spinal_elf_jewelery_set_horizontal.jpg"
-tags: project colourful bracelet necklace earrings
+tags: project colourful bracelet necklace earrings aluminum
 ---
 
 ### Overview

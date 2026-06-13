@@ -10,7 +10,7 @@ image_path: "/assets/images/posts/2023_06_18_medo_persian"
 main_image: "/medo_persian_flat.jpg"
 image: "/assets/images/posts/2023_06_18_medo_persian/medo_persian_flat.jpg"
 description: Join me in exploring the Medo-Persian chainmaille weave.
-tags: weave chain
+tags: weave chain aluminum
 ---
 
 ### Overview

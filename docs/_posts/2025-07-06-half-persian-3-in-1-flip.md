@@ -9,7 +9,7 @@ model_path: "/assets/models/posts/2025_07_06_half_persian_3_in_1_flip"
 main_image: "/half_persian_3_in_1_flip_flat.jpg"
 image: "/assets/images/posts/2025_07_06_half_persian_3_in_1_flip/half_persian_3_in_1_flip_flat.jpg"
 description: Join me in exploring the Half Persian 3-in-1 Flip chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

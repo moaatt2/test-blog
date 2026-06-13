@@ -9,7 +9,7 @@ image_path: "/assets/images/posts/2023_09_10_shaggy_loops"
 main_image: "/shaggy_loops_flat.jpg"
 image: "/assets/images/posts/2023_09_10_shaggy_loops/shaggy_loops_flat.jpg"
 description: Join me in exploring the Shaggy Loops chainmaille weave.
-tags: weave chain
+tags: weave chain aluminum
 ---
 
 ### Overview

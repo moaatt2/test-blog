@@ -9,7 +9,7 @@ image_path: "/assets/images/posts/2025_01_19_captive_2_in_1_parallel"
 main_image: "/captive_2_in_1_parallel_flat.jpg"
 image: "/assets/images/posts/2025_01_19_captive_2_in_1_parallel/captive_2_in_1_parallel_flat.jpg"
 description: Join me in exploring the Captive 2-in-1 Parallel chainmaille weave.
-tags: weave chain
+tags: weave chain aluminum
 ---
 
 ### Overview

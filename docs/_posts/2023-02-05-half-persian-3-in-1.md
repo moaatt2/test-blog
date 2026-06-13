@@ -8,7 +8,7 @@ model_path: "/assets/models/posts/2023_02_05_half_persian_3_in_1"
 main_image: "/half_persian_3_in_1_top.jpg"
 image: "/assets/images/posts/2023_02_05_half_persian_3_in_1/half_persian_3_in_1_top.jpg"
 description: Join me in exploring the Half Persian 3-in-1 chainmaille weave.
-tags: weave chain colourful interactive_model
+tags: weave chain colourful interactive_model aluminum
 ---
 
 ### Overview

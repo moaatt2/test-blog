@@ -7,7 +7,7 @@ image_path: "/assets/images/posts/2023_04_30_roundmaille"
 main_image: "/roundmaille_flat.jpg"
 image: "/assets/images/posts/2023_04_30_roundmaille/roundmaille_flat.jpg"
 description: Join me in exploring the Roundmaille chainmaille weave.
-tags: weave chain
+tags: weave chain aluminum
 ---
 
 ### Overview

@@ -10,7 +10,7 @@ image_path: "/assets/images/posts/2023_06_11_fieldstone"
 main_image: "/fieldstone_flat.jpg"
 image: "/assets/images/posts/2023_06_11_fieldstone/fieldstone_flat.jpg"
 description: Join me in exploring the Fieldstone chainmaille weave.
-tags: weave chain
+tags: weave chain aluminum
 ---
 
 ### Overview

@@ -10,7 +10,7 @@ model_path: "/assets/models/posts/2024_07_28_helm_chain"
 main_image: "/helm_chain_flat.jpg"
 image: "/assets/images/posts/2024_07_28_helm_chain/helm_chain_flat.jpg"
 description: Join me in exploring the Helm Chain chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

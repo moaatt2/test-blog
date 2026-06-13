@@ -9,7 +9,7 @@ image_path: "/assets/images/posts/2024_02_25_xenesthis_unit"
 main_image: "/xenesthis_unit_flat_a.jpg"
 image: "/assets/images/posts/2024_02_25_xenesthis_unit/xenesthis_unit_flat_a.jpg"
 description: Join me in exploring the Xenesthis chainmaille weave.
-tags: weave unit tutorial inverted
+tags: weave unit tutorial inverted aluminum
 ---
 
 ### Overview

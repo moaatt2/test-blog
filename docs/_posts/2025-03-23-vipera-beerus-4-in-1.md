@@ -8,7 +8,7 @@ model_path: "/assets/models/posts/2025_03_23_vipera_beerus_4_in_1"
 main_image: "/vipera_beerus_4_in_1_flat.jpg"
 image: "/assets/images/posts/2025_03_23_vipera_beerus_4_in_1/vipera_beerus_4_in_1_flat.jpg"
 description: Join me in exploring the Vipera Beerus 4-in-1 chainmaille weave.
-tags: weave band interactive_model
+tags: weave band interactive_model aluminum
 ---
 
 ### Overview

@@ -9,7 +9,7 @@ image_path: "/assets/images/posts/2024_08_04_helms_deep_chain"
 main_image: "/helms_deep_chain_flat.jpg"
 image: "/assets/images/posts/2024_08_04_helms_deep_chain/helms_deep_chain_flat.jpg"
 description: Join me in exploring the Helm's Deep chainmaille weave.
-tags: weave chain
+tags: weave chain aluminum
 ---
 
 ### Overview

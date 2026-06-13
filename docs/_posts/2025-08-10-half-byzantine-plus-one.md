@@ -9,7 +9,7 @@ model_path: "/assets/models/posts/2025_08_10_half_byzantine_plus_one"
 main_image: "/half_byzantine_plus_one_flat.jpg"
 image: "/assets/images/posts/2025_08_10_half_byzantine_plus_one/half_byzantine_plus_one_flat.jpg"
 description: Join me in exploring the Half Byzantine Plus One chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

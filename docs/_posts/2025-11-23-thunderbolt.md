@@ -9,7 +9,7 @@ model_path: "/assets/models/posts/2025_11_23_thunderbolt"
 main_image: "/thunderbolt_flat.jpg"
 image: "/assets/images/posts/2025_11_23_thunderbolt/thunderbolt_flat.jpg"
 description: Join me in exploring the Thunderbolt chainmaille weave.
-tags: weave chain orbital interactive_model
+tags: weave chain orbital interactive_model aluminum
 ---
 
 ### Overview

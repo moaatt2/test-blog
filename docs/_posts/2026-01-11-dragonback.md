@@ -10,7 +10,7 @@ model_path: "/assets/models/posts/2026_01_11_dragonback"
 main_image: "/dragonback_flat.jpg"
 image: "/assets/images/posts/2026_01_11_dragonback/dragonback_flat.jpg"
 description: Join me in exploring the Dragonback chainmaille weave.
-tags: weave band interactive_model
+tags: weave band interactive_model aluminum
 ---
 
 ### Overview

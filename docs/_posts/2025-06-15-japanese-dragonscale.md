@@ -11,7 +11,7 @@ model_path: "/assets/models/posts/2025_06_15_japanese_dragonscale"
 main_image: "/japanese_dragonscale_flat.jpg"
 image: "/assets/images/posts/2025_06_15_japanese_dragonscale/japanese_dragonscale_flat.jpg"
 description: Join me in exploring the Japanese Dragonscale chainmaille weave.
-tags: weave sheet interactive_model
+tags: weave sheet interactive_model aluminum
 ---
 
 ### Overview

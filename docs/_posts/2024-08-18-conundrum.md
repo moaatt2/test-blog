@@ -10,7 +10,7 @@ image_path: "/assets/images/posts/2024_08_18_conundrum"
 main_image: "/conundrum_flat.jpg"
 image: "/assets/images/posts/2024_08_18_conundrum/conundrum_flat.jpg"
 description: Join me in exploring the Conundrum chainmaille weave.
-tags: weave sheet
+tags: weave sheet aluminum
 ---
 
 ### Overview

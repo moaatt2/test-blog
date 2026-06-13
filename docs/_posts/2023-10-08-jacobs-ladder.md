@@ -7,7 +7,7 @@ image_path: "/assets/images/posts/2023_10_08_jacobs_ladder"
 main_image: "/jacobs_ladder_flat.jpg"
 image: "/assets/images/posts/2023_10_08_jacobs_ladder/jacobs_ladder_flat.jpg"
 description: Join me in exploring the Jacob's Ladder chainmaille weave.
-tags: weave chain spiral
+tags: weave chain spiral aluminum
 ---
 
 ### Overview

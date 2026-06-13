@@ -7,7 +7,7 @@ image_path: "/assets/images/posts/2023_07_09_byzee_beez_to_butterflies"
 main_image: "/byzee_beez_to_butterflies_flat.jpg"
 image: "/assets/images/posts/2023_07_09_byzee_beez_to_butterflies/byzee_beez_to_butterflies_flat.jpg"
 description: Join me in exploring the Byzee Beez To Butterflies chainmaille weave.
-tags: weave band
+tags: weave band aluminum
 ---
 
 ### Overview

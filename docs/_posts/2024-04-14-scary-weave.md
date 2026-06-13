@@ -10,7 +10,7 @@ image_path: "/assets/images/posts/2024_04_14_scary_weave"
 main_image: "/scary_weave_flat.jpg"
 image: "/assets/images/posts/2024_04_14_scary_weave/scary_weave_flat.jpg"
 description: Join me in exploring the Scary Weave chainmaille weave.
-tags: weave chain
+tags: weave chain aluminum
 ---
 
 ### Overview

@@ -7,7 +7,7 @@ image_path: "/assets/images/posts/2024_10_06_magemaille"
 main_image: "/magemaille_flat.jpg"
 image: "/assets/images/posts/2024_10_06_magemaille/magemaille_flat.jpg"
 description: Join me in exploring the Magemaille chainmaille weave.
-tags: weave sheet tutorial
+tags: weave sheet tutorial aluminum
 ---
 
 ### Overview

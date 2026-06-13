@@ -11,7 +11,7 @@ model_path: "/assets/models/posts/2025_02_23_oriental_scale"
 main_image: "/oriental_scale_flat.jpg"
 image: "/assets/images/posts/2025_02_23_oriental_scale/oriental_scale_flat.jpg"
 description: Join me in exploring the Oriental Scale Unit chainmaille weave.
-tags: weave unit interactive_model
+tags: weave unit interactive_model aluminum
 ---
 
 ### Overview

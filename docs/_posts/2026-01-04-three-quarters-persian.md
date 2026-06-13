@@ -9,7 +9,7 @@ model_path: "/assets/models/posts/2026_01_04_three_quarters_persian"
 main_image: "/three_quarters_persian_flat.jpg"
 image: "/assets/images/posts/2026_01_04_three_quarters_persian/three_quarters_persian_flat.jpg"
 description: Join me in exploring the Three Quarters Persian chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

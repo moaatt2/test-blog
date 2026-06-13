@@ -10,7 +10,7 @@ model_path: "/assets/models/posts/2025_06_08_harvest_moon"
 main_image: "/harvest_moon_flat_profile.jpg"
 image: "/assets/images/posts/2025_06_08_harvest_moon/harvest_moon_flat_profile.jpg"
 description: Join me in exploring the Harvest Moon chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

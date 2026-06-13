@@ -9,7 +9,7 @@ weaves:
 image_path: "/assets/images/posts/2026_02_01_pheonix_wright_inlay"
 main_image: "/pheonix_wright_inlay_flat_narrow_black.jpg"
 image:      "/assets/images/posts/2026_02_01_pheonix_wright_inlay/pheonix_wright_inlay_flat_narrow_black.jpg"
-tags: project inlay colourful ace_attorney
+tags: project inlay colourful ace_attorney aluminum
 ---
 
 <!-- TODO: -->

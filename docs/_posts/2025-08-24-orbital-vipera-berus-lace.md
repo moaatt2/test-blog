@@ -9,7 +9,7 @@ model_path: "/assets/models/posts/2025_08_24_orbital_vipera_berus_lace"
 main_image: "/orbital_vipera_berus_lace_flat.jpg"
 image: "/assets/images/posts/2025_08_24_orbital_vipera_berus_lace/orbial_vipera_berus_lace_flat.jpg"
 description: Join me in exploring the Orbital Vipera Berus Lace chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

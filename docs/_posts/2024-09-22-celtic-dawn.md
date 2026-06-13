@@ -10,7 +10,7 @@ image_path: "/assets/images/posts/2024_09_22_celtic_dawn"
 main_image: "/celtic_dawn_flat.jpg"
 image: "/assets/images/posts/2024_09_22_celtic_dawn/celtic_dawn_flat.jpg"
 description: Join me in exploring the Celtic Dawn chainmaille weave.
-tags: weave chain
+tags: weave chain aluminum
 ---
 
 ### Overview

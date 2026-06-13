@@ -11,7 +11,7 @@ model_path: "/assets/models/posts/2025_03_16_inverted_oriental_scale_unit"
 main_image: "/inverted_oriental_scale_unit_flat.jpg"
 image: "/assets/images/posts/2025_03_16_inverted_oriental_scale_unit/inverted_oriental_scale_unit_flat.jpg"
 description: Join me in exploring the Inverted Oriental Scale Unit chainmaille weave.
-tags: weave unit inverted interactive_model
+tags: weave unit inverted interactive_model aluminum
 ---
 
 ### Overview

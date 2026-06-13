@@ -9,7 +9,7 @@ model_path: "/assets/models/posts/2025_12_28_horse_feathers"
 main_image: "/horse_feathers_flat.jpg"
 image: "/assets/images/posts/2025_12_28_horse_feathers/horse_feathers_flat.jpg"
 description: Join me in exploring the Horse Feathers chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

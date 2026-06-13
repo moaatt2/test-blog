@@ -10,7 +10,7 @@ image_path: "/assets/images/posts/2024_06_30_cloud_cover"
 main_image: "/cloud_cover_flat.jpg"
 image: "/assets/images/posts/2024_06_30_cloud_cover/cloud_cover_flat.jpg"
 description: Join me in exploring the Cloud Cover chainmaille weave.
-tags: weave chain
+tags: weave chain aluminum
 ---
 
 ### Overview

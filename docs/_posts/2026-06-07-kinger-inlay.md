@@ -10,7 +10,7 @@ image_path: "/assets/images/posts/2026_06_07_kinger_inlay_jacket"
 main_image: "/kinger_inlay_jacket_inlay_sewn_to_jacket.jpg"
 image:      "/assets/images/posts/2026_06_07_kinger_inlay_jacket/kinger_inlay_jacket_inlay_sewn_to_jacket.jpg"
 description: "Checkout my awesome Kinger Inlay Jacket, the first part of my chainmail battle jacket."
-tags: project inlay colourful the_amazing_digital_circus battle_jacket sewing
+tags: project inlay colourful the_amazing_digital_circus battle_jacket sewing aluminum
 ---
 
 ### Overview

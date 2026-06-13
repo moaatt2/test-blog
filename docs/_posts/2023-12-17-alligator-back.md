@@ -9,7 +9,7 @@ image_path: "/assets/images/posts/2023_12_17_alligator_back"
 main_image: "/alligator_back_flat.jpg"
 image: "/assets/images/posts/2023_12_17_alligator_back/alligator_back_flat.jpg"
 description: Join me in exploring the Alligator Back chainmaille weave.
-tags: weave band
+tags: weave band aluminum
 ---
 
 ### Overview

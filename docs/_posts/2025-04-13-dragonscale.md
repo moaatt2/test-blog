@@ -10,7 +10,7 @@ model_path: "/assets/models/posts/2025_04_13_dragonscale"
 main_image: "/dragonscale_flat.jpg"
 image: "/assets/images/posts/2025_04_13_dragonscale/dragonscale_flat.jpg"
 description: Join me in exploring the Dragonscale chainmaille weave.
-tags: weave sheet interactive_model
+tags: weave sheet interactive_model aluminum
 ---
 
 ### Overview

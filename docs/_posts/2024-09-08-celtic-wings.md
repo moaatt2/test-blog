@@ -10,7 +10,7 @@ image_path: "/assets/images/posts/2024_09_08_celtic_wings"
 main_image: "/celtic_wings_flat.jpg"
 image: "/assets/images/posts/2024_09_08_celtic_wings/celtic_wings_flat.jpg"
 description: Join me in exploring the Celtic Wings chainmaille weave.
-tags: weave band
+tags: weave band aluminum
 ---
 
 ### Overview

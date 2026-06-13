@@ -9,7 +9,7 @@ model_path: "/assets/models/posts/2025_06_01_this_is_not_food"
 main_image: "/this_is_not_food_flat.jpg"
 image: "/assets/images/posts/2025_06_01_this_is_not_food/this_is_not_food_flat.jpg"
 description: Join me in exploring the This Is Not Food chainmaille weave.
-tags: weave chain spiral interactive_model
+tags: weave chain spiral interactive_model aluminum
 ---
 
 ### Overview

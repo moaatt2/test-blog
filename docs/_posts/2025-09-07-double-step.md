@@ -10,7 +10,7 @@ model_path: "/assets/models/posts/2025_09_07_double_step"
 main_image: "/double_step_flat.jpg"
 image: "/assets/images/posts/2025_09_07_double_step/double_step_flat.jpg"
 description: Join me in exploring the Double Step chainmaille weave.
-tags: weave chain kinged tutorial interactive_model
+tags: weave chain kinged tutorial interactive_model aluminum
 ---
 
 ### Overview

@@ -7,7 +7,7 @@ image_path: "/assets/images/posts/2024_12_01_firemans_hold_4"
 main_image: "/firemans_hold_4_flat.jpg"
 image: "/assets/images/posts/2024_12_01_firemans_hold_4/firemans_hold_4_flat.jpg"
 description: Join me in exploring the Fireman's Hold 4 chainmaille weave.
-tags: weave unit
+tags: weave unit aluminum
 ---
 
 ### Overview

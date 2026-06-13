@@ -11,7 +11,7 @@ model_path: "/assets/models/posts/2025_11_30_fleur_de_lis"
 main_image: "/fleur_de_lis_flat.jpg"
 image: "/assets/images/posts/2025_11_30_fleur_de_lis/fleur_de_lis_flat.jpg"
 description: Join me in exploring the Fleur-de-lis chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

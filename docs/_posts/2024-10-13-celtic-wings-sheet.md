@@ -10,7 +10,7 @@ image_path: "/assets/images/posts/2024_10_13_celtic_wings_sheet"
 main_image: "/celtic_wings_sheet_flat.jpg"
 image: "/assets/images/posts/2024_10_13_celtic_wings_sheet/celtic_wings_sheet_flat.jpg"
 description: Join me in exploring the Celtic Wings Sheet chainmaille weave.
-tags: weave sheet
+tags: weave sheet aluminum
 ---
 
 ### Overview

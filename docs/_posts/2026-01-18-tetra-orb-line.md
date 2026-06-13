@@ -9,7 +9,7 @@ model_path: "/assets/models/posts/2026_01_18_tetraorb_line"
 main_image: "/tetraorb_line_flat.jpg"
 image: "/assets/images/posts/2026_01_18_tetraorb_line/tetraorb_line_flat.jpg"
 description: Join me in exploring the Tetraorb Line chainmaille weave.
-tags: weave chain orbital tutorial interactive_model
+tags: weave chain orbital tutorial interactive_model aluminum
 ---
 
 ### Overview

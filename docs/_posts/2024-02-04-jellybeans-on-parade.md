@@ -9,7 +9,7 @@ image_path: "/assets/images/posts/2024_02_04_jellybeans_on_parade"
 main_image: "/jellybeans_on_parade_flat.jpg"
 image: "/assets/images/posts/2024_02_04_jellybeans_on_parade/jellybeans_on_parade_flat.jpg"
 description: Join me in exploring the Jellybeans on Parade chainmaille weave.
-tags: weave chain tutorial
+tags: weave chain tutorial aluminum
 ---
 
 ### Overview

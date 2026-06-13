@@ -10,7 +10,7 @@ model_path: "/assets/models/posts/2025_11_09_jens_pind_linkage"
 main_image: "/jens_pind_linkage_flat.jpg"
 image: "/assets/images/posts/2025_11_09_jens_pind_linkage/jens_pind_linkage_flat.jpg"
 description: Join me in exploring the Jens Pind Linkage chainmaille weave.
-tags: weave chain spiral interactive_model
+tags: weave chain spiral interactive_model aluminum
 ---
 
 ### Overview

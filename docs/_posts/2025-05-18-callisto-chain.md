@@ -10,7 +10,7 @@ model_path: "/assets/models/posts/2025_05_18_callisto_chain"
 main_image: "/callisto_chain_flat.jpg"
 image: "/assets/images/posts/2025_05_18_callisto_chain/callisto_chain_flat.jpg"
 description: Join me in exploring the Callisto Chain chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

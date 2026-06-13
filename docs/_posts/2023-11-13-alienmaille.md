@@ -7,7 +7,7 @@ image_path: "/assets/images/posts/2023_11_13_alienmaille"
 main_image: "/alienmaille_flat.jpg"
 image: "/assets/images/posts/2023_11_13_alienmaille/alienmaille_flat.jpg"
 description: Join me in exploring the Alienmaille chainmaille weave.
-tags: weave band
+tags: weave band aluminum
 ---
 
 ### Overview

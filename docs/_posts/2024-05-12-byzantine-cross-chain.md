@@ -7,7 +7,7 @@ image_path: "/assets/images/posts/2024_05_12_byzantine_cross_chain"
 main_image: "/byzantine_cross_chain_flat.jpg"
 image: "/assets/images/posts/2024_05_12_byzantine_cross_chain/byzantine_cross_chain_flat.jpg"
 description: Join me in exploring the Byzantine Cross Chain chainmaille weave.
-tags: weave chain spiked
+tags: weave chain spiked aluminum
 ---
 
 ### Overview

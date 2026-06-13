@@ -7,7 +7,7 @@ image_path: "/assets/images/posts/2024_03_31_gridlock_byzantine"
 main_image: "/gridlock_byzantine_flat.jpg"
 image: "/assets/images/posts/2024_03_31_gridlock_byzantine/gridlock_byzantine_flat.jpg"
 description: Join me in exploring the Gridlock Byzantine chainmaille weave.
-tags: weave band inverted
+tags: weave band inverted aluminum
 ---
 
 ### Overview

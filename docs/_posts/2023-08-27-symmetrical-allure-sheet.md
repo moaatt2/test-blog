@@ -9,7 +9,7 @@ image_path: "/assets/images/posts/2023_08_27_symmetrical_allure_sheet"
 main_image: "/symmetrical_allure_sheet_flat.jpg"
 image: "/assets/images/posts/2023_08_27_symmetrical_allure_sheet/symmetrical_allure_sheet_flat.jpg"
 description: Join me in exploring the Symmetrical Allure Sheet chainmaille weave.
-tags: weave chain
+tags: weave chain aluminum
 ---
 
 ### Overview

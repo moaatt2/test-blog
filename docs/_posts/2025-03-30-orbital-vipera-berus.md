@@ -8,7 +8,7 @@ model_path: "/assets/models/posts/2025_03_30_orbital_vipera_berus"
 main_image: "/orbital_vipera_beerus_flat.jpg"
 image: "/assets/images/posts/2025_03_30_orbital_vipera_berus/orbital_vipera_beerus_flat.jpg"
 description: Join me in exploring the Orbital Vipera Beerus chainmaille weave.
-tags: weave chain orbital
+tags: weave chain orbital aluminum
 ---
 
 ### Overview

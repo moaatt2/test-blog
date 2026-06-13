@@ -9,7 +9,7 @@ image_path: "/assets/images/posts/2023_08_13_hoodoo_sheet"
 main_image: "/hoodoo_sheet_flat.jpg"
 image: "/assets/images/posts/2023_08_13_hoodoo_sheet/hoodoo_sheet_flat.jpg"
 description: Join me in exploring the Hoodoo Sheet chainmaille weave.
-tags: weave sheet
+tags: weave sheet aluminum
 ---
 
 ### Overview

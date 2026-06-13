@@ -10,7 +10,7 @@ model_path: "/assets/models/posts/2025_05_11_shenanigans"
 main_image: "/shenanigans_flat.jpg"
 image: "/assets/images/posts/2025_05_11_shenanigans/shenanigans_flat.jpg"
 description: Join me in exploring the Shenanigans chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

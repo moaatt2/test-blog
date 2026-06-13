@@ -9,7 +9,7 @@ model_path: "/assets/models/posts/2025_10_12_byzee_wench"
 main_image: "/byzee_wench_flat.jpg"
 image: "/assets/images/posts/2025_10_12_byzee_wench/byzee_wench_flat.jpg"
 description: Join me in exploring the Byzee Wench chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

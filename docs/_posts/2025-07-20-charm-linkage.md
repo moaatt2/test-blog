@@ -10,7 +10,7 @@ model_path: "/assets/models/posts/2025_07_20_charm_linkage"
 main_image: "/charm_linkage_flat.jpg"
 image: "/assets/images/posts/2025_07_20_charm_linkage/charm_linkage_flat.jpg"
 description: Join me in exploring the Charm Linkage chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

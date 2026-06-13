@@ -10,7 +10,7 @@ image_path: "/assets/images/posts/2024_09_01_helm_sheet"
 main_image: "/helm_sheet_flat.jpg"
 image: "/assets/images/posts/2024_09_01_helm_sheet/helm_sheet_flat.jpg"
 description: Join me in exploring the Helm Sheet chainmaille weave.
-tags: weave sheet tutorial
+tags: weave sheet tutorial aluminum
 ---
 
 ### Overview

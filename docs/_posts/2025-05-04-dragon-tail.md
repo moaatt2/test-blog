@@ -8,7 +8,7 @@ model_path: "/assets/models/posts/2025_05_04_dragon_tail"
 main_image: "/dragon_tail_flat.jpg"
 image: "/assets/images/posts/2025_05_04_dragon_tail/dragon_tail_flat.jpg"
 description: Join me in exploring the Dragon Tail chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview

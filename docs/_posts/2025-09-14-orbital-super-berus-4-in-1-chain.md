@@ -9,7 +9,7 @@ model_path: "/assets/models/posts/2025_09_14_orbital_super_berus_4_in_1_chain"
 main_image: "/orbital_super_berus_4_in_1_chain_flat.jpg"
 image: "/assets/images/posts/2025_09_14_orbital_super_berus_4_in_1_chain/orbital_super_berus_4_in_1_chain_flat.jpg"
 description: Join me in exploring the Orbital Super Berus 4-in-1 Chain chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 <!-- Shot with two point lighting -->

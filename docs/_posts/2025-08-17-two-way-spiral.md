@@ -9,7 +9,7 @@ model_path: "/assets/models/posts/2025_08_17_two_way_spiral"
 main_image: "/two_way_spiral_flat.jpg"
 image: "/assets/images/posts/2025_08_17_two_way_spiral/two_way_spiral_flat.jpg"
 description: Join me in exploring the Two-Way Spiral chainmaille weave.
-tags: weave chain spiral tutorial interactive_model
+tags: weave chain spiral tutorial interactive_model aluminum
 ---
 
 ### Overview

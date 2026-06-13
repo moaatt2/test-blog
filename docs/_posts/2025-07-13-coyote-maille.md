@@ -10,7 +10,7 @@ model_path: "/assets/models/posts/2025_07_13_coyote_maille"
 main_image: "/coyote_maille_flat.jpg"
 image: "/assets/images/posts/2025_07_13_coyote_maille/coyote_maille_flat.jpg"
 description: Join me in exploring the Coyote Maille chainmaille weave.
-tags: weave sheet interactive_model
+tags: weave sheet interactive_model aluminum
 ---
 
 ### Overview

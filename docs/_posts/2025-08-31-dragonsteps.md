@@ -10,7 +10,7 @@ model_path: "/assets/models/posts/2025_08_31_dragonsteps"
 main_image: "/dragonsteps_flat.jpg"
 image: "/assets/images/posts/2025_08_31_dragonsteps/dragonsteps_flat.jpg"
 description: Join me in exploring the Dragonsteps chainmaille weave.
-tags: weave chain interactive_model
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview
