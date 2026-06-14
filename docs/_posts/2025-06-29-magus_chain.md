@@ -10,7 +10,7 @@ model_path: "/assets/models/posts/2025_06_29_magus_chain"
 main_image: "/magus_chain_flat.jpg"
 image: "/assets/images/posts/2025_06_29_magus_chain/magus_chain_flat.jpg"
 description: Join me in exploring the Magus Chain chainmaille weave.
-tags: weave chain interactive_model aluminum
+tags: weave chain interactive_model aluminum copper
 ---
 
 ### Overview
