@@ -6,10 +6,11 @@ families:
     - European
     - Japanese
 image_path: "/assets/images/posts/2023_04_16_back_to_work"
+model_path: "/assets/models/posts/2023_04_16_back_to_work"
 main_image: "/back_to_work_flat.jpg"
 image: "/assets/images/posts/2023_04_16_back_to_work/back_to_work_flat.jpg"
 description: Join me in exploring the Back To Work chainmaille weave.
-tags: weave chain aluminum
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview
@@ -52,3 +53,9 @@ Back To Work is a weave that is easy to make, but it can be challenging to start
 <br>
 
 <img src="{{ site.baseurl }}{{ page.image_path }}/back_to_work_step_04.jpg" class="post-process-image-150">
+
+
+### Interactive Model {% include 3d_model_instructions.html %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/back_to_work.glb" %}
+{% include 3d_model.html model=path %}
