@@ -6,10 +6,11 @@ families:
     - European
     - Mobius
 image_path: "/assets/images/posts/2023_05_14_spinal_elf"
+model_path: "/assets/models/posts/2023_05_14_spinal_elf"
 main_image: "/spinal_elf_flat.jpg"
 image: "/assets/images/posts/2023_05_14_spinal_elf/spinal_elf_flat.jpg"
 description: Join me in exploring the Spinal Elf chainmaille weave.
-tags: weave chain tutorial aluminum
+tags: weave chain tutorial interactive_model aluminum
 ---
 
 ### Overview
@@ -27,6 +28,10 @@ The rings used for the sample piece shown in this post are 16 {% include abbrevi
 Since Spinal Elf was only posted to the image gallery, no tutorial was provided. However, all you need to do to make Spinal Elf is add rings to an existing Elfweave chain. First, designate one side as the bottom and place that side up. Then add rings between each pair of rings highlighted in blue in the image below on one side of the chain. Make sure the rings you add only go through the two blue rings, unlike the rings highlighted in red.
 
 <img src="{{ site.baseurl }}{{ page.image_path }}/spinal_elf_base_tutorial_image.jpg" style="width: min(500px, 100%)">
+
+<!-- Special inclusion of full size model to match old tutorial style -->
+{% assign path = site.baseurl | append: page.model_path | append: "/spinal_elf_tutorial_01.glb" %}
+{% include 3d_model.html model=path canvas_id="step_01" %}
 
 
 ### Notes
@@ -47,3 +52,9 @@ Spinal Elf is a chainmail weave derived from Elfweave and is relatively simple t
 #### Flat: Profile
 
 <img src="{{ site.baseurl }}{{ page.image_path }}/spinal_elf_flat_profile.jpg" style="width: min(500px, 100%)">
+
+
+### Interactive Model {% include 3d_model_instructions.html %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/spinal_elf.glb" %}
+{% include 3d_model.html model=path %}
