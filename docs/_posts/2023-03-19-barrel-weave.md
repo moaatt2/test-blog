@@ -6,10 +6,11 @@ families:
     - European
     - Rhino
 image_path: "/assets/images/posts/2023_03_19_barrel_weave"
+model_path: "/assets/models/posts/2023_03_19_barrel_weave"
 main_image: "/barrel_weave_flat.jpg"
 image: "/assets/images/posts/2023_03_19_barrel_weave/barrel_weave_flat.jpg"
 description: Join me in exploring the Barrel Weave chainmaille weave.
-tags: weave chain aluminum
+tags: weave chain interactive_model aluminum
 ---
 
 ### Overview
@@ -57,3 +58,9 @@ Barrel is a simple weave to make. The sample piece shown in this post is a bit l
 <br>
 
 <img src="{{ site.baseurl }}{{ page.image_path }}/barrel_weave_step_05.jpg" style="max-width: min(500px, 100%)">
+
+
+### Interactive Model {% include 3d_model_instructions.html %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/barrel_weave.glb" %}
+{% include 3d_model.html model=path %}
