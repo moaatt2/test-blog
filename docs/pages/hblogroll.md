@@ -19,3 +19,4 @@ Links to my other websites, my friends websites, and other pages I like.
 * [Chainmailers.com](https://chainmaillers.com/) - A chainmail forum that is currently active.
 * [M.A.I.L.](https://www.mailleartisans.org/) - A read only website with a ton of chainmail tutorials, weaves and project ideas.
 * [Chainmaille Wiki](https://maille.wiki/) - A public wiki for chainmail that is currently active.
+* [Off The Chain](https://discord.gg/K2FsxGPvDB) - A highly active public chainmail discord.
