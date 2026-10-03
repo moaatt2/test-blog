@@ -14,7 +14,7 @@ tags: project inlay colourful homestuck aluminum
 
 ### Overview
 
-I have been a fan of [Homestuck](https://homestuck.com/) since 2010, so I decided to create an inlay of Karkat Vantas, one of my favourite characters. Homestuck thankfully has pixel art sprites for Karkat in Alternabound, which helped; however, I had to modify the sprite to work with the reduced colour palette. Every time I see the inlay hanging on the wall, it makes me happy.
+I have been a fan of [Homestuck](https://homestuck.com/) since 2010, so I decided to create an inlay of Karkat Vantas, one of my favourite characters. Homestuck thankfully has pixel art sprites for Karkat in [Alterniabound](https://homestuck.com/004692), which helped; however, I had to modify the sprite to work with the reduced colour palette. Every time I see the inlay hanging on the wall, it makes me happy.
 
 
 ### Materials
@@ -34,7 +34,7 @@ I bought all the rings used in this project from [The Ring Lord](https://thering
 
 #### Designing the Inlay
 
-Finding a starting point for the design was easy, since an interactive page ([Alterniabound](https://homestuck.com/004692)) lets you control Karkat, represented as a pixel art sprite (shown [here](#original-alteriabound-sprite)). The original sprite uses various shades of grey and black to add depth. When I ran the base image through [Pixel Art Helper](https://github.com/moaatt2/pixel_art_helper) to find the closest colours, the result was messy and poorly simplified, as the palette only had one white, one grey and one black. This meant I had to simplify the sprite's colour palette. To do so, I opened the original image with [Pixelorama](https://pixelorama.org/) and created these [modified versions](#modified-sprites). I then used Pixel Art Helper to create a preview of the inlay (shown [here](#11-inlay-preview)). The result was barely recognizable, so I used Pixel Art Helper to double each dimension, giving the clearer result shown [inlay preview](#final-inlay-preview).
+Finding a starting point for the design was easy, since Alterniabound (an interactive page) lets you control Karkat, represented as a pixel art sprite (shown [here](#original-alteriabound-sprite)). The original sprite uses various shades of grey and black to add depth. When I ran the base image through [Pixel Art Helper](https://github.com/moaatt2/pixel_art_helper) to find the closest colours, the result was messy and poorly simplified, as the palette only had one white, one grey and one black. This meant I had to simplify the sprite's colour palette. To do so, I opened the original image with [Pixelorama](https://pixelorama.org/) and created these [modified versions](#modified-sprites). I then used Pixel Art Helper to create a preview of the inlay (shown [here](#11-inlay-preview)). The result was barely recognizable, so I used Pixel Art Helper to double each dimension, giving the clearer result shown [inlay preview](#final-inlay-preview).
 
 
 #### Creating & Hanging The Inlay
@@ -44,7 +44,7 @@ As my fifth [European 4-in-1]({{ site.baseurl }}{% post_url 2023-02-12-european_
 
 #### Conclusion
 
-This is actually my largest inlay to date (16 more rings than the [Metroid Inlay]({{ site.baseurl }}{% post_url 2026-03-01-metroid-inlay %})), and I am very happy with the result. Every time I see it hanging on the wall and see how nice it looks, it makes me happy. The inlay has been hanging for 7 days, and the hanger is holding up, which is good news, though I will probably stop using wire hangers for inlays this large. Overall, I am very happy with the inlay, and I look forward to eventually completing the set.
+This is actually my largest inlay to date (16 more rings than the [Metroid Inlay]({{ site.baseurl }}{% post_url 2026-03-01-metroid-inlay %})), and I am very happy with the result. Every time I see it hanging on the wall and see how nice it looks, it makes me happy. The inlay has been hanging for 7 days, and the hanger is holding up, which is good news, though I will probably stop using wire hangers for inlays this large. Overall, I am very happy with the inlay, and I look forward to eventually making an inlay of each of the main 12 trolls.
 
 
 ### Pictures
