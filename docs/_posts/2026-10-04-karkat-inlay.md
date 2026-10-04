@@ -34,7 +34,7 @@ I bought all the rings used in this project from [The Ring Lord](https://thering
 
 #### Designing the Inlay
 
-Finding a starting point for the design was easy, since Alterniabound (an interactive page) lets you control Karkat, represented as a pixel art sprite (shown [here](#original-alteriabound-sprite)). The original sprite uses various shades of grey and black to add depth. When I ran the base image through [Pixel Art Helper](https://github.com/moaatt2/pixel_art_helper) to find the closest colours, the result was messy and poorly simplified, as the palette only had one white, one grey and one black. This meant I had to simplify the sprite's colour palette. To do so, I opened the original image with [Pixelorama](https://pixelorama.org/) and created these [modified versions](#modified-sprites). I then used Pixel Art Helper to create a preview of the inlay (shown [here](#11-inlay-preview)). The result was barely recognizable, so I used Pixel Art Helper to double each dimension, giving the clearer result shown [inlay preview](#final-inlay-preview).
+Finding a starting point for the design was easy, since Alterniabound (an interactive page) lets you control Karkat, represented as a pixel art sprite (shown [here](#original-alteriabound-sprite)). The original sprite uses various shades of grey and black to add depth. When I ran the base image through [Pixel Art Helper](https://github.com/moaatt2/pixel_art_helper) to find the closest colours, the result was messy and poorly simplified, as the palette only had one white, one grey and one black. This meant I had to simplify the sprite's colour palette. To do so, I opened the original image with [Pixelorama](https://pixelorama.org/) and created [these modified versions](#modified-sprites). I then used Pixel Art Helper to create a preview of the inlay (shown [here](#11-inlay-preview)). The result was barely recognizable, so I used Pixel Art Helper to double each dimension, giving the clearer result shown [here](#final-inlay-preview).
 
 
 #### Creating & Hanging The Inlay
@@ -279,4 +279,4 @@ This is actually my largest inlay to date (16 more rings than the [Metroid Inlay
 
 <br>
 
-<img src="{{ site.baseurl }}{{ page.image_path }}/karkat_inlay_flat_neutral.jpg" style="width: min(750px, 95vh)">
+<img src="{{ site.baseurl }}{{ page.image_path }}/karkat_inlay_flat_neutral.jpg" style="max-height: min(200px, 95vh)">
