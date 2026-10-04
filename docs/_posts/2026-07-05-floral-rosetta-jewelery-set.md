@@ -10,7 +10,7 @@ image_path: "/assets/images/posts/2026_07_05_floral_rosetta_jewelery_set"
 main_image: "/floral_rosetta_jewelery_set__flat.jpg"
 image:      "/assets/images/posts/2026_07_05_floral_rosetta_jewelery_set/floral_rosetta_jewelery_set__flat.jpg"
 description: "Check out this fun floral inspired Rosetta bracelet and earring combo"
-tags: project inlay colourful bracelet earrings aluminum
+tags: project colourful bracelet earrings aluminum
 ---
 
 ### Overview
